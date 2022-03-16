@@ -4,6 +4,11 @@
 
 * Users that have a pasture, sheep, and sweet treats in their wallet can play without requesting permission.
 * User can find NFTs(pasture, sheep, decoration) at Opensea([https://opensea.io/collection /sheepfarm](https://opensea.io/collection/sheepfarm)) or Palasquare([https://pala.world/square](https://pala.world/square)) for playing the game.&#x20;
+
+![\<NFT Marketplace Opensea - https://opensea.io/collection/sheepfarm>](<../../.gitbook/assets/opensea main.PNG>)
+
+![\<NFT Marketplace Opensea - https://pala.world/square>](../../.gitbook/assets/palasquare.PNG)
+
 * Sweet treats for eating sheep is not NFT, so user need to buy it at the website ([https://sheepfarm.io](https://sheepfarm.io)).
 
 ### Using NFT in the Meta-land
