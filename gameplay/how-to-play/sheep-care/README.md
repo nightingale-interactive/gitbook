@@ -22,7 +22,7 @@
 
 ![\<Sheep loves to be cleaned!!>](../../../.gitbook/assets/19.png)
 
-* Sheep will produce wool quickly and get "Intimacy" if they feel beloved. And "Intimacy" of sheep is required for morphing("Intimacy will be updated at open beta season).
+* Sheep will produce wool quickly and get "Friendship" if they feel beloved. And "Friendship" of sheep is required for morphing("Intimacy will be updated at open beta season).
 
 ### Shearing sheep
 
