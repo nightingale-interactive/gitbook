@@ -28,6 +28,7 @@
 * [Combo Effect](gameplay/combo-effect/README.md)
   * [Combo List](gameplay/combo-effect/combo-list.md)
 * [PVP](gameplay/pvp.md)
+* [Music](gameplay/music.md)
 
 ## ECONOMY
 
