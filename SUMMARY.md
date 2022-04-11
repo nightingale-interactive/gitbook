@@ -14,6 +14,7 @@
     * [Feeding](gameplay/how-to-play/sheep-care/feeding.md)
   * [Pasture decoration](gameplay/how-to-play/pasture-decoration.md)
   * [Earning and Using MARD](gameplay/how-to-play/earning-and-using-mard.md)
+  * [Morphing](gameplay/how-to-play/morphing.md)
 * [Pastures](gameplay/pastures/README.md)
   * [Stewart Island](gameplay/pastures/stewart-island.md)
   * [Pre-sale](gameplay/pastures/pre-sale.md)
