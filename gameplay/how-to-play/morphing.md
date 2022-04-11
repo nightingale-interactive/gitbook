@@ -11,13 +11,13 @@
 
 * Click the Sheep morphing button in the Shop section.
 
-![](<../../.gitbook/assets/Morphing page.PNG>)
+![< Sheep morphing page >](<../../.gitbook/assets/Morphing page.PNG>)
 
 * Pick two sheep of the same grade and place them on each board.
 
-![](<../../.gitbook/assets/Male sheep.png>)
+![< Find sheep on male board / female board >](<../../.gitbook/assets/Male sheep.png>)
 
-![](../../.gitbook/assets/sheeploaded.png)
+![< Two sheep are loaded >](../../.gitbook/assets/sheeploaded.png)
 
 * After two sheep are ready, you can start morphing with paying some fees.&#x20;
   * For normal sheep morphing, you need to pay 10 MARD(Normal morphing) or 20 MARD(Advanced Morphing)
@@ -25,10 +25,10 @@
   * For epic sheep morphing is not available yet. It can be updated when higher grade of sheep appear.
   * Difference between Normal and advanced morphing will be 5% of chance to get higher grade of sheep.
 
-![](<../../.gitbook/assets/fee selection.png>)
+![< Morphing fees >](<../../.gitbook/assets/fee selection.png>)
 
 * You can get new sheep! You can find new sheep at real-world item list of inventory section.
   * Sheep used in morphing will not be appeared as a new sheep.
   * Please stay tune when you morphing process is going on. It may take some time to process due to Main-net network problems.
 
-![](<../../.gitbook/assets/Morphing successful.png>)
+![< New sheep is appeared!! >](<../../.gitbook/assets/Morphing successful.png>)
