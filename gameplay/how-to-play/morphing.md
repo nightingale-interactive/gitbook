@@ -37,7 +37,7 @@
 
 ### Find new sheep
 
-* Some sheep will be appeared only for morphing
+* Some sheep is appeared only for morphing.
 
 | Features |                  Ominous Nocturne                 |                  Captain Keelson                 |
 | :------: | :-----------------------------------------------: | :----------------------------------------------: |
