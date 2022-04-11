@@ -32,3 +32,14 @@
   * Please stay tune when you morphing process is going on. It may take some time to process due to Main-net network problems.
 
 ![< New sheep is appeared!! >](<../../.gitbook/assets/Morphing successful.png>)
+
+
+
+### Find new sheep
+
+* Some sheep will be appeared only for morphing
+
+| Features |                  Ominous Nocturne                 |                  Captain Keelson                 |
+| :------: | :-----------------------------------------------: | :----------------------------------------------: |
+|   Grade  |                        Rare                       |                       Epic                       |
+|   Image  | ![](<../../.gitbook/assets/Ominous Nocturne.png>) | ![](<../../.gitbook/assets/Captain Keelson.png>) |
