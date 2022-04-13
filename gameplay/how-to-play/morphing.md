@@ -1,34 +1,34 @@
 # Morphing
 
-### Before to try morphing
+### Before you begin
 
-1. Preparing two equal grade of sheep  and a fee of MARD shall be required in your wallet.
+1. You'll need two sheep of the same grade in your wallet, as well as enough MARD to cover the morphing fee.
 2. Two sheep for using to morph shall have different gender.
 
 
 
-### The way of morphing
+### Morphing your sheep
 
-* Click the Sheep morphing button in the Shop section.
+* Navigate to our website's Shop menu and click the Sheep Morphing tab.
 
 ![< Sheep morphing page >](<../../.gitbook/assets/Morphing page.PNG>)
 
-* Pick two sheep of the same grade and place them on each board.
+* Select one male and one female sheep of the same grade from among the available options.
 
 ![< Find sheep on male board / female board >](<../../.gitbook/assets/Male sheep.png>)
 
 ![< Two sheep are loaded >](../../.gitbook/assets/sheeploaded.png)
 
-* After two sheep are ready, you can start morphing with paying some fees.&#x20;
+* Once your two sheep are ready, you can begin morphing them for a standard fee.
   * For normal sheep morphing, you need to pay 10 MARD(Normal morphing) or 20 MARD(Advanced Morphing)
   * For rare sheep morphing, you need to pay 25 MARD(Normal morphing) or 50 MARD (Advanced Morphing).
-  * For epic sheep morphing is not available yet. It can be updated when higher grade of sheep appear.
-  * Difference between Normal and advanced morphing will be 5% of chance to get higher grade of sheep.
+  * Morphing Epic sheep is not currently possible, but will become available once higher grades of sheep are introduced.
+  * The difference between normal and advanced morphing is that advanced morphing provides a 5% more increase in the probability of obtaining a higher-grade sheep.
 
 ![< Morphing fees >](<../../.gitbook/assets/fee selection.png>)
 
-* You can get new sheep! You can find new sheep at real-world item list of inventory section.
-  * Sheep used in morphing will not be appeared as a new sheep.
+* Once your morphing is complete, you will be able to locate your new sheep in the Real-world section of the Inventory menu.
+  * The same kind of sheep which is used in morphing will not be appeared as a new sheep.
   * Please stay tune when you morphing process is going on. It may take some time to process due to Main-net network problems.
 
 ![< New sheep is appeared!! >](<../../.gitbook/assets/Morphing successful.png>)
@@ -37,7 +37,7 @@
 
 ### Find new sheep
 
-* Some sheep is appeared only for morphing.
+* Some sheep can only be obtained through morphing!
 
 | Features |                  Ominous Nocturne                 |                  Captain Keelson                 |
 | :------: | :-----------------------------------------------: | :----------------------------------------------: |
