@@ -20,7 +20,7 @@ Uprise provides a crypto robo-advisor service called HEYBIT to make cryptocurren
 
 
 
-![](.gitbook/assets/partner\_ozys.png)
+<img src=".gitbook/assets/partner_ozys.png" alt="" data-size="original">
 
 Ozys is responsible for the operation of the AMM protocol KLAYswap in the Klaytn network. KLAYswap has the highest TVL and transaction volume of any DeFi service on the Klaytn network.  Our goal is to increase the number of new users by promoting our project to the KLAYswap community via Drops.
 

@@ -1,6 +1,6 @@
 # Lucky Box
 
-![](../../.gitbook/assets/1\_SDofXyoFfvneIFmORJ7s5A.png)
+<img src="../../.gitbook/assets/1_SDofXyoFfvneIFmORJ7s5A.png" alt="" data-size="original">
 
 Lucky boxes each contain a total of **seven different goodies**, with sheep or other decorating items being randomly included. There will be several distinct types of Lucky boxes, each with a different price and contents. While decorative goods may appear to be fairly easy to get, this will not always be the case. Certain decor items will be exceedingly rare and difficult to obtain. However, with enough luck, you might even get a high-rarity sheep from your box!
 

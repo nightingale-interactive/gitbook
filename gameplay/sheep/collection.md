@@ -8,31 +8,33 @@ description: '*Updated: 12th Feb. 2022'
 {% tab title="Epic" %}
 
 
-| Image                                       | Name                  | Price |
-| ------------------------------------------- | --------------------- | ----- |
-| ![](<../../.gitbook/assets/image (60).png>) | Crimson Moon Draconic |       |
-| ![](<../../.gitbook/assets/image (57).png>) | Vanilla Sugar-Cupid   |       |
-| ![](<../../.gitbook/assets/image (78).png>) | Cocoa Sugar-Cupid     |       |
-| ![](<../../.gitbook/assets/image (12).png>) | Strawberry Gâteau     |       |
+| Image                                                         | Name                  | Price |
+| ------------------------------------------------------------- | --------------------- | ----- |
+| ![](<../../.gitbook/assets/image (60).png>)                   | Crimson Moon Draconic |       |
+| ![](<../../.gitbook/assets/image (57).png>)                   | Vanilla Sugar-Cupid   |       |
+| ![](<../../.gitbook/assets/image (78).png>)                   | Cocoa Sugar-Cupid     |       |
+| ![](<../../.gitbook/assets/image (12).png>)                   | Strawberry Gâteau     |       |
+| ![](<../../.gitbook/assets/Captain Keelson\_for gitbook.png>) | Captain Keelson       |       |
 {% endtab %}
 
 {% tab title="Rare" %}
 
 
-| Image                                        | Name                   | Price |
-| -------------------------------------------- | ---------------------- | ----- |
-| ![](<../../.gitbook/assets/image (25).png>)  | Red Prince             |       |
-| ![](<../../.gitbook/assets/image (59).png>)  | Pink Baa-jama Lamb     |       |
-| ![](<../../.gitbook/assets/image (76).png>)  | Blue Pirate            |       |
-| ![](<../../.gitbook/assets/image (41).png>)  | Ember Hurricane        |       |
-| ![](<../../.gitbook/assets/image (114).png>) | Rainbow Chantilly      |       |
-| ![](<../../.gitbook/assets/image (49).png>)  | Urban Sheepster        |       |
-| ![](<../../.gitbook/assets/image (122).png>) | Rebel Sheepster        |       |
-| ![](<../../.gitbook/assets/image (98).png>)  | Vogue Sheepster        |       |
-| ![](<../../.gitbook/assets/image (71).png>)  | Ruby Streaked Wildfire |       |
-| ![](<../../.gitbook/assets/image (36).png>)  | Autumn Rose Cherub     |       |
-| ![](<../../.gitbook/assets/image (91).png>)  | Peach Gummy Chantilly  |       |
-| ![](<../../.gitbook/assets/image (30).png>)  | Camellia Hurricane     |       |
+| Image                                                          | Name                   | Price |
+| -------------------------------------------------------------- | ---------------------- | ----- |
+| ![](<../../.gitbook/assets/image (25).png>)                    | Red Prince             |       |
+| ![](<../../.gitbook/assets/image (59).png>)                    | Pink Baa-jama Lamb     |       |
+| ![](<../../.gitbook/assets/image (76).png>)                    | Blue Pirate            |       |
+| ![](<../../.gitbook/assets/image (41).png>)                    | Ember Hurricane        |       |
+| ![](<../../.gitbook/assets/image (114).png>)                   | Rainbow Chantilly      |       |
+| ![](<../../.gitbook/assets/image (49).png>)                    | Urban Sheepster        |       |
+| ![](<../../.gitbook/assets/image (122).png>)                   | Rebel Sheepster        |       |
+| ![](<../../.gitbook/assets/image (98).png>)                    | Vogue Sheepster        |       |
+| ![](<../../.gitbook/assets/image (71).png>)                    | Ruby Streaked Wildfire |       |
+| ![](<../../.gitbook/assets/image (36).png>)                    | Autumn Rose Cherub     |       |
+| ![](<../../.gitbook/assets/image (91).png>)                    | Peach Gummy Chantilly  |       |
+| ![](<../../.gitbook/assets/image (30).png>)                    | Camellia Hurricane     |       |
+| ![](<../../.gitbook/assets/Ominous Nocturne\_for gitbook.png>) | Ominous Nocturne       |       |
 {% endtab %}
 
 {% tab title="Normal" %}

@@ -1,6 +1,6 @@
 # Combo Effect
 
-![](../../.gitbook/assets/1\_kZNDIDyk2sbBp9-kumAKaA.png)
+<img src="../../.gitbook/assets/1_kZNDIDyk2sbBp9-kumAKaA.png" alt="" data-size="original">
 
 Sheep are social creatures. While grazing, they usually stick together as a group. If a sheep is separated from the rest of the flock, it will become quite agitated. It is the banding together in groups that make them feel safe and happy! Bring out the best in them by grouping them with their friends, and you’ll be able to trigger some powerful combo effects!
 
