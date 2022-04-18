@@ -30,6 +30,8 @@ A snapshot for pasture owners will be taken on 22-04-2022, 11:00 (UTC)
 {% tabs %}
 {% tab title="Season 3 Sheep" %}
 
+
+<table><thead><tr><th>Sheep</th><th data-type="select">Rarity</th><th align="center">Image</th></tr></thead><tbody><tr><td>Miss Chambermaid</td><td></td><td align="center"></td></tr><tr><td>Madame Mille-feuille</td><td></td><td align="center"></td></tr><tr><td>Carmine Ragdoll</td><td></td><td align="center"></td></tr><tr><td>Cerulean Ragdoll</td><td></td><td align="center"></td></tr><tr><td>Flamboyant Bonnebell</td><td></td><td align="center"></td></tr><tr><td>Rosette Bonnebell</td><td></td><td align="center"></td></tr><tr><td>Plain Mint</td><td></td><td align="center"></td></tr><tr><td>Plain White Tailored</td><td></td><td align="center"></td></tr><tr><td>Plain Black Tailored</td><td></td><td align="center"></td></tr><tr><td>Plain Orange Polka</td><td></td><td align="center"></td></tr><tr><td>Marshmallow Chantilly</td><td></td><td align="center"></td></tr><tr><td>Alabaster Hurricane</td><td></td><td align="center"></td></tr><tr><td>Miss Sommelier</td><td></td><td align="center"></td></tr><tr><td>Cotton Cloud Ragdoll</td><td></td><td align="center"></td></tr><tr><td>Hawthorn Bonnebell</td><td></td><td align="center"></td></tr><tr><td>Sunset Bonnebell</td><td></td><td align="center"></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Season 3 Deco" %}
