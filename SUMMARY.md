@@ -26,6 +26,7 @@
   * [Decor Upgrade](gameplay/decoration/decor-upgrade.md)
 * [Lucky Box](gameplay/lucky-box/README.md)
   * [Season 1](gameplay/lucky-box/season-1.md)
+  * [Season 3](gameplay/lucky-box/season-3.md)
 * [Combo Effect](gameplay/combo-effect/README.md)
   * [Combo List](gameplay/combo-effect/combo-list.md)
 * [PVP](gameplay/pvp.md)
