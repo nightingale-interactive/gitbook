@@ -27,6 +27,8 @@ A snapshot for pasture owners will be taken on 22-04-2022, 11:00 (UTC)
 
 ### Contents List
 
+![](<../../.gitbook/assets/Season3 luckybox.png>)
+
 {% tabs %}
 {% tab title="Season 3 Sheep" %}
 

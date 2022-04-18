@@ -8,6 +8,8 @@ The first season of lucky boxes are available for purchase beginning on February
 
 ### Contents List
 
+![](<../../.gitbook/assets/Season1 luckybox.png>)
+
 {% tabs %}
 {% tab title="Sheep" %}
 
