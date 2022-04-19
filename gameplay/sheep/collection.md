@@ -1,5 +1,5 @@
 ---
-description: '*Updated: 19th April. 2022'
+description: '*Updated: 19th Apr. 2022'
 ---
 
 # Collection
