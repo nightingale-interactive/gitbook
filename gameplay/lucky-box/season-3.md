@@ -21,7 +21,7 @@ While it will be open to everyone, there will be a limited number of people who 
 
 VIP Pasture owners will have access to all sets of boxes at their respective prices, and public boxes can be purchased by both the VIP and standard owner groups!
 
-A snapshot for pasture owners will be taken on 22-04-2022, 11:00 (UTC)
+A snapshot for pasture owners will be taken on 22-04-2022, 10:00 (UTC)
 
 
 
