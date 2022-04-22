@@ -7,9 +7,9 @@
 
 ![](../../.gitbook/assets/decor\_1.png)
 
-* Rearrange tab
+* Rearrange and Rotation
 
-![](../../.gitbook/assets/decor\_2.png)
+![](<../../.gitbook/assets/drag to move.png>)
 
 * Decor tab
 

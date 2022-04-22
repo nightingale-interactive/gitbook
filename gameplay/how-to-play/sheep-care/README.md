@@ -8,6 +8,10 @@
 
 ![](../../../.gitbook/assets/6.png)
 
+* When you click and hold sheep 2 seconds or more, you can place your sheep to somewhere. If you place your sheep over decoration which sheep can enjoy or sleep, then they will use the decor item immediately.
+
+![](<../../../.gitbook/assets/sheep placing.png>)
+
 ### Sheep pampering : Petting and Cleasing
 
 * Sheep enjoys being petted and cleaned on a regular basis. Make your adorable sheep feel beloved!
