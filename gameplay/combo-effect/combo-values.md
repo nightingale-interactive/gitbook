@@ -108,9 +108,15 @@ Let's see the case. If you have 5 sheep (Plain Red, Plain Orange, Plain Yellow, 
 
 Then, your sheep on the pasture will produce faster 40.4%(sum of each combo effects) from the combo effects. If you put some upgraded decor items on the pasture, and sheep is already obtaining productivity 5% from the decor effects, then your sheep will produce 45.4% faster.&#x20;
 
+Increased speed of production is calculated as below (S=Sum of the effects). As you know, Sheep basically produce 1 wool per a day, you can calculate your production period easily.
+
+* Speed of wool production = Basic wool production / (1+S)
+
+
+
 The impact of combo effects on wool production time is added to the effects of other factors such as weather, decor, etc.&#x20;
 
-* These effects will be applied to the pasture as a whole, which means that every sheep on that particular pasture will be affected.&#x20;
+* These effects will be applied to the one pasture as a whole, which means that every sheep on that particular pasture will be affected.&#x20;
 * All associated effects are entirely independent from one another and are not subject to multiplication.
 
 More combos and effects will be released, but basic theorem to calculate will be the same.
