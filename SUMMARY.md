@@ -2,7 +2,9 @@
 
 * [Sheepfarm in Meta-land](README.md)
 * [Roadmap](roadmap.md)
-* [Team](team.md)
+* [Team](team/README.md)
+  * [Dev team](team/dev-team.md)
+  * [Biz team](team/biz-team.md)
 * [Partnership](partnership.md)
 * [FAQ](faq.md)
 
