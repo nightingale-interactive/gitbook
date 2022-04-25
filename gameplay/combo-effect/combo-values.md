@@ -98,6 +98,8 @@ description: '*Updated: 25th Apr. 2022'
 
 ### Combo Calculation
 
+Value of the combo is determined by two factors - Number of component, Rarity of the components. It is big difference with upgrade system which scale determines everything.
+
 Let's see the case. If you have 5 sheep (Plain Red, Plain Orange, Plain Yellow, Plain Green, Plain Blue) on the large pasture, then your sheep on the pasture will be affected below combos.
 
 * Somewhere over the rainbow 1 = 21.43%
