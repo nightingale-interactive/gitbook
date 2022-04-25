@@ -110,7 +110,7 @@ Then, your sheep on the pasture will produce faster 40.4%(sum of each combo effe
 
 Increased speed of production is calculated as below (S=Sum of the effects). As you know, Sheep basically produce 1 wool per a day, you can calculate your production period easily.
 
-* Speed of wool production = Basic wool production / (1+S)
+* Time period of wool production = Basic wool production / (1+S)
 
 
 
