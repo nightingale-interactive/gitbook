@@ -14,11 +14,15 @@ The same type of combo can only be activated at a higher level in a single pastu
 * Pink Baa-jama Lamb + Pink Baa-jama Lamb = Counting sheep(Lv.1) (X)
 * Pink Baa-jama Lamb + Pink Baa-jama Lamb + Pink Baa-jama Lamb = Counting sheep(Lv.2) (O)
 
-### Overall Image
+
+
+### Combo Image
+
+* Overall Image
 
 ![](../../.gitbook/assets/combolist.jpg)
 
-### Details
+* Image in detail
 
 {% tabs %}
 {% tab title="2 combo" %}

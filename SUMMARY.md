@@ -31,6 +31,7 @@
   * [Season 3](gameplay/lucky-box/season-3.md)
 * [Combo Effect](gameplay/combo-effect/README.md)
   * [Combo List](gameplay/combo-effect/combo-list.md)
+  * [Combo Values](gameplay/combo-effect/combo-values.md)
 * [PVP](gameplay/pvp.md)
 * [Music](gameplay/music.md)
 
