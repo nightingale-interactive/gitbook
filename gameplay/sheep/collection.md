@@ -55,7 +55,7 @@ description: '*Updated: 19th Apr. 2022'
 |  ![](<../../.gitbook/assets/image (14).png>) | Plain Orange          |       |
 |  ![](<../../.gitbook/assets/image (66).png>) | Plain Yelllow         |       |
 | ![](<../../.gitbook/assets/image (124).png>) | Plain Green           |       |
-| ![](<../../.gitbook/assets/image (126).png>) | Plain Ultrablue       |       |
+| ![](<../../.gitbook/assets/image (126).png>) | Plain Blue            |       |
 |  ![](<../../.gitbook/assets/image (95).png>) | Plain Indigo          |       |
 |  ![](<../../.gitbook/assets/image (37).png>) | Plain Violet          |       |
 |  ![](<../../.gitbook/assets/image (89).png>) | Plain Sage Stargazer  |       |
