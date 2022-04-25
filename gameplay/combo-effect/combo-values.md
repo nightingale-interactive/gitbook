@@ -42,7 +42,7 @@ description: '*Updated: 25th Apr. 2022'
 |       ![](<../../.gitbook/assets/(21) counting sheep (1).png>)       |          Counting sheep (Lv.2)         |      <p>Pink Baa-jama Lamb<br>Pink Baa-jama Lamb<br>Pink Baa-jama Lamb</p>     | 17.37% |   |
 |    ![](<../../.gitbook/assets/(22) that sheep has sailed (1).png>)   |          That sheep has sailed         |   <p>Bluebeard yarn-matey<br>Bluebeard yarn-matey<br>Bluebeard yarn-matey</p>  | 17.89% |   |
 |       ![](<../../.gitbook/assets/(23) pink slumber party.png>)       |           Pink slumber party           |    <p>Pink Baa-jama Lamb<br>Peach Gummy Chantilly<br>Autumn Rose Cherub</p>    | 15.31% |   |
-|     ![](<../../.gitbook/assets/(24) valentine's day couple.png>)     | Valentine’s day couple (Male + Female) |   <p>Plain Cherry<br>Strawberry Sweetheart Ornament<br>Autumn Rose Cherub</p>  | 9.08%  |   |
+|     ![](<../../.gitbook/assets/(24) valentine's day couple.png>)     | Valentine’s day couple (Male + Female) |      <p>Plain Cherry<br>Strawberry Sweetheart Ornament<br>Plain Cherry</p>     | 9.08%  |   |
 | ![](<../../.gitbook/assets/(25) home is where the heart is (1).png>) |       Home is where the heart is       | <p>Plain Pink Sweetheart<br>Hazelnut Cookie House<br>Plain Pink Sweetheart</p> | 9.11%  |   |
 |     ![](<../../.gitbook/assets/(26) frost come, frost serve.png>)    |         Frost come, Frost serve        |    <p>Obsidian Wooligan<br>Slender Soft Serve Tree<br>Obsidian Wooligan</p>    | 8.29%  |   |
 |           ![](<../../.gitbook/assets/(27) odd one out.png>)          |               Odd one out              |          <p>Plain White<br>Plain Sheep Spring Rider<br>Plain White</p>         | 8.11%  |   |
