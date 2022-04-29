@@ -28,7 +28,7 @@ The MARD Pool's source and overall MARD flow are illustrated in Diagram 1. The c
 
 Diagram 2 depicts the MARD flow of the (sheep) MARD pool, which is assigned to each sheep type. It is distributed (almost) evenly within the MARD Pool regardless of the type or rarity of the sheep. MARD accumulated from seasonal box purchases will be distributed solely to the (sheep) MARD pool for sheep included in the seasonal boxes. MARD spent on sheep sweet treats is added to the (sheep) MARD pool as well.
 
-![\[Diagram 3\]](../.gitbook/assets/demand2\_03.png)
+![](../.gitbook/assets/demand2\_03.png)
 
 As shown in Diagram 3, the sheep featured in Seasonal boxes are determined by DAO votes. This process makes use of NGIT Tokens. Because this system has the ability to significantly influence user interest, the team intends to continuously monitor its progress while also responding to and incorporating user feedback.&#x20;
 
