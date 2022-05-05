@@ -26,7 +26,9 @@
 
 ![< New sheep is appeared!! >](<../../.gitbook/assets/Morphing successful.png>)
 
-### Morphing Fees
+### Morphing Fees and Probability
+
+* Fees
 
 | Sheep / Morphing type | Standard | Advanced |
 | --------------------- | :------: | :------: |
@@ -34,7 +36,16 @@
 | Rare + Rare           |  25 MARD |  50 MARD |
 | Epic + Epic           |    N/A   |    N/A   |
 
-* The difference between standard and advanced morphing is that advanced morphing provides a 5% increase in the probability of obtaining a higher-grade sheep.
+* Probability for higher grades
+
+| Sheep / Morphing type | Standard | Advanced |
+| --------------------- | :------: | :------: |
+| Normal + Normal       |    12%   |    17%   |
+| Rare + Rare           |    7%    |    12%   |
+| Epic + Epic           |    N/A   |    N/A   |
+
+* For every Normal + Normal morphing, Epic sheep can be occurred with a 0.1% chance.
+* Every type and gender of sheep can be appeared randomly within the same grade for the result of morphing.
 * Morphing Epic sheep is not currently possible, but will become available once higher grades of sheep are introduced.
 
 ### Some important factors to keep in mind
@@ -46,7 +57,7 @@
 
 ### Discover new sheep
 
-* Certain sheep are more difficult to come by than others, and some can only be obtained through morphing!
+* Certain sheep can only be obtained through morphing!
 
 | Features |                  Ominous Nocturne                 |                  Captain Keelson                 |
 | :------: | :-----------------------------------------------: | :----------------------------------------------: |
