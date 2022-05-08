@@ -4,6 +4,8 @@ description: '*Updated: 25th Apr. 2022'
 
 # Combo Values
 
+
+
 ### Combo List - Values
 
 {% tabs %}
@@ -26,6 +28,10 @@ description: '*Updated: 25th Apr. 2022'
 |      ![](<../../.gitbook/assets/(14) armed and delicious (1) (1).png>)     |                  Armed and delicious                 |     <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid</p>     | 9.61% |   |
 | ![](<../../.gitbook/assets/(15) between a rock and a heart place (1).png>) |           Between a rock and a heart place           |      <p>Chocolate Rock<br>Plain Pink Sweetheart</p>     | 4.79% |   |
 |        ![](<../../.gitbook/assets/(16) bring a spring upon 'er.png>)       |                Bring a spring upon ‘er               | <p>Bluebeard yarn-matey<br>Plain Sheep Spring Rider</p> | 6.13% |   |
+|                                                                            |                     Sew into you                     |   <p>Plain Black Tailored<br>Plain White Tailored</p>   |       |   |
+|                                                                            |                Cut from the same cloth               |   <p>Plain White Tailored<br>Cotton Cloud Ragdoll</p>   |       |   |
+|                                                                            |                    At your service                   |        <p>Miss Sommelier<br>Miss Chambermaid</p>        |       |   |
+|                                                                            |                      A soft spot                     |    <p>Marshmallow Chantilly<br>Plain Orange Polka</p>   |       |   |
 
 
 {% endtab %}
@@ -46,6 +52,15 @@ description: '*Updated: 25th Apr. 2022'
 | ![](<../../.gitbook/assets/(25) home is where the heart is (1).png>) |       Home is where the heart is       | <p>Plain Pink Sweetheart<br>Hazelnut Cookie House<br>Plain Pink Sweetheart</p> | 9.11%  |   |
 |     ![](<../../.gitbook/assets/(26) frost come, frost serve.png>)    |         Frost come, Frost serve        |    <p>Obsidian Wooligan<br>Slender Soft Serve Tree<br>Obsidian Wooligan</p>    | 8.29%  |   |
 |           ![](<../../.gitbook/assets/(27) odd one out.png>)          |               Odd one out              |          <p>Plain White<br>Plain Sheep Spring Rider<br>Plain White</p>         | 8.11%  |   |
+|                                                                      |           Love is in the air           |    <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid<br>Joyful Balloon Floaty</p>    |        |   |
+|                                                                      |              All dolled up             |       <p>Cotton Cloud Ragdoll<br>Cerulean Ragdoll<br>Carmine Ragdoll</p>       |        |   |
+|                                                                      |              Housekeeping!             |   <p>Miss Chambermaid<br>Hazelnut Cookie Cutter House<br>Miss Chambermaid</p>  |        |   |
+|                                                                      |          Come wind or weather          |       <p>Camelia Hurricane<br>Ember Hurricane<br>Alabaster Hurricane</p>       |        |   |
+|                                                                      |           On the waiting list          |            <p>Miss Sommelier<br>Miss Sommelier<br>Miss Sommelier</p>           |        |   |
+|                                                                      |         As pretty as a picture         |   <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sheep Photozone</p>   |        |   |
+|                                                                      |  <p>The Bleach Boys<br>(Male only)</p> |   <p>Alabaster Hurricane<br>Marshmallow Chantilly<br>Plain White Tailored</p>  |        |   |
+|                                                                      |             Riot of colour             |                <p>Plain Cherry<br>Plain Cobalt<br>Plain Mint</p>               |        |   |
+|                                                                      |            Hard to pin down            |        <p>Plain Black Tailored<br>Trampoleaf<br>Plain Black Tailored</p>       |        |   |
 {% endtab %}
 
 {% tab title="4 Combo" %}
@@ -63,6 +78,16 @@ description: '*Updated: 25th Apr. 2022'
 |      ![](<../../.gitbook/assets/(35) herd of epic proportions (1).png>)     |             Herd of epic proportions             |             <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid<br>Strawberry Gateau<br>CrimsonMoon Draconic</p>            | 30.60% |   |
 |            ![](<../../.gitbook/assets/(36) pushing daisies.png>)            |                  Pushing daisies                 |                        <p>Physical Sheep<br>Pink Daisies<br>White Daisies<br>Blue Daisies</p>                       | 8.56%  |   |
 |              ![](<../../.gitbook/assets/(37) comfort food.png>)             |                   Comfort food                   | <p>Strawberry Gateau<br>Large Strawberry Gateau Tree<br>Small Strawberry Gateau Tree<br>Strawberry Gateau House</p> | 12.47% |   |
+|                                                                             |                 In mint condition                |                             <p>Plain Mint<br>Plain Mint<br>Plain Mint<br>Plain Mint</p>                             |        |   |
+|                                                                             |                Not just a hat rack               |                <p>Hawthorn Bonnebel<br>Sunset Bonnebel<br>Rosette Bonnebel<br>Flamboyant Bonnebel</p>               |        |   |
+|                                                                             |               Interstellar Weather               |          <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sage Stargazer<br>Plain Sage Stargazer</p>          |        |   |
+|                                                                             |                From rags to riches               |                   <p>Carmine Ragdoll<br>Cotton Cloud Ragdoll<br>Cerulean Ragdoll<br>Red Prince</p>                  |        |   |
+|                                                                             |                A spoonful of sugar               |          <p>Marshmallow Chantilly<br>Peach Gummy Chantilly<br>Strawberry Gateau<br>Madame Mille-feuille</p>         |        |   |
+|                                                                             |                 Connect the dots                 |             <p>Plain Orange Polka<br>Plain Orange Polka<br>Plain Orange Polka<br>Plain Orange Polka</p>             |        |   |
+|                                                                             |                Fountain of ewe-th                |          <p>Sunset Bonnebell<br>Rosette Bonnebell<br>Hawthorn Bonnebell<br>Strawberry Custard Fountain</p>          |        |   |
+|                                                                             |                Balance the scales                |                 <p>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Lambosaurus<br>Lambosaurus</p>                 |        |   |
+|                                                                             |                Great balls of fire               |              <p>Ember Hurricane<br>Scarlet Wildfire<br>Ruby Streaked Wildfire<br>Ruby Lollipop Ball</p>             |        |   |
+|                                                                             |                  Joint custardy                  | <p>Madame Mille-feuille<br>Madame Mille-feuille<br>Strawberry Custard Slice House<br>Strawberry Custard Tartlet</p> |        |   |
 {% endtab %}
 
 {% tab title="5 Combo" %}
