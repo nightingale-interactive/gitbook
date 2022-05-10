@@ -6,7 +6,7 @@
 
 * Choose one decor item from the list to upgrade.
 
-![](../../../.gitbook/assets/upgrade#2.PNG)
+![](../../../.gitbook/assets/upgrade@2.png)
 
 * After then, you need to choose several decor items to be used as a material for upgrading.
 
