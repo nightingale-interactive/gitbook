@@ -2,11 +2,11 @@
 
 ![](<../../../.gitbook/assets/image (22).png>)
 
-Decorative items(Decor) can be used as-is, but they can also be enhanced to make them more effective in their intended usage. Upgraded decor can make shortened time to produce wool. Decorative items can be upgraded from the shop, and other decoration items can be used as a resource to upgrade them.
+Decorative items can be used as-is, but they can also be enhanced to make them more effective in their intended usage. Upgraded decor can speed up the production of wool. Decorative items can be upgraded from the shop, and other decoration items can be used as a resource to upgrade them.
 
 ### Range
 
-* Decor that is not upgraded yet, their status is level 0(zero). At the level 0, decor contribute to enhance productivity of wool very slightly.
+* Decor that is not upgraded yet, their status is level 0 (zero). At the level 0, decor contribute to enhance productivity of wool very slightly.
 * Upgrade range of level is from +1 to +9 and as the level grows, the item’s contribution to improve productivity exponentially.
 * Although decor is level 0, combo that include decor items will take effect.
 
