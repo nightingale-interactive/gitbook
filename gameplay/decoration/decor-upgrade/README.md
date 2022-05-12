@@ -2,21 +2,21 @@
 
 ![](<../../../.gitbook/assets/image (22).png>)
 
-Decorative items can be used as-is, but they can also be enhanced to make them more effective in their intended usage. Upgraded decor can speed up the production of wool. Decorative items can be upgraded from the shop, and other decoration items can be used as a resource to upgrade them.
+Decorative items can be used as-is, but they can also be enhanced to make them more effective in their intended usage. Upgraded decor can greatly speed up the production of wool. Decorative items can be upgraded from the shop, and other decoration items can be used as a resource to upgrade them.
 
 ### Range
 
-* Decor that is not upgraded yet, their status is level 0 (zero). At the level 0, decor contribute to enhance productivity of wool very slightly.
-* Upgrade range of level is from +1 to +9 and as the level grows, the item’s contribution to improve productivity exponentially.
-* Although decor is level 0, combo that include decor items will take effect.
+* Decor that has not been upgraded yet has a status of level 0 (zero). Decor have a relatively small impact on wool output at the level of 0.
+* There are 9 levels of upgrade available(from +1 to +9), with each level increasing the item's impact on increased productivity exponentially.
+* Even if a decor item's level is zero, active combo effects that include decor items will take full effect regardless of the item's level.
 
 ### Effects
 
-* “Total decreasing of wool producing time from the upgrade effect”(is called below “Effect”) is determined by the level and area of the item. And items which has the same amount of area have the same amount of “Effect”. As the level and the size of the item increases, “Effect” and materials required to attempt the upgrade also increases.
-* Each decor has weather properties, and it will affect the amount of “Effect”. Decor that matches the weather by DAO gains twice “Effect” as much “Effect” as decor that does not.
-* Each decor has fit with sheep, and this synergy is determined by whether or not they are included in the Lucky box of the same season. For example, Miss Sommelier is not included in the Season 1 Lucky box, but only in the Season 3 Lucky box, so it only fits with Season 3 decors. If sheep fits with decor, then upgrade level of decor will be applied fully. But if sheep doesn’t fit with decor, then upgrade level of decor will be applied only up to +3 level of “Effect” even if level of decor is higher than 3. This fit system is applied selectively to each sheep.
-* “Effect” from Decor and Combo system is applied by summing up not multiplying.
-* Below is the table showing the relevance level up mechanism of upgrade system when the weather does not match. You can find “Point” of each decor corresponding to the area and level which affects “Effect” of each décor, and required point to upgrade. You can upgrade your decor without full point of material, but it will shorten probability to upgrade.
+* The total decrease in wool production time caused by the upgrade effect is determined by the item's level and surface area. Objects with the same amount of surface area have the same degree of effect. As the item's level and size increase, so do the effect and materials required to attempt an upgrade.
+* Each item of decor has weather-related properties that significantly influence how effective it is. Decor that aligns with the weather as determined by DAO has twice the impact on effects as decor that does not.
+* Each decor has a compatibility with sheep, which is determined by whether or not they are included in the same season's Lucky box. Miss Sommelier, for example, is only available in Season 3 Lucky boxes, and so only matches Season 3 decor items. The decor upgrade level will be fully implemented if a sheep matches the decor. Although, even if the decor level is greater than 3, if the sheep do not match the decor, only up to upgrade level +3 effects will be applied. This matching mechanism is applied to each sheep individually.
+* The effects of the Decor and Combo system are applied by adding up rather than multiplying.
+* The levelling up mechanism of the upgrade system when the weather does not match is detailed in the table below. It also displays the point values of decor that correspond to the area and level that impacts the effect of each decor item, as well as the points required to upgrade it. You can upgrade your decor without sufficient material points, but the probability of success will be significantly lower.
 
 {% tabs %}
 {% tab title="1x1" %}
@@ -57,21 +57,21 @@ Decorative items can be used as-is, but they can also be enhanced to make them m
 {% endtabs %}
 
 * Index
-  * g : level of each decor
-  * score : point of decor
-  * src : full point to have max level of probability to upgrade
-  * prob : Maximized chance to success upgrading
-  * eff : “Effect” of each decor without matching weather properties
-  * eff\_max : “Effect” of each decor when weather is matched
-  * eff\_unit : “Effect” of each decor per area
-  * d\_99 : Wool producing time when small pasture is filled with this decor fully
-  * d\_143 : Wool producing time when Medium pasture is filled with this decor fully
-  * d\_195 : Wool producing time when Large pasture is filled with this decor fully
+  * g: Decor item level
+  * score: Decor item points
+  * src: Points required to have max level of probability to upgrade.
+  * prob: Maximized probability to successfully upgrade
+  * eff: Effect of each decor when weather properties are not matched.
+  * eff\_max : Effect of each decor when weather is matched
+  * eff\_unit: Effect of each decor per surface area
+  * d\_99: Wool production time when small pasture is fully decorated
+  * d\_143: Wool production time when medium pasture is fully decorated
+  * d\_195: Wool production time when large pasture is fully decorated
 
 
 
-You can find  full number with this google spreadsheet link : [https://bit.ly/3M6KUEM](https://bit.ly/3M6KUEM)
+You can access the complete list on the following spreadsheet: [https://bit.ly/3M6KUEM](https://bit.ly/3M6KUEM)
 
 
 
-Upgrading does not always guarantee success. If you want to make high-level decor over +5, keep in mind that the upgrade level could possibly be reduced!
+Success is not always guaranteed by an upgrade. If you wish to create high-level decorations above +5, keep in mind that the upgrade level could be possibly be decreased!
