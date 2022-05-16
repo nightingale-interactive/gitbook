@@ -44,7 +44,7 @@
 
 ***
 
-* [Website](https://sheepfarm.io)
+* [Website](https://sheepfarm.io/)
 * [Discord](https://discord.gg/sheepfarm)
 * [Twitter](https://twitter.com/SheepFarmMeta)
 * [Telegram](https://t.me/sheepmeta)
