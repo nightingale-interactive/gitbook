@@ -9,11 +9,11 @@
 
 ![\<NFT Marketplace Opensea - https://pala.world/square>](../../.gitbook/assets/palasquare.PNG)
 
-* Sweet treats for eating sheep is not NFT, so user need to buy it at the website ([https://sheepfarm.io](https://sheepfarm.io)).
+* Sweet treats for eating sheep is not NFT, so user need to buy it at the website ([https://sheepfarm.io](https://sheepfarm.io/)).
 
 ### Using NFT in the Meta-land
 
-* To access NFTs in-game, users can transfer Sheepfarm NFTs to Meta-land via the website ([https://sheepfarm.io](https://sheepfarm.io)).
+* To access NFTs in-game, users can transfer Sheepfarm NFTs to Meta-land via the website ([https://sheepfarm.io](https://sheepfarm.io/)).
 * User can withdraw items at the website also to pull out from the game.
 
 {% embed url="https://youtu.be/DHm25crK52U" %}

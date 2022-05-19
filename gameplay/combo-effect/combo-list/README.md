@@ -18,39 +18,10 @@ The same type of combo can only be activated at a higher level in a single pastu
 
 ### Combo Image
 
-* Overall Image
+* Season 1 overall Image
 
-![](../../.gitbook/assets/combolist.jpg)
+![](../../../.gitbook/assets/combolist.jpg)
 
-* Image in detail
+* Season 3 overall image
 
-{% tabs %}
-{% tab title="2 combo" %}
-![](../../.gitbook/assets/combolistx2.jpg)
-{% endtab %}
-
-{% tab title="3 combo" %}
-![](../../.gitbook/assets/combolistx3.jpg)
-{% endtab %}
-
-{% tab title="4 combo" %}
-![](../../.gitbook/assets/combolistx4.jpg)
-{% endtab %}
-
-{% tab title="5 combo" %}
-![](../../.gitbook/assets/combolistx5.jpg)
-{% endtab %}
-{% endtabs %}
-
-
-
-
-
-
-
-
-
-
-
-
-
+![ ](../../../.gitbook/assets/combolist\_season2.jpg)
