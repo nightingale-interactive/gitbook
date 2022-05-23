@@ -123,9 +123,9 @@ description: '*Updated: 25th Apr. 2022'
 
 ### Combo Calculation
 
-Value of the combo is determined by two factors - Number of component, Rarity of the components. It is big difference with upgrade system which scale determines everything.
+There are two aspects that go into determining the value of a combo: the total number of components and the rarity of those components. It's not like the decor upgrading system, in which everything is determined by scale.
 
-Let's see the case. If you have 5 sheep (Plain Red, Plain Orange, Plain Yellow, Plain Green, Plain Blue) on the large pasture, then your sheep on the pasture will be affected below combos.
+Consider the following scenario. If you have 5 sheep on a large pasture (Plain Red, Plain Orange, Plain Yellow, Plain Green, Plain Blue), your sheep will be able to trigger the following combo effects:
 
 * Somewhere over the rainbow 1 = 21.43%
 * Traffic lamb = 12.94%
@@ -133,9 +133,9 @@ Let's see the case. If you have 5 sheep (Plain Red, Plain Orange, Plain Yellow, 
 
 Then, your sheep on the pasture will produce faster 40.4%(sum of each combo effects) from the combo effects. If you put some upgraded decor items on the pasture, and sheep is already obtaining productivity 5% from the decor effects, then your sheep will produce 45.4% faster.&#x20;
 
-Increased speed of production is calculated as below (S=Sum of the effects). As you know, Sheep basically produce 1 wool per a day, you can calculate your production period easily.
+Increased production speed is calculated as below (S=Sum of Effects). Sheep generate 1 unit of wool every day, therefore you can easily determine your production time.
 
-* Time period of wool production = Basic wool production / (1+S)
+* Wool production period = Basic wool production / (1+S)
 
 
 
@@ -144,4 +144,4 @@ The impact of combo effects on wool production time is added to the effects of o
 * These effects will be applied to the one pasture as a whole, which means that every sheep on that particular pasture will be affected.&#x20;
 * All associated effects are entirely independent from one another and are not subject to multiplication.
 
-More combos and effects will be released, but basic theorem to calculate will be the same.
+More combos and effects will be released, but the underlying calculation formula will remain the same.
