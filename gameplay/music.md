@@ -4,7 +4,7 @@ description: Background Music of the game will be varied to describe mood better
 
 # Music
 
-We hope user can enjoy good songs while playing the game. So we set the plan to update BGMs that were used in Sugarland before. Below is the list of BGMs.
+We really hope that users will be able to listen to some great tunes while they are playing the game. Therefore, we devised a strategy to update the BGMs that had previously been used in Sugarland. You can find a list of the songs down below.
 
 {% embed url="https://soundcloud.com/shepherd-in-meta-land/sets/sheepfarm-in-metaland" %}
 \[Song / Lyric - Jeong Choi]
