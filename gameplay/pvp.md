@@ -4,4 +4,8 @@ Players can compete against each other by entering tournaments. Rarer sheep will
 
 
 
+![\[ Concept art \]](../.gitbook/assets/sheepfram\_sheeprace.jpg)
+
+
+
 More details are coming soon.
