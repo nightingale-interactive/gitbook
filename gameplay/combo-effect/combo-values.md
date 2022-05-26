@@ -28,10 +28,10 @@ description: '*Updated: 25th Apr. 2022'
 |      ![](<../../.gitbook/assets/(14) armed and delicious (1) (1).png>)     |                  Armed and delicious                 |     <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid</p>     | 9.56% |   |
 | ![](<../../.gitbook/assets/(15) between a rock and a heart place (1).png>) |           Between a rock and a heart place           |      <p>Chocolate Rock<br>Plain Pink Sweetheart</p>     | 4.79% |   |
 |        ![](<../../.gitbook/assets/(16) bring a spring upon 'er.png>)       |                Bring a spring upon ‘er               | <p>Bluebeard yarn-matey<br>Plain Sheep Spring Rider</p> | 6.11% |   |
-|              ![](<../../.gitbook/assets/(1) Sew into you.png>)             |                     Sew into you                     |   <p>Plain Black Tailored<br>Plain White Tailored</p>   |       |   |
-|        ![](<../../.gitbook/assets/(2) Cut from the same cloth.png>)        |                Cut from the same cloth               |   <p>Plain White Tailored<br>Cotton Cloud Ragdoll</p>   |       |   |
-|            ![](<../../.gitbook/assets/(4) At your service.png>)            |                    At your service                   |        <p>Miss Sommelier<br>Miss Chambermaid</p>        |       |   |
-|              ![](<../../.gitbook/assets/(3) A soft spot.png>)              |                      A soft spot                     |    <p>Marshmallow Chantilly<br>Plain Orange Polka</p>   |       |   |
+|              ![](<../../.gitbook/assets/(1) Sew into you.png>)             |                     Sew into you                     |   <p>Plain Black Tailored<br>Plain White Tailored</p>   | 8.48% |   |
+|        ![](<../../.gitbook/assets/(2) Cut from the same cloth.png>)        |                Cut from the same cloth               |   <p>Plain White Tailored<br>Cotton Cloud Ragdoll</p>   | 7.97% |   |
+|            ![](<../../.gitbook/assets/(4) At your service.png>)            |                    At your service                   |        <p>Miss Sommelier<br>Miss Chambermaid</p>        | 7.83% |   |
+|              ![](<../../.gitbook/assets/(3) A soft spot.png>)              |                      A soft spot                     |    <p>Marshmallow Chantilly<br>Plain Orange Polka</p>   | 9.18% |   |
 
 
 {% endtab %}
@@ -52,15 +52,15 @@ description: '*Updated: 25th Apr. 2022'
 | ![](<../../.gitbook/assets/(25) home is where the heart is (1).png>) |       Home is where the heart is       | <p>Plain Pink Sweetheart<br>Hazelnut Cookie House<br>Plain Pink Sweetheart</p> | 9.09%  |   |
 |     ![](<../../.gitbook/assets/(26) frost come, frost serve.png>)    |         Frost come, Frost serve        |    <p>Obsidian Wooligan<br>Slender Soft Serve Tree<br>Obsidian Wooligan</p>    | 8.28%  |   |
 |           ![](<../../.gitbook/assets/(27) odd one out.png>)          |               Odd one out              |          <p>Plain White<br>Plain Sheep Spring Rider<br>Plain White</p>         | 8.12%  |   |
-|        ![](<../../.gitbook/assets/(5) Love is in the air.png>)       |           Love is in the air           |    <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid<br>Joyful Balloon Floaty</p>    |        |   |
-|          ![](<../../.gitbook/assets/(6) All dolled up.png>)          |              All dolled up             |       <p>Cotton Cloud Ragdoll<br>Cerulean Ragdoll<br>Carmine Ragdoll</p>       |        |   |
-|           ![](<../../.gitbook/assets/(7) Housekeeping.png>)          |              Housekeeping!             |   <p>Miss Chambermaid<br>Hazelnut Cookie Cutter House<br>Miss Chambermaid</p>  |        |   |
-|       ![](<../../.gitbook/assets/(8) Come wind or weather.png>)      |          Come wind or weather          |       <p>Camelia Hurricane<br>Ember Hurricane<br>Alabaster Hurricane</p>       |        |   |
-|       ![](<../../.gitbook/assets/(9) On the waiting list.png>)       |           On the waiting list          |            <p>Miss Sommelier<br>Miss Sommelier<br>Miss Sommelier</p>           |        |   |
-|     ![](<../../.gitbook/assets/(10) As pretty as a picture.png>)     |         As pretty as a picture         |   <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sheep Photozone</p>   |        |   |
-|         ![](<../../.gitbook/assets/(13) The Bleach Boys.png>)        |  <p>The Bleach Boys<br>(Male only)</p> |   <p>Alabaster Hurricane<br>Marshmallow Chantilly<br>Plain White Tailored</p>  |        |   |
-|         ![](<../../.gitbook/assets/(11) Riot of colour.png>)         |             Riot of colour             |                <p>Plain Cherry<br>Plain Cobalt<br>Plain Mint</p>               |        |   |
-|        ![](<../../.gitbook/assets/(12) Hard to pin down.png>)        |            Hard to pin down            |        <p>Plain Black Tailored<br>Trampoleaf<br>Plain Black Tailored</p>       |        |   |
+|        ![](<../../.gitbook/assets/(5) Love is in the air.png>)       |           Love is in the air           |    <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid<br>Joyful Balloon Floaty</p>    | 12.20% |   |
+|          ![](<../../.gitbook/assets/(6) All dolled up.png>)          |              All dolled up             |       <p>Cotton Cloud Ragdoll<br>Cerulean Ragdoll<br>Carmine Ragdoll</p>       | 22.24% |   |
+|           ![](<../../.gitbook/assets/(7) Housekeeping.png>)          |              Housekeeping!             |   <p>Miss Chambermaid<br>Hazelnut Cookie Cutter House<br>Miss Chambermaid</p>  | 15.81% |   |
+|       ![](<../../.gitbook/assets/(8) Come wind or weather.png>)      |          Come wind or weather          |       <p>Camelia Hurricane<br>Ember Hurricane<br>Alabaster Hurricane</p>       | 18.64% |   |
+|       ![](<../../.gitbook/assets/(9) On the waiting list.png>)       |           On the waiting list          |            <p>Miss Sommelier<br>Miss Sommelier<br>Miss Sommelier</p>           | 16.91% |   |
+|     ![](<../../.gitbook/assets/(10) As pretty as a picture.png>)     |         As pretty as a picture         |   <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sheep Photozone</p>   | 12.06% |   |
+|         ![](<../../.gitbook/assets/(13) The Bleach Boys.png>)        |  <p>The Bleach Boys<br>(Male only)</p> |   <p>Alabaster Hurricane<br>Marshmallow Chantilly<br>Plain White Tailored</p>  | 15.90% |   |
+|         ![](<../../.gitbook/assets/(11) Riot of colour.png>)         |             Riot of colour             |                <p>Plain Cherry<br>Plain Cobalt<br>Plain Mint</p>               | 10.80% |   |
+|        ![](<../../.gitbook/assets/(12) Hard to pin down.png>)        |            Hard to pin down            |        <p>Plain Black Tailored<br>Trampoleaf<br>Plain Black Tailored</p>       | 22.29% |   |
 {% endtab %}
 
 {% tab title="4 Combo" %}
@@ -78,16 +78,16 @@ description: '*Updated: 25th Apr. 2022'
 |      ![](<../../.gitbook/assets/(35) herd of epic proportions (1).png>)     |          Herd of epic proportions         |             <p>Vanilla Sugar-Cupid<br>Cocoa Sugar-Cupid<br>Strawberry Gateau<br>CrimsonMoon Draconic</p>            | 30.50% |   |
 |            ![](<../../.gitbook/assets/(36) pushing daisies.png>)            |              Pushing daisies              |                        <p>Physical Sheep<br>Pink Daisies<br>White Daisies<br>Blue Daisies</p>                       | 8.57%  |   |
 |              ![](<../../.gitbook/assets/(37) comfort food.png>)             |                Comfort food               | <p>Strawberry Gateau<br>Large Strawberry Gateau Tree<br>Small Strawberry Gateau Tree<br>Strawberry Gateau House</p> | 12.48% |   |
-|           ![](<../../.gitbook/assets/(14) In mint condition.png>)           |             In mint condition             |                             <p>Plain Mint<br>Plain Mint<br>Plain Mint<br>Plain Mint</p>                             |        |   |
-|          ![](<../../.gitbook/assets/(15) Not just a hat rack.png>)          |            Not just a hat rack            |                <p>Hawthorn Bonnebel<br>Sunset Bonnebel<br>Rosette Bonnebel<br>Flamboyant Bonnebel</p>               |        |   |
-|          ![](<../../.gitbook/assets/(16) Interstellar Weather.png>)         |            Interstellar Weather           |          <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sage Stargazer<br>Plain Sage Stargazer</p>          |        |   |
-|          ![](<../../.gitbook/assets/(17) From rags to riches.png>)          |            From rags to riches            |                   <p>Carmine Ragdoll<br>Cotton Cloud Ragdoll<br>Cerulean Ragdoll<br>Red Prince</p>                  |        |   |
-|          ![](<../../.gitbook/assets/(18) A spoonful of sugar.png>)          |            A spoonful of sugar            |          <p>Marshmallow Chantilly<br>Peach Gummy Chantilly<br>Strawberry Gateau<br>Madame Mille-feuille</p>         |        |   |
-|            ![](<../../.gitbook/assets/(19) Connect the dots.png>)           |              Connect the dots             |             <p>Plain Orange Polka<br>Plain Orange Polka<br>Plain Orange Polka<br>Plain Orange Polka</p>             |        |   |
-|           ![](<../../.gitbook/assets/(20) Fountain of ewe-th.png>)          |             Fountain of ewe-th            |          <p>Sunset Bonnebell<br>Rosette Bonnebell<br>Hawthorn Bonnebell<br>Strawberry Custard Fountain</p>          |        |   |
-|           ![](<../../.gitbook/assets/(21) Balance the scales.png>)          |             Balance the scales            |                 <p>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Lambosaurus<br>Lambosaurus</p>                 |        |   |
-|          ![](<../../.gitbook/assets/(22) Great balls of fire.png>)          |            Great balls of fire            |              <p>Ember Hurricane<br>Scarlet Wildfire<br>Ruby Streaked Wildfire<br>Ruby Lollipop Ball</p>             |        |   |
-|             ![](<../../.gitbook/assets/(23) Joint custardy.png>)            |               Joint custardy              | <p>Madame Mille-feuille<br>Madame Mille-feuille<br>Strawberry Custard Slice House<br>Strawberry Custard Tartlet</p> |        |   |
+|           ![](<../../.gitbook/assets/(14) In mint condition.png>)           |             In mint condition             |                             <p>Plain Mint<br>Plain Mint<br>Plain Mint<br>Plain Mint</p>                             | 25.49% |   |
+|          ![](<../../.gitbook/assets/(15) Not just a hat rack.png>)          |            Not just a hat rack            |                <p>Hawthorn Bonnebel<br>Sunset Bonnebel<br>Rosette Bonnebel<br>Flamboyant Bonnebel</p>               | 28.57% |   |
+|          ![](<../../.gitbook/assets/(16) Interstellar Weather.png>)         |            Interstellar Weather           |          <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sage Stargazer<br>Plain Sage Stargazer</p>          | 23.60% |   |
+|          ![](<../../.gitbook/assets/(17) From rags to riches.png>)          |            From rags to riches            |                   <p>Carmine Ragdoll<br>Cotton Cloud Ragdoll<br>Cerulean Ragdoll<br>Red Prince</p>                  | 27.65% |   |
+|          ![](<../../.gitbook/assets/(18) A spoonful of sugar.png>)          |            A spoonful of sugar            |          <p>Marshmallow Chantilly<br>Peach Gummy Chantilly<br>Strawberry Gateau<br>Madame Mille-feuille</p>         | 28.67% |   |
+|            ![](<../../.gitbook/assets/(19) Connect the dots.png>)           |              Connect the dots             |             <p>Plain Orange Polka<br>Plain Orange Polka<br>Plain Orange Polka<br>Plain Orange Polka</p>             | 25.57% |   |
+|           ![](<../../.gitbook/assets/(20) Fountain of ewe-th.png>)          |             Fountain of ewe-th            |          <p>Sunset Bonnebell<br>Rosette Bonnebell<br>Hawthorn Bonnebell<br>Strawberry Custard Fountain</p>          | 26.07% |   |
+|           ![](<../../.gitbook/assets/(21) Balance the scales.png>)          |             Balance the scales            |                 <p>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Lambosaurus<br>Lambosaurus</p>                 | 23.87% |   |
+|          ![](<../../.gitbook/assets/(22) Great balls of fire.png>)          |            Great balls of fire            |              <p>Ember Hurricane<br>Scarlet Wildfire<br>Ruby Streaked Wildfire<br>Ruby Lollipop Ball</p>             | 21.71% |   |
+|             ![](<../../.gitbook/assets/(23) Joint custardy.png>)            |               Joint custardy              | <p>Madame Mille-feuille<br>Madame Mille-feuille<br>Strawberry Custard Slice House<br>Strawberry Custard Tartlet</p> | 18.59% |   |
 {% endtab %}
 
 {% tab title="5 Combo" %}
@@ -119,7 +119,7 @@ description: '*Updated: 25th Apr. 2022'
 {% endtab %}
 {% endtabs %}
 
-###
+
 
 ### Combo Calculation
 
