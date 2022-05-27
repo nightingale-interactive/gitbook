@@ -4,13 +4,15 @@
 
 ### **When will the game be released?**
 
-The early access version of our game will be released on 2 March 2022, and it will be available only to individuals who own Stewart Island pastures. The game's OBT will begin in April.
+Our Game is currently in its Open Beta Testing stage. The Grand Launch is scheduled to start in the third quarter of 2022.
 
 
 
 ### **How do I obtain the pastures required for gameplay?**
 
-We're launching a Local NFT marketplace on our website in April 2022 but for the time being, OpenSea is the only place where you can purchase our pastures. The following link will show you where each pasture is located: [https://sheepfarm.io/map](https://sheepfarm.io/map)
+Pastures can be bought from NFT Marketplaces such as Opensea and Palasquare. The following link will show you where each pasture is located: [https://sheepfarm.io/map](https://sheepfarm.io/map)
+
+We will launch our very own NFT Marketplace in June 2022.
 
 
 
@@ -50,6 +52,8 @@ To view your Sheepfarm NFTs, visit the following page and connect your wallet: [
 
 You can access your boxes by going to the following webpage: [https://sheepfarm.io/luckybox](https://sheepfarm.io/luckybox)
 
+When opening boxes, keep in mind that transaction fees will apply.
+
 
 
 ### **How can I determine the rarity of my sheep?**
@@ -58,7 +62,19 @@ A collection will be available on our website in the near future. Sheep are curr
 
 
 
-### Where can I buy lucky boxes and how much do they cost?
+### **What is the difference between a Lucky box and a MARD box?**
 
-The price of each box may vary, and they can be purchased on our website.
+1 Sheep and 6 Decorations are included in a Luckybox. A Mardbox contains 1 random item, either a sheep or a decoration NFT.
+
+
+
+### Can I use a hardware wallet to play this game?
+
+Yes, a Ledger can be connected via Metamask and a Decent wallet can be connected via Kaikas. However, this may cause some delay in game play, therefore playing the game directly using a software wallet would be more convenient.
+
+
+
+### I would like to discuss a partnership or collaboration with your project.
+
+Please send us an email at [hello@sheepfarm.io](mailto:hello@sheepfarm.io) or send a direct message to Eddie in Meta-Land on our Discord server.
 
