@@ -58,9 +58,9 @@ description: '*Updated: 25th Apr. 2022'
 |       ![](<../../.gitbook/assets/(8) Come wind or weather.png>)      |          Come wind or weather          |       <p>Camelia Hurricane<br>Ember Hurricane<br>Alabaster Hurricane</p>       | 18.64% |   |
 |       ![](<../../.gitbook/assets/(9) On the waiting list.png>)       |           On the waiting list          |            <p>Miss Sommelier<br>Miss Sommelier<br>Miss Sommelier</p>           | 16.91% |   |
 |     ![](<../../.gitbook/assets/(10) As pretty as a picture.png>)     |         As pretty as a picture         |   <p>Flamboyant Bonnebel<br>Flamboyant Bonnebel<br>Plain Sheep Photozone</p>   | 12.06% |   |
-|         ![](<../../.gitbook/assets/(13) The Bleach Boys.png>)        |  <p>The Bleach Boys<br>(Male only)</p> |   <p>Alabaster Hurricane<br>Marshmallow Chantilly<br>Plain White Tailored</p>  | 15.90% |   |
-|         ![](<../../.gitbook/assets/(11) Riot of colour.png>)         |             Riot of colour             |                <p>Plain Cherry<br>Plain Cobalt<br>Plain Mint</p>               | 10.80% |   |
-|        ![](<../../.gitbook/assets/(12) Hard to pin down.png>)        |            Hard to pin down            |        <p>Plain Black Tailored<br>Trampoleaf<br>Plain Black Tailored</p>       | 22.29% |   |
+|         ![](<../../.gitbook/assets/(13) The Bleach Boys.png>)        |  <p>The Bleach Boys<br>(Male only)</p> |   <p>Alabaster Hurricane<br>Marshmallow Chantilly<br>Plain White Tailored</p>  | 22.29% |   |
+|         ![](<../../.gitbook/assets/(11) Riot of colour.png>)         |             Riot of colour             |                <p>Plain Cherry<br>Plain Cobalt<br>Plain Mint</p>               | 15.90% |   |
+|        ![](<../../.gitbook/assets/(12) Hard to pin down.png>)        |            Hard to pin down            |        <p>Plain Black Tailored<br>Trampoleaf<br>Plain Black Tailored</p>       | 10.80% |   |
 {% endtab %}
 
 {% tab title="4 Combo" %}
