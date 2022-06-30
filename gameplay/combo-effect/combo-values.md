@@ -32,8 +32,8 @@ description: '*Updated: 25th Apr. 2022'
 |        ![](<../../.gitbook/assets/(2) Cut from the same cloth.png>)        |                Cut from the same cloth               |   <p>Plain White Tailored<br>Cotton Cloud Ragdoll</p>   | 7.97%  |   |
 |            ![](<../../.gitbook/assets/(4) At your service.png>)            |                    At your service                   |        <p>Miss Sommelier<br>Miss Chambermaid</p>        | 7.83%  |   |
 |              ![](<../../.gitbook/assets/(3) A soft spot.png>)              |                      A soft spot                     |    <p>Marshmallow Chantilly<br>Plain Orange Polka</p>   | 9.18%  |   |
-|                                                                            |        <p><br>Sail Off Into The Sunset<br></p>       |        <p>Captain Keelson<br>Sunset Bonnebell</p>       | 10.44% |   |
-|                                                                            |          <p><br>Ready For Prime Time<br></p>         |        <p>Prime Splasheep<br>Prime Splasheep</p>        | 12.82% |   |
+|      ![](<../../.gitbook/assets/(1) Sail Off Into The Sunset (1).png>)     |        <p><br>Sail Off Into The Sunset<br></p>       |        <p>Captain Keelson<br>Sunset Bonnebell</p>       | 10.44% |   |
+|          ![](<../../.gitbook/assets/(2) ready for prime time.png>)         |          <p><br>Ready For Prime Time<br></p>         |        <p>Prime Splasheep<br>Prime Splasheep</p>        | 12.82% |   |
 {% endtab %}
 
 {% tab title="3 Combo" %}
@@ -61,9 +61,9 @@ description: '*Updated: 25th Apr. 2022'
 |         ![](<../../.gitbook/assets/(13) The Bleach Boys.png>)        |  <p>The Bleach Boys<br>(Male only)</p> |   <p>Alabaster Hurricane<br>Marshmallow Chantilly<br>Plain White Tailored</p>  | 22.29% |   |
 |         ![](<../../.gitbook/assets/(11) Riot of colour.png>)         |             Riot of colour             |                <p>Plain Cherry<br>Plain Cobalt<br>Plain Mint</p>               | 15.90% |   |
 |        ![](<../../.gitbook/assets/(12) Hard to pin down.png>)        |            Hard to pin down            |        <p>Plain Black Tailored<br>Trampoleaf<br>Plain Black Tailored</p>       | 10.80% |   |
-|                                                                      |    <p><br>Sail Away With Me<br></p>    |          <p>Captain Keelson<br>Captain Keelson<br>Captain Keelson</p>          | 32.70% |   |
-|                                                                      |      <p><br>Black As Night<br></p>     |      <p>Ominous Nocturne<br>Obsidian Wooligan<br>Plain Black Tailored</p>      | 20.07% |   |
-|                                                                      |   <p><br>Paint A Rosy Picture<br></p>  |           <p>Splasheep<br>Autumn Rose Cherub<br>Rosette Bonnebell</p>          | 24.12% |   |
+|        ![](<../../.gitbook/assets/(3) Sail Away With Me.png>)        |    <p><br>Sail Away With Me<br></p>    |          <p>Captain Keelson<br>Captain Keelson<br>Captain Keelson</p>          | 32.70% |   |
+|          ![](<../../.gitbook/assets/(4) black as night.png>)         |      <p><br>Black As Night<br></p>     |      <p>Ominous Nocturne<br>Obsidian Wooligan<br>Plain Black Tailored</p>      | 20.07% |   |
+|       ![](<../../.gitbook/assets/(5) Paint A Rosy Picture.png>)      |   <p><br>Paint A Rosy Picture<br></p>  |           <p>Splasheep<br>Autumn Rose Cherub<br>Rosette Bonnebell</p>          | 24.12% |   |
 {% endtab %}
 
 {% tab title="4 Combo" %}
@@ -91,9 +91,9 @@ description: '*Updated: 25th Apr. 2022'
 |           ![](<../../.gitbook/assets/(21) Balance the scales.png>)          |             Balance the scales            |                 <p>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Lambosaurus<br>Lambosaurus</p>                 | 23.87% |   |
 |          ![](<../../.gitbook/assets/(22) Great balls of fire.png>)          |            Great balls of fire            |              <p>Ember Hurricane<br>Scarlet Wildfire<br>Ruby Streaked Wildfire<br>Ruby Lollipop Ball</p>             | 21.71% |   |
 |             ![](<../../.gitbook/assets/(23) Joint custardy.png>)            |               Joint custardy              | <p>Madame Mille-feuille<br>Madame Mille-feuille<br>Strawberry Custard Slice House<br>Strawberry Custard Tartlet</p> | 18.59% |   |
-|                                                                             |    <p><br>Another Coat Of Paint<br></p>   |                         <p>Splasheep<br>Splasheep<br>Prime Splasheep<br>Prime Splasheep</p>                         | 42.73% |   |
-|                                                                             | <p><br>Ships Passing In The Night<br></p> |                  <p>Captain Keelson<br>Captain Keelson<br>Ominous Nocturne<br>Ominous Nocturne</p>                  | 38.61% |   |
-|                                                                             |     <p><br>Watching Paint Dry<br></p>     |                <p>Prime Splasheep<br>Prime Splasheep<br>Camellia Hurricane<br>Camellia Hurricane</p>                | 32.85% |   |
+|          ![](<../../.gitbook/assets/(6) another coat of paint.png>)         |    <p><br>Another Coat Of Paint<br></p>   |                         <p>Splasheep<br>Splasheep<br>Prime Splasheep<br>Prime Splasheep</p>                         | 42.73% |   |
+|     ![](<../../.gitbook/assets/(7) ships passing in the night (2).png>)     | <p><br>Ships Passing In The Night<br></p> |                  <p>Captain Keelson<br>Captain Keelson<br>Ominous Nocturne<br>Ominous Nocturne</p>                  | 38.61% |   |
+|         ![](<../../.gitbook/assets/(8) Watching Paint Dry (2).png>)         |     <p><br>Watching Paint Dry<br></p>     |                <p>Prime Splasheep<br>Prime Splasheep<br>Camellia Hurricane<br>Camellia Hurricane</p>                | 32.85% |   |
 {% endtab %}
 
 {% tab title="5 Combo" %}
@@ -122,27 +122,25 @@ description: '*Updated: 25th Apr. 2022'
 |     ![](<../../.gitbook/assets/(56) tickling the dragon's tail.png>)     |             Tickling the dragon’s tail            | <p>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Crimson Moon Draconic</p> | 38.54% |   |
 |         ![](<../../.gitbook/assets/(57) the royal treatment.png>)        |      <p>The royal treatment</p><p>(Lv.2)</p>      |                             <p>Red Prince<br>Red Prince<br>Red Prince<br>Red Prince<br>Red Prince</p>                            | 27.83% |   |
 |           ![](<../../.gitbook/assets/(58) double date (1).png>)          | <p>Double date<br>(Pink_Female + Indigo Male)</p> |                 <p>Plain Pink<br>Plain Pink<br>Strawberry Sweetheart Ornament<br>Plain Indigo<br>Plain Indigo</p>                | 23.14% |   |
-|                                                                          |           <p><br>Making A Splash<br></p>          |                               <p>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep</p>                               | 53.41% |   |
+|           ![](<../../.gitbook/assets/(9) making a splash.png>)           |           <p><br>Making A Splash<br></p>          |                               <p>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep</p>                               | 53.41% |   |
 
 
 {% endtab %}
 
 {% tab title="Klay Dragons" %}
-| Image  |                 Name                | Level |                       Components                      | Values |
-| :----: | :---------------------------------: | :---: | :---------------------------------------------------: | :----: |
-|        | <p><br> A Friendly Alliance<br></p> |   1   |                    1x Normal Dragon                   |  2.00% |
-|        |     <p><br>Give Me Five<br></p>     |   2   |                   5x Normal Dragons                   |  6.00% |
-|        | <p><br>Cryptic Dead-ication<br></p> |   3   |                     1x Rare Dragon                    |  8.00% |
-|        |    <p><br>In It Together<br></p>    |   4   |                   10x Normal Dragons                  | 11.00% |
-|        |   <p><br>A Kindred Spirit<br></p>   |   5   |                     1x Epic Dragon                    | 12.00% |
-|        |     <p><br>Overshadowed<br></p>     |   6   |                  1x Legendary Dragon                  | 15.00% |
-|        |      <p><br>Rock Stars<br></p>      |   7   | 10x Normal + 1x Rare + 1x Epic + 1x Legendary Dragons | 28.00% |
+|                          Image                          |                 Name                | Level |                       Components                      | Values |
+| :-----------------------------------------------------: | :---------------------------------: | :---: | :---------------------------------------------------: | :----: |
+| ![](<../../.gitbook/assets/(10) Klay Dragons Lv.1.png>) | <p><br> A Friendly Alliance<br></p> |   1   |                    1x Normal Dragon                   |  2.00% |
+| ![](<../../.gitbook/assets/(11) Klay Dragons Lv.2.png>) |     <p><br>Give Me Five<br></p>     |   2   |                   5x Normal Dragons                   |  6.00% |
+| ![](<../../.gitbook/assets/(12) Klay Dragons Lv.3.png>) | <p><br>Cryptic Dead-ication<br></p> |   3   |                     1x Rare Dragon                    |  8.00% |
+| ![](<../../.gitbook/assets/(13) Klay Dragons Lv.4.png>) |    <p><br>In It Together<br></p>    |   4   |                   10x Normal Dragons                  | 11.00% |
+| ![](<../../.gitbook/assets/(14) Klay Dragons Lv.5.png>) |   <p><br>A Kindred Spirit<br></p>   |   5   |                     1x Epic Dragon                    | 12.00% |
+| ![](<../../.gitbook/assets/(15) Klay Dragons Lv.6.png>) |     <p><br>Overshadowed<br></p>     |   6   |                  1x Legendary Dragon                  | 15.00% |
+|                                                         |      <p><br>Rock Stars<br></p>      |   7   | 10x Normal + 1x Rare + 1x Epic + 1x Legendary Dragons | 28.00% |
 
 
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
