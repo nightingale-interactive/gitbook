@@ -1,4 +1,4 @@
-# Combo List Season 3
+# Combo List Season 2
 
 {% tabs %}
 {% tab title="2 combo" %}
