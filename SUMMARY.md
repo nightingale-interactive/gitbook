@@ -27,6 +27,7 @@
   * [Decor List](gameplay/decoration/decor-list.md)
   * [Decor Upgrade](gameplay/decoration/decor-upgrade/README.md)
     * [How to upgrade decor](gameplay/decoration/decor-upgrade/how-to-upgrade-decor.md)
+  * [Functional Decoration Items](gameplay/decoration/functional-decoration-items.md)
 * [Lucky Box](gameplay/lucky-box/README.md)
   * [Season 1](gameplay/lucky-box/season-1.md)
   * [Season 3](gameplay/lucky-box/season-3.md)

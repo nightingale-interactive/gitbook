@@ -28,13 +28,13 @@ The pastures on Stewart Island have an auto-farming feature that are not present
 
 ### **Petting and Cleaning**
 
-Sheep are very sociable and love to be petted! Interaction has a variety of notable benefits, and it also helps to strengthen the bond that you have with your sheep. Cleaning your sheep is another vital aspect of caring for the health and well-being of your flock, and if you make a point of keeping your sheep clean by washing them as often as they require it, they may even produce wool quickly.
+Sheep are very sociable and love to be petted! Interaction has a variety of notable benefits, and it also helps to strengthen the bond that you have with your sheep. Bathing your sheep is another vital aspect of caring for the health and well-being of your flock, and if you make a point of keeping your sheep clean by washing them as often as they require it, they may even produce wool quickly. Certain functional decoration items can be installed on your pasture that will allow your sheep to pet or cleanse themselves as needed. &#x20;
 
 
 
 ### Feeding
 
-It goes without saying that you'll need to purchase "Sweet treats" for your sheep, which you can do with the MARD tokens that you earn. Alternatively, an automatic feeder can be installed to save both time and effort on your part. When the level of hunger in sheep falls below 50%, this mechanism kicks in to provide sweets for them. The amount of wool produced by a sheep decreases dramatically when its hunger level falls below 50%. If it reaches 0%, the sheep will no longer be able to generate any wool at all until it has been fed again.
+It goes without saying that you'll need to purchase "Sweet treats" for your sheep, which you can do with the MARD tokens that you earn. Alternatively, automatic feeding can be enabled to save both time and effort on your part. When the level of hunger in sheep falls below 50%, this mechanism kicks in to provide sweets for them. The amount of wool produced by a sheep decreases dramatically when its hunger level falls below 50%. If it reaches 0%, the sheep will no longer be able to generate any wool at all until it has been fed again.
 
 |              Sweet treats              |         Name         |                              |
 | :------------------------------------: | :------------------: | :--------------------------: |
