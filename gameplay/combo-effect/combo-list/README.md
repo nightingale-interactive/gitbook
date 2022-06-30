@@ -22,6 +22,6 @@ The same type of combo can only be activated at a higher level in a single pastu
 
 ![](../../../.gitbook/assets/combolist.jpg)
 
-* Season 3 Gallery
+* Season 2 Gallery
 
 ![ ](../../../.gitbook/assets/combolist\_season2.jpg)
