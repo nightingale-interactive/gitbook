@@ -122,7 +122,7 @@ description: '*Updated: 25th Apr. 2022'
 |     ![](<../../.gitbook/assets/(56) tickling the dragon's tail.png>)     |             Tickling the dragon’s tail            | <p>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Crimson Moon Draconic<br>Crimson Moon Draconic</p> | 38.54% |   |
 |         ![](<../../.gitbook/assets/(57) the royal treatment.png>)        |      <p>The royal treatment</p><p>(Lv.2)</p>      |                             <p>Red Prince<br>Red Prince<br>Red Prince<br>Red Prince<br>Red Prince</p>                            | 27.83% |   |
 |           ![](<../../.gitbook/assets/(58) double date (1).png>)          | <p>Double date<br>(Pink_Female + Indigo Male)</p> |                 <p>Plain Pink<br>Plain Pink<br>Strawberry Sweetheart Ornament<br>Plain Indigo<br>Plain Indigo</p>                | 23.14% |   |
-|           ![](<../../.gitbook/assets/(9) making a splash.png>)           |           <p><br>Making A Splash<br></p>          |                               <p>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep</p>                               | 53.41% |   |
+|           ![](../../.gitbook/assets/9\_making\_a\_splash\_.png)          |           <p><br>Making A Splash<br></p>          |                               <p>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep<br>Splasheep</p>                               | 53.41% |   |
 
 
 {% endtab %}
