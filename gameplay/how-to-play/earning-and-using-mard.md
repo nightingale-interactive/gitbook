@@ -11,7 +11,7 @@
 
 ### Withdrawal MARD
 
-* The minimum claimable amount is 10 MARD, and users can withdraw MARD directly from the game to their wallet.
+* The minimum withdrawal amount is 10 MARD, and users can withdraw MARD directly from the game to their wallet.
 
 ![](../../.gitbook/assets/22.png)
 
