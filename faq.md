@@ -10,9 +10,9 @@ Our Game is currently in its Open Beta Testing stage. The Grand Launch is schedu
 
 ### **How do I obtain the pastures required for gameplay?**
 
-Pastures can be bought from NFT Marketplaces such as Opensea and Palasquare. The following link will show you where each pasture is located: [https://sheepfarm.io/map](https://sheepfarm.io/map)
+Pastures are available for purchase through NFT Marketplaces like Opensea, Palasquare, and our very own Marketplace (Mard-ket) that can be accessed here: [https://sheepfarm.ftnft.us](https://sheepfarm.ftnft.us)
 
-We will launch our very own NFT Marketplace in June 2022.
+Once you have a pasture of your own, the following link will show you where it is located: [https://sheepfarm.io/map](https://sheepfarm.io/map)
 
 
 
