@@ -31,7 +31,7 @@ Sheep require sweet treats on a regular basis in order to be happy and produce w
 ### Auto-feeding
 
 * On some pastures, auto-feeding is available. If the auto-feeding function is enabled, the sheep will consume a new sweet treat anytime their hunger level falls below 50%.
-* This function can individually be regulated for each sheep.&#x20;
+* This function can be individually regulated for each sheep.&#x20;
 
 ![](<../../../.gitbook/assets/6-1. autofeeding.png>)
 
