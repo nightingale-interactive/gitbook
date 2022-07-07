@@ -2,13 +2,11 @@
 
 Sheep require sweet treats on a regular basis in order to be happy and produce wool.
 
-### Purchasing
+### Purchasing Treats
 
-* Sweet treats are available for purchase on the website(https://sheepfarm.io).
+* Sweet treats are available for purchase on our website (https://sheepfarm.io).
 
 ![](../../../.gitbook/assets/7.png)
-
-* Purchasing process
 
 ![](../../../.gitbook/assets/8.png)
 
@@ -16,26 +14,24 @@ Sheep require sweet treats on a regular basis in order to be happy and produce w
 
 ![](../../../.gitbook/assets/10.png)
 
-* Users can find directly sweet treats in metaland.
+* The treats you purchased can immediately be found in Meta-land.
 
 ![](../../../.gitbook/assets/11.png)
 
-### Feeding to each sheep
+### Feeding Sheep
 
-* Users can feed sweets to each of their sheep individually.
+* You can individually feed treats to each of your sheep when they are hungry.
 
 ![](../../../.gitbook/assets/12.png)
 
 ![](../../../.gitbook/assets/13.png)
-
-* Sheep becomes happy with sweets!!
 
 ![](../../../.gitbook/assets/14.png)
 
 ### Auto-feeding
 
 * On some pastures, auto-feeding is available. If the auto-feeding function is enabled, the sheep will consume a new sweet treat anytime their hunger level falls below 50%.
-* This functionality can also be regulated individually for each sheep.&#x20;
+* This function can individually be regulated for each sheep.&#x20;
 
 ![](<../../../.gitbook/assets/6-1. autofeeding.png>)
 
