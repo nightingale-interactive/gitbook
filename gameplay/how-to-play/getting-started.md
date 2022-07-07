@@ -18,9 +18,9 @@
 
 {% embed url="https://youtu.be/DHm25crK52U" %}
 
-### Log-in
+### Logging-in
 
-* The following wallets can be used to play the game and to log in to the Sheepfarm website.
+* The following wallets can be used to log in to the Sheepfarm website and to play the game.
 
 1. Metamask Wallet
 2. KAIKAS Wallet
@@ -28,16 +28,16 @@
 
 ![\<Welcome to Sheepfarm in Metaland>](../../.gitbook/assets/1.png)
 
-* Connect of wallet
+* Connect your wallet
 
 ![](../../.gitbook/assets/2.png)
 
 ### Pasture selection
 
-* To see their adorable sheep, users must select a pasture.
+* Select a pasture to view your adorable sheep.
 
 ![](../../.gitbook/assets/3.png)
 
-* Users can view their other pastures at any time during gameplay.
+* You can switch between pastures at any time during gameplay.
 
 ![](../../.gitbook/assets/4.png)
