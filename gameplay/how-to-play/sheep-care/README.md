@@ -2,34 +2,34 @@
 
 ### Placing sheep
 
-* Users can add and remove sheep from their pasture at any time during gameplay.
+* You can add or remove sheep from their pasture at any time during gameplay.
 
 ![](../../../.gitbook/assets/5.png)
 
 ![](../../../.gitbook/assets/6.png)
 
-* When you click and hold your sheep 2 seconds or more, you can place it to somewhere. If you place your sheep over decoration which sheep can enjoy or sleep, then they will use the decor item immediately.
+* Click and hold down on your sheep for about 2 seconds to move it freely across the pasture. If you drag your sheep onto an interactive decoration item, they will immediately begin using it.
 
 ![](<../../../.gitbook/assets/sheep placing.png>)
 
-### Sheep pampering : Petting and Cleasing
+### Sheep grooming: Petting and washing
 
-* Sheep enjoys being petted and cleaned on a regular basis. Make your adorable sheep feel beloved!
+* Sheep need to be groomed on a regular basis in order to feel loved.
 
-![< Each sheep will give you a signal>](../../../.gitbook/assets/16.png)
+![\<Each sheep will notify you individually>](../../../.gitbook/assets/16.png)
 
 * When you find a signal of petting and cleaning from sheep
 
-![\<Sheep raised up hands to be petted!!>](../../../.gitbook/assets/17.png)
+![\<Sheep raising their hands for attention>](../../../.gitbook/assets/17.png)
 
-![\<Sheep loves to be petted!!>](../../../.gitbook/assets/18.png)
+![\<Sheep enjoying affection>](../../../.gitbook/assets/18.png)
 
-![\<Sheep loves to be cleaned!!>](../../../.gitbook/assets/19.png)
+![\<Sheep love being clean>](../../../.gitbook/assets/19.png)
 
-* Sheep will produce wool quickly and get "Friendship" if they feel beloved. And "Friendship" of sheep is required for morphing("Intimacy will be updated at open beta season).
+* If sheep feel loved, their wool production will increase and they will earn _Friendship_ points. Friendship in sheep is required for morphing (_Intimacy_ will be updated during OBT).
 
-### Shearing sheep
+### Shearing Sheep
 
-* Shearing sheep on a regular basis provides users with wool. Unless the wool is sheared in a timely manner, the sheep will stop producing more wool.
-* Sheep produce 1 bunch of wool per day, and it can be shortened by the decor and combo effects on the pasture.
-* Shearing can be done automatically on the pastures of Stewart Island.
+* Shearing sheep on a regular basis provides you with wool. Unless the wool is sheared in a timely manner, sheep will stop producing more wool.
+* Sheep produce 1 unit of wool per day, and the amount of time it takes to produce that wool can be reduced by the decor and combination effects that are active on the pasture.
+* Stewart Island Pastures offer an automatic shearing feature that relieves you of the obligation of manually shearing your sheep.

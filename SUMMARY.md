@@ -10,7 +10,7 @@
 
 ## GAMEPLAY
 
-* [How to Play](gameplay/how-to-play/README.md)
+* [How To Play](gameplay/how-to-play/README.md)
   * [Getting Started](gameplay/how-to-play/getting-started.md)
   * [Sheep care](gameplay/how-to-play/sheep-care/README.md)
     * [Feeding](gameplay/how-to-play/sheep-care/feeding.md)

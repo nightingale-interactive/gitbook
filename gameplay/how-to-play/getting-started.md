@@ -13,8 +13,8 @@
 
 ### Using NFTs in Meta-land
 
-* To access NFTs in-game, users can transfer Sheepfarm NFTs to Meta-land via our website ([https://sheepfarm.io](https://sheepfarm.io/)).
-* The website allows users to remove items from the game as well.
+* To access NFTs in-game, you can transfer Sheepfarm NFTs to Meta-land via our website ([https://sheepfarm.io](https://sheepfarm.io/)).
+* The website allows you to remove items from the game as well.
 
 {% embed url="https://youtu.be/DHm25crK52U" %}
 
