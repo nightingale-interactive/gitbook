@@ -30,7 +30,7 @@ The same type of combo can only be activated at a higher level in a single pastu
 
 ![](../../../.gitbook/assets/combolist\_season3List.png)
 
-* Klay Dragon
+* Klay Dragons
 
 ![](../../../.gitbook/assets/combolist\_season3\_klaydragon\_set.png)
 
