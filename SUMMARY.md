@@ -35,6 +35,8 @@
   * [Combo List](gameplay/combo-effect/combo-list/README.md)
     * [Combo List Season 1](gameplay/combo-effect/combo-list/combo-list-season-1.md)
     * [Combo List Season 2](gameplay/combo-effect/combo-list/combo-list-season-3.md)
+    * [Combo List Season 3](<gameplay/combo-effect/combo-list/combo-list-season-3 (1).md>)
+    * [Klay Dragon](gameplay/combo-effect/combo-list/klay-dragon.md)
   * [Combo Values](gameplay/combo-effect/combo-values.md)
 * [PVP](gameplay/pvp.md)
 * [Music](gameplay/music.md)

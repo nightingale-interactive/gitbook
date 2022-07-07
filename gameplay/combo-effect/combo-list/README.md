@@ -25,3 +25,12 @@ The same type of combo can only be activated at a higher level in a single pastu
 * Season 2 Gallery
 
 ![ ](../../../.gitbook/assets/combolist\_season2.jpg)
+
+* Season 3 Gallary
+
+![](../../../.gitbook/assets/combolist\_season3List.png)
+
+* Klay Dragon
+
+![](../../../.gitbook/assets/combolist\_season3\_klaydragon\_set.png)
+
