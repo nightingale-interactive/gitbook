@@ -2,7 +2,7 @@
 
 ### Placing sheep
 
-* You can add or remove sheep from their pasture at any time during gameplay.
+* You can add or remove sheep from a pasture at any time during gameplay.
 
 ![](../../../.gitbook/assets/5.png)
 
@@ -14,11 +14,9 @@
 
 ### Sheep grooming: Petting and washing
 
-* Sheep need to be groomed on a regular basis in order to feel loved.
+* Sheep require regular grooming in order to feel loved and will notify you when they need to be washed or petted.
 
 ![\<Each sheep will notify you individually>](../../../.gitbook/assets/16.png)
-
-* When you find a signal of petting and cleaning from sheep
 
 ![\<Sheep raising their hands for attention>](../../../.gitbook/assets/17.png)
 
