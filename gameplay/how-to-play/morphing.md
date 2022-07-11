@@ -2,7 +2,7 @@
 
 ### Before you begin
 
-* You'll need two sheep of the same grade in your wallet, as well as enough MARD to cover the morphing fee. Any two sheep you would like to morph must be of different genders.
+You'll need two sheep of the same grade in your wallet, as well as enough MARD to cover the morphing fee. Any two sheep you would like to morph must be of different genders.
 
 
 
@@ -28,24 +28,24 @@
 
 ### Morphing Fees and Probability
 
-* Fees
+* **Fees**
 
-| Sheep / Morphing type | Standard | Advanced |
-| --------------------- | :------: | :------: |
-| Normal + Normal       |  10 MARD |  20 MARD |
-| Rare + Rare           |  25 MARD |  50 MARD |
-| Epic + Epic           |    N/A   |    N/A   |
+|   Sheep Rarity  | Standard Morphing | Advanced Morphing |
+| :-------------: | :---------------: | :---------------: |
+| Normal + Normal |      10 MARD      |      20 MARD      |
+|   Rare + Rare   |      25 MARD      |      50 MARD      |
+|   Epic + Epic   |        N/A        |        N/A        |
 
-* Probability for higher grades
+* **Probability for higher grades**
 
-| Sheep / Morphing type | Standard | Advanced |
-| --------------------- | :------: | :------: |
-| Normal + Normal       |    12%   |    17%   |
-| Rare + Rare           |    7%    |    12%   |
-| Epic + Epic           |    N/A   |    N/A   |
+|   Sheep Rarity  | Standard Morphing | Advanced Morphing |
+| :-------------: | :---------------: | :---------------: |
+| Normal + Normal |        12%        |        17%        |
+|   Rare + Rare   |         7%        |        12%        |
+|   Epic + Epic   |        N/A        |        N/A        |
 
-* For every Normal + Normal morphing, Epic sheep can be occurred with a 0.1% chance.
-* Every type and gender of sheep can be appeared randomly within the same grade for the result of morphing.
+* With every Normal + Normal morph, there is a 0.1% possibility of an Epic sheep emerging.
+* Morphing can result in any random type and gender within the same grade.
 * Morphing Epic sheep is not currently possible, but will become available once higher grades of sheep are introduced.
 
 ### Some important factors to keep in mind
@@ -53,13 +53,13 @@
 * Morphing will never result in sheep of lower rarity than the ones you started with.
 * Morphing results will never include any of the original sheep you selected.
 * The moment you begin morphing, there is no way to undo the process. And because your valuable NFTs are on the line, you should never morph any sheep unless you are absolutely certain you want to.
-* Please be patient as your morphing is in progress. It may take some time to process due to Main-net network delays.
+* Please be patient as your morphing is in progress. It may take some time to process due to Mainnet network delays.
 
 ### Discover new sheep
 
-* Certain sheep can only be obtained through morphing!
+Certain sheep are more difficult to come by than others, and some can only be obtained through morphing!
 
-| Features |                  Ominous Nocturne                 |                  Captain Keelson                 |
-| :------: | :-----------------------------------------------: | :----------------------------------------------: |
-|   Grade  |                        Rare                       |                       Epic                       |
-|   Image  | ![](<../../.gitbook/assets/Ominous Nocturne.png>) | ![](<../../.gitbook/assets/Captain Keelson.png>) |
+|                Image               |       Name       | Grade |
+| :--------------------------------: | :--------------: | :---: |
+| ![](../../.gitbook/assets/402.png) | Ominous Nocturne |  Rare |
+| ![](../../.gitbook/assets/721.png) |  Captain Keelson |  Epic |
