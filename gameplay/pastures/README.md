@@ -28,7 +28,7 @@ Pastures are classified into three groups based on their size (see the table bel
 
 ![](<../../.gitbook/assets/image (54).png>)
 
-The capacity for sheep increases in direct proportion to the size of the pasture. Being able to combine larger groups of compatible sheep will be beneficial because it will enable the activation of powerful combo effects.
+The capacity for sheep and decoration items increases in direct proportion to the size of the pasture. Being able to combine larger groups of compatible sheep will be beneficial because it will enable the activation of powerful combo effects.
 
 
 
