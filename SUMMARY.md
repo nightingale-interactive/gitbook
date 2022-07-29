@@ -44,7 +44,8 @@
 ## ECONOMY
 
 * [Tokenomics](economy/tokenomics.md)
-* [Nightingale Token (NGIT)](economy/nightingale-token-ngit.md)
+* [Nightingale Token (NGIT)](economy/nightingale-token-ngit/README.md)
+  * [vNGIT](economy/nightingale-token-ngit/vngit.md)
 * [Marmalade Token (MARD)](economy/marmalade-token-mard.md)
 
 ***

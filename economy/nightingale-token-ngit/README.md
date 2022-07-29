@@ -1,6 +1,6 @@
 # Nightingale Token (NGIT)
 
-![](<../.gitbook/assets/logo\_NGIT (1).png>)
+![](<../../.gitbook/assets/logo\_NGIT (1).png>)
 
 **NGIT** is the governance token of Meta-land. The token represents voting power in UCC polling and DAO gaming. NGIT has a fixed supply and will not be increased. This will be issued to players to reflect each person's stake in the DAO.
 
@@ -38,7 +38,7 @@
 
 ### Emission Schedule
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 ### Utilities
 
