@@ -1,5 +1,5 @@
 ---
-description: '*Updated: 6th Aug. 2022'
+description: '*Last Updated: 6th Aug. 2022'
 ---
 
 # Team
