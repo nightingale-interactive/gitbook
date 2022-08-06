@@ -1,11 +1,5 @@
 # Product Team
 
-### **Rick (CEO)**
-
-Rick has more than 15 years of experience in game development, IT, and digital media marketing. From 2007 to 2010, he worked as a game developer for Atoonz Inc. and from 2010 to 2015, he was the CEO of Nooslab, which is the company behind the creation of Sheepfarm in Sugarland. Since 2016, he has also served as the CTO of Marketit, an influencer marketing platform, where he has led the creation of large-scale IT services. Rick didn't stop there. He is continuing to grow his presence in the blockchain industry with Sheepfarm. He delivers strong leadership and skills to optimize program and project management in order to achieve a successful project.
-
-
-
 ### Hoon (Product Owner)
 
 Hoon has experience in several types of companies including shipbuilding, mobile gaming, and venture capital. He has invested in and mentored early-stage startups in particular, and has engaged in analyzing growth capital, pre-IPO, and M\&A transactions. He most recently served as the founder/CEO of a MENA-focused IT business. Hoon will help the team's expansion with the goal of acquiring NRU and establishing relationships with other companies.
@@ -69,4 +63,3 @@ Yeon is an illustrator and designer who is skilled in various fields. As a drawi
 ### Kevin (Graphic Designer)
 
 Kevin has worked as a freelancer in the graphic design area for over 9 years and has expertise in 3D, augmented reality, and virtual reality. Thanks to his curiosity and eagerness to learn new things, he has worked on a variety of graphic design projects – ranging from small businesses to space-related companies, allowing him to tackle any challenge or problem.
-
