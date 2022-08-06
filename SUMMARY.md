@@ -3,9 +3,11 @@
 * [Sheepfarm in Meta-land](README.md)
 * [Roadmap](roadmap.md)
 * [Team](team/README.md)
-  * [Dev team](team/dev-team.md)
+  * [Key Members](team/key-members.md)
+  * [Product Team](team/product-team.md)
   * [Biz team](team/biz-team.md)
-* [Partnership](partnership.md)
+  * [Advisors](team/advisors.md)
+* [Partners](partners.md)
 * [FAQ](faq.md)
 
 ## GAMEPLAY
