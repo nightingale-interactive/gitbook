@@ -12,7 +12,7 @@ Nia has approximately two years of experience working as a freelancer in the fie
 
 
 
-### Eugene (Front-end Dev)
+### Eugene (Front-end Development)
 
 Eugene is a front-end developer that has worked in a variety of IT firms, where she gained skills in UI/UX development and graphic design. She also has experience working in the hospitality industry where customer service is a top priority. Her primary objective is increasing user satisfaction.
 
