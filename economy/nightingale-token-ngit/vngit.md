@@ -22,10 +22,4 @@ vNGIT will be distributed automatically once you have LP tokens in your possessi
 
 
 
-**vNGIT Contract Address:**
-
-[0xb8617735e75738a3136bab76682b364c636fd904](https://scope.klaytn.com/account/0xb8617735e75738a3136bab76682b364c636fd904)
-
-
-
 More details regarding vNGIT will become available as the development of the voting feature progresses.
