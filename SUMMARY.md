@@ -12,13 +12,15 @@
 
 ## GAMEPLAY
 
-* [How To Play](gameplay/how-to-play/README.md)
-  * [Getting Started](gameplay/how-to-play/getting-started.md)
-  * [Sheep care](gameplay/how-to-play/sheep-care/README.md)
-    * [Feeding](gameplay/how-to-play/sheep-care/feeding.md)
-  * [Pasture Decoration](gameplay/how-to-play/pasture-decoration.md)
-  * [Earning And Spending MARD](gameplay/how-to-play/earning-and-spending-mard.md)
-  * [Morphing](gameplay/how-to-play/morphing.md)
+* [Sheep Farming](gameplay/sheep-farming/README.md)
+  * [Getting Started](gameplay/sheep-farming/getting-started.md)
+  * [Sheep care](gameplay/sheep-farming/sheep-care/README.md)
+    * [Feeding](gameplay/sheep-farming/sheep-care/feeding.md)
+  * [Pasture Decoration](gameplay/sheep-farming/pasture-decoration.md)
+  * [Earning And Spending MARD](gameplay/sheep-farming/earning-and-spending-mard.md)
+  * [Morphing](gameplay/sheep-farming/morphing.md)
+* [Sheep Racing](gameplay/sheep-racing/README.md)
+  * [Sheep Attributes](gameplay/sheep-racing/sheep-attributes.md)
 * [Pastures](gameplay/pastures/README.md)
   * [Stewart Island](gameplay/pastures/stewart-island.md)
   * [Pre-sale](gameplay/pastures/pre-sale.md)
@@ -40,7 +42,6 @@
     * [Combo List Season 3](<gameplay/combo-effect/combo-list/combo-list-season-3 (1).md>)
     * [Klay Dragons](gameplay/combo-effect/combo-list/klay-dragons.md)
   * [Combo Values](gameplay/combo-effect/combo-values.md)
-* [PVP](gameplay/pvp.md)
 * [Music](gameplay/music.md)
 
 ## ECONOMY
