@@ -1,6 +1,6 @@
 # Sheep Attributes
 
-1. Attributes
+* **Attributes**
 
 |                          Icon                          | Attribute | Description                                                                                                                                                        |
 | :----------------------------------------------------: | :-------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -10,10 +10,10 @@
 |    ![](../../.gitbook/assets/icon\_st\_balance.png)    |  Balance  | Balance affects the running stability of sheep. It not only helps your sheep get a strong start in the race, but it also reduces the chance that they may stumble. |
 |   ![](../../.gitbook/assets/icon\_st\_mentality.png)   |   Spirit  | Spirit is an indicator of a sheep's capacity to better withstand fatigue and enables them to make more frequent use of their skills.                               |
 
-\*Updates later this year will include features relating to stumbling or skill use while running.
+_\*Updates later this year will include features relating to stumbling or skill use while running._
 
 
 
-2\. Dash-Time
+* **Dash-Time**
 
 At some point during a race, a sheep will reach its top speed, which is known as its "Dash-time." Each sheep has a particular zone where their Dash-time will go into effect. A sheep's stamina is continually being depleted while they run, and during their dash time, it is used significantly more.
