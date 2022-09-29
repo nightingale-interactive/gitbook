@@ -21,6 +21,7 @@
   * [Morphing](gameplay/sheep-farming/morphing.md)
 * [Sheep Racing](gameplay/sheep-racing/README.md)
   * [Sheep Attributes](gameplay/sheep-racing/sheep-attributes.md)
+  * [Odds](gameplay/sheep-racing/odds.md)
 * [Pastures](gameplay/pastures/README.md)
   * [Stewart Island](gameplay/pastures/stewart-island.md)
   * [Pre-sale](gameplay/pastures/pre-sale.md)
