@@ -1,4 +1,4 @@
-# Earning And Spending MARD
+# Earning & Spending
 
 ### Selling Wool
 
@@ -7,13 +7,7 @@
 
 ![\<Item list = Warehouse>](../../.gitbook/assets/20.png)
 
-![\<User can sell wool directly in the warehouse>](../../.gitbook/assets/21.png)
-
-### Withdrawing MARD
-
-* The minimum withdrawal amount is 10 MARD, and you can withdraw MARD directly from the game to your wallet.
-
-![](../../.gitbook/assets/22.png)
+![\<Users can sell wool directly from their item box>](../../.gitbook/assets/21.png)
 
 ### Spending MARD
 
