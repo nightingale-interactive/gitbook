@@ -16,4 +16,4 @@ _\*Updates later this year will include features relating to stumbling or skill 
 
 * **Dash-Time**
 
-At some point during a race, a sheep will reach its top speed, which is known as its "Dash-time”. Each sheep has a particular zone where their Dash-time will go into effect. A sheep's stamina is continually being depleted while they run, and during their Dash-time, it is used significantly more.
+At some point during a race, a sheep will reach its top speed, which is known as its _**Dash-time**_**,** and is indicated by a gauge alongside the other sheep attributes. A sheep's stamina is continually being depleted while they run, and during their _Dash-time_, it is used significantly more.
