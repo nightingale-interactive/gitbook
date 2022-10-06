@@ -1,6 +1,6 @@
 # Sheep Attributes
 
-* **Attributes**
+### **Attributes**
 
 |                          Icon                          | Attribute | Description                                                                                                                                                        |
 | :----------------------------------------------------: | :-------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -14,6 +14,6 @@ _\*Updates later this year will include features relating to stumbling or skill 
 
 
 
-* **Dash-Time**
+### **Dash-Time**
 
 At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is indicated by a gauge alongside the other sheep attributes. A sheep's stamina is continually being depleted while they run, and during their _Dash-time_, it is used significantly more.
