@@ -20,3 +20,11 @@ To deposit MARD in your game, navigate to our website's shop menu, and under gam
 
 
 
+
+
+
+
+_\*If you’re just getting started and want to acquire MARD through a decentralised exchange,_ [_this_](https://swapscanner.io/swap?from=0x0000000000000000000000000000000000000000\&to=0x8888888888885b073f3c81258c27e83db228d5f3) _is a convenient place to do it._
+
+
+

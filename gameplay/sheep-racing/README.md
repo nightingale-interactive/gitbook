@@ -1,11 +1,10 @@
 # Sheep Racing
 
-Players can compete against each other by entering tournaments. Rarer sheep will have a better chance of taking home the prize. Some players might prefer to bet on the sheep of other players rather than entering the contest themselves.
+Sheep Racing is a type of player-versus-player (PvP) activity in which players compete with one another by entering tournaments. Players have the option to vote for the weather conditions that will occur during races, place bets on their favourite sheep, and even just observe the action from the sidelines. Spectators are more than welcome to enjoy the activity without owning any of our NFTs!
 
 
 
-![\[ Concept art \]](../../.gitbook/assets/sheepfram\_sheeprace.jpg)
 
 
 
-More details are coming soon.
+
