@@ -3,7 +3,7 @@
 ### Join
 
 * Users that have a pasture, sheep, and sweet treats in their wallet can play without requesting permission.
-* NFTs for playing the game (pastures, sheep, decorations) can be purchased through Opensea (https://opensea.io/collection/sheepfarm), Palasquare (https://pala.world/square), or our Mard-ket (https://sheepfarm.ftnft.us/).
+* NFTs for playing the game (pastures, sheep, decorations) can be purchased through [Opensea](https://opensea.io/collection/sheepfarm) , [Palasquare](https://pala.world/square/project/a9f07b1260BB9EEBcbABA66700b00Fe08B61e1E6), or our [Mard-ket](https://sheepfarm.ftnft.us/products?offset=0\&limit=20).&#x20;
 
 ![\<NFT Marketplace Opensea - https://opensea.io/collection/sheepfarm>](<../../.gitbook/assets/opensea main.PNG>)
 
@@ -13,7 +13,7 @@
 
 ### Using NFTs in Meta-land
 
-* To access NFTs in-game, you can transfer Sheepfarm NFTs to Meta-land via our website ([https://sheepfarm.io](https://sheepfarm.io/)).
+* To access NFTs in-game, you can transfer Sheepfarm NFTs to Meta-land via our [website](https://sheepfarm.io/).
 * The website allows you to remove items from the game as well.
 
 {% embed url="https://youtu.be/DHm25crK52U" %}

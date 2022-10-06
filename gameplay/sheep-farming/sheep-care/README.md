@@ -8,7 +8,7 @@
 
 ![](../../../.gitbook/assets/6.png)
 
-* Click and hold down on your sheep for about 2 seconds to move it freely across the pasture. If you drag your sheep onto an interactive decoration item, they will immediately begin using it.
+* Click and hold down on your sheep for about 2 seconds to move it freely across your pasture. If you drag your sheep onto an interactive decoration item, they will immediately begin using it.
 
 ![](<../../../.gitbook/assets/sheep placing.png>)
 
@@ -24,7 +24,7 @@
 
 ![\<Sheep love being clean>](../../../.gitbook/assets/19.png)
 
-* If sheep feel loved, their wool production will increase and they will earn _Friendship_ points. Friendship in sheep is required for morphing (_Intimacy_ will be updated during OBT).
+* If sheep feel loved, their wool production will increase.
 
 ### Shearing Sheep
 
