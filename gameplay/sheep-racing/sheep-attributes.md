@@ -16,4 +16,13 @@ _\*Updates later this year will include features relating to stumbling or skill 
 
 ### **Dash-Time**
 
-At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is indicated by a gauge alongside the other sheep attributes. A sheep's stamina is continually being depleted while they run, and during their _Dash-time_, it is used significantly more.
+At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is indicated by a gauge alongside the other sheep attributes. A sheep's stamina is continually being depleted while they run, and during their _Dash-time_, it is used significantly more.\
+
+
+
+
+### Stumbling
+
+<figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+
+Stumbling is a random event that occurs during a race. When a sheep stumbles during a race, its speed decreases for a short period of time. The frequency of sheep stumbling is influenced by both their Balance and Spirit stats. The faster a sheep is running, the greater its chance of becoming disoriented and stumbling. A better Balance stat gives sheep a better chance of staying on their feet and avoiding stumbling.
