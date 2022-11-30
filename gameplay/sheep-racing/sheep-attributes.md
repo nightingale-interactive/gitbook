@@ -16,6 +16,8 @@ _\*Updates later this year will include features relating to stumbling or skill 
 
 ### **Dash-Time**
 
+<figure><img src="../../.gitbook/assets/Sheepfarm_Guidebook_Stamina.PNG" alt=""><figcaption></figcaption></figure>
+
 At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is indicated by a gauge alongside the other sheep attributes. A sheep's stamina is continually being depleted while they run, and during their _Dash-time_, it is used significantly more.\
 
 
