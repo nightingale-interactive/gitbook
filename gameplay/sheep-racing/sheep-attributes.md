@@ -28,3 +28,9 @@ At some point during a race, a sheep will reach its top speed, which is known as
 <figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
 Stumbling is a random event that occurs during a race. When a sheep stumbles during a race, its speed decreases for a short period of time. The frequency of sheep stumbling is influenced by both their Balance and Spirit stats. The faster a sheep is running, the greater its chance of becoming disoriented and stumbling. A better Balance stat gives sheep a better chance of staying on their feet and avoiding stumbling.
+
+
+
+### Health Gauge
+
+During a race, you may check the current health status of the sheep via their Health Gauges visible on the left. While running, especially at full speed or during Dash-time, a sheep's stamina will be continuously be depleted, and with it, its overall health.
