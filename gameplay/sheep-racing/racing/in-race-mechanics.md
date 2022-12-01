@@ -1,6 +1,6 @@
 # In-Race Mechanics
 
-### Mechanics
+### Interface
 
 <figure><img src="../../../.gitbook/assets/Untitled_Artwork (1).png" alt=""><figcaption></figcaption></figure>
 
