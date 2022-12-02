@@ -10,15 +10,17 @@
 |    ![](../../.gitbook/assets/icon\_st\_balance.png)    |  Balance  | Balance affects the running stability of sheep. It not only helps your sheep get a strong start in the race, but it also reduces the chance that they may stumble. |
 |   ![](../../.gitbook/assets/icon\_st\_mentality.png)   |   Spirit  | Spirit is an indicator of a sheep's capacity to better withstand fatigue and enables them to make more frequent use of their skills.                               |
 
-_\*Updates later this year will include features relating to stumbling or skill use while running._
+__
 
 
 
 ### **Dash-Time**
 
-<figure><img src="../../.gitbook/assets/Sheepfarm_Guidebook_Stamina.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dashometer_bg.png" alt=""><figcaption></figcaption></figure>
 
-At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is indicated by a gauge alongside the other sheep attributes. A sheep's stamina is continually being depleted while they run, and during their _Dash-time_, it is used significantly more.\
+At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is represented by a Dashometer bar alongside the other attributes of a sheep. This bar shows at what point during a race a sheep will activate its _Dash-time_ in order to boost their speed at the optimal moment. The stamina of a sheep will always be depleted while it is running, but during _Dash**-**time_, it will be consumed significantly more.\
+
+
 
 
 
@@ -31,8 +33,11 @@ Stumbling is a random event that occurs during a race. When a sheep stumbles, it
 
 
 
+
+
 ### Health Gauge
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sheepfarm_Guidebook_Stamina.PNG" alt=""><figcaption></figcaption></figure>
 
-During a race, you may check the current health status of the sheep via their Health Gauges visible on the left. While running, especially at full speed or during Dash-time, a sheep's stamina will be continuously be depleted, and with it, its overall health.
+You can monitor sheep's current health during a race by looking at their Health Gauges, which are located on the left of the screen. Sheep, especially when pushed to their physical limits, will gradually lose health and energy as they run. When their health is low, sheep lose their ability to run at full speed or use their dash-time.
+
