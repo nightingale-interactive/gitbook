@@ -37,7 +37,7 @@ Stumbling is a random event that occurs during a race. When a sheep stumbles, it
 
 ### Health Gauge
 
-<figure><img src="../../.gitbook/assets/Sheepfarm_Guidebook_Stamina.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sheep-stamina.png" alt=""><figcaption></figcaption></figure>
 
 You can monitor sheep's current health during a race by looking at their Health Gauges, which are located on the left of the screen. Sheep, especially when pushed to their physical limits, will gradually lose health and energy as they run. When their health is low, sheep lose their ability to run at full speed or use their dash-time.
 
