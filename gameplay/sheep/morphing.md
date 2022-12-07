@@ -1,6 +1,6 @@
 # Morphing
 
-<img src="../../.gitbook/assets/1_rBdLxJWUwW8yX_peUbQeAw.png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/IMG_0579.jpg" alt=""><figcaption></figcaption></figure>
 
 If you want to increase the power and functionality of your sheep, morphing may be the answer you seek. In Sheepfarm in Meta-land, two lower rarity sheep can be morphed into a higher rarity sheep. However, morphing does not always guarantee a higher rarity; there’s a risk that morphing will result in a sheep of just the same rarity as the ones you started with. Even so, morphing will never result in sheep that are less valuable than the original ones you morphed!
 

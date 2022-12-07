@@ -1,5 +1,9 @@
 # Sheep Attributes
 
+Sheep possess a unique set of abilities that influence how well they compete in tournaments. Rarer sheep have more natural potential and will exhibit more significant attributes.
+
+
+
 ### **Attributes**
 
 |                          Icon                          | Attribute | Description                                                                                                                                                        |
@@ -12,7 +16,7 @@
 
 __
 
-
+__
 
 ### **Dash-Time**
 

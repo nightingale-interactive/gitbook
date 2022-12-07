@@ -1,6 +1,6 @@
-# Decor Upgrade
+# Decor Upgrades
 
-![](<../../../.gitbook/assets/image (22).png>)
+<figure><img src="../../../.gitbook/assets/IMG_0580.jpg" alt=""><figcaption></figcaption></figure>
 
 Decorative items can be used as-is, but they can also be enhanced to make them more effective in their intended usage. Upgraded decor can greatly speed up the production of wool. Decorative items can be upgraded from the shop, and other decoration items can be used as a resource to upgrade them.
 

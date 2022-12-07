@@ -4,13 +4,7 @@ description: '*Updated: 19th Apr. 2022'
 
 # Decor List
 
-###
 
-###
-
-###
-
-###
 
 ### Item List
 
