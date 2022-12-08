@@ -26,7 +26,7 @@ Begin by making sure your wallet is linked, then navigate to the Sheep Reveal ta
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 After clicking the Select Sheep button, choose the sheep whose identity you want to reveal (Only Sheep in Real-world will be shown). Revealing a sheep costs 50 [vNGIT](https://guide.sheepfarm.io/guide/economy/nightingale-token-ngit/vngit).
 
@@ -40,9 +40,7 @@ Once the Reveal Process is complete, the stats of your NFT will be visible.
 
 
 
-
-
-<figure><img src="../../.gitbook/assets/Untitled (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 You will be able to view a list of all sheep whose identities have been revealed. You may also filter your revealed sheep by clicking "My Reveal" or by searching for a token ID number.
 
