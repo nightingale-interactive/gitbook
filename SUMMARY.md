@@ -37,7 +37,7 @@
 * [Sheep](gameplay/sheep/README.md)
   * [Collection](gameplay/sheep/collection.md)
   * [Morphing](gameplay/sheep/morphing.md)
-  * [Sheep Attributes](gameplay/sheep/sheep-attributes.md)
+  * [Attributes](gameplay/sheep/attributes.md)
   * [Reveal](gameplay/sheep/reveal.md)
 * [Decoration](gameplay/decoration/README.md)
   * [Decor List](gameplay/decoration/decor-list.md)
