@@ -17,12 +17,12 @@ Status effects can be activated by various factors, including the environment or
 
 Examples of common status effects include:
 
-|   Name   |                   Effect                  |
-| :------: | :---------------------------------------: |
-|  Uphill  |                 -20% speed                |
-| Downhill |                 +20% speed                |
-| Ice Lane | <p>-20% speed<br> +20% health decline</p> |
-|  Puddle  |                 -30% speed                |
+|          Name          |                   Effect                  |
+| :--------------------: | :---------------------------------------: |
+|         Uphill         |                 -20% speed                |
+|        Downhill        |                 +20% speed                |
+|        Ice Lane        | <p>-10% speed <br>+12% health decline</p> |
+| Puddle _(Coming soon)_ |                 -30% speed                |
 
 
 
