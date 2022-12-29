@@ -15,18 +15,20 @@ Status effects are conditions that can affect the abilities or attributes of a s
 
 Status effects can be activated by various factors, including the environment or certain abilities and can have a significant impact on gameplay, as they can either be an advantage or disadvantage for any sheep participating in a race.
 
+
+
 Examples of common status effects include:
 
-|          Name          |                   Effect                  |
-| :--------------------: | :---------------------------------------: |
-|         Uphill         |                 -20% speed                |
-|        Downhill        |                 +20% speed                |
-|        Ice Lane        | <p>-10% speed <br>+12% health decline</p> |
-| Puddle _(Coming soon)_ |                 -30% speed                |
+|                               Icon                              |          Name          |                   Effect                  |
+| :-------------------------------------------------------------: | :--------------------: | :---------------------------------------: |
+|     ![](../../../.gitbook/assets/thumb\_skills\_uphill.png)     |         Uphill         |                 -20% speed                |
+| ![](<../../../.gitbook/assets/thumb\_skills\_downhill (1).png>) |        Downhill        |                 +20% speed                |
+|       ![](../../../.gitbook/assets/thumb\_skills\_ice.png)      |        Ice Lane        | <p>-10% speed <br>+12% health decline</p> |
+|      ![](../../../.gitbook/assets/thumb\_skills\_pool.png)      | Puddle _(Coming Soon)_ |                 -30% speed                |
 
+###
 
-
-
+###
 
 ### Health Bar
 

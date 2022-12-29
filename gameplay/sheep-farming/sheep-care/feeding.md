@@ -4,7 +4,7 @@ Sheep require sweet treats on a regular basis in order to be happy and produce w
 
 ### Purchasing Treats
 
-* Sweet treats are available for purchase on our website (https://sheepfarm.io).
+* Sweet treats are available for purchase on our [website](https://sheepfarm.io).
 
 ![](../../../.gitbook/assets/7.png)
 
