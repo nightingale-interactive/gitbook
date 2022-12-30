@@ -24,6 +24,7 @@ Examples of common status effects include:
 |     ![](../../../.gitbook/assets/thumb\_skills\_uphill.png)     |         Uphill         |                 -20% speed                |
 | ![](<../../../.gitbook/assets/thumb\_skills\_downhill (1).png>) |        Downhill        |                 +20% speed                |
 |       ![](../../../.gitbook/assets/thumb\_skills\_ice.png)      |        Ice Lane        | <p>-10% speed <br>+12% health decline</p> |
+|          ![](<../../../.gitbook/assets/image (34).png>)         |       Slipstream       |            -30% health decline            |
 |      ![](../../../.gitbook/assets/thumb\_skills\_pool.png)      | Puddle _(Coming Soon)_ |                 -30% speed                |
 
 ###
