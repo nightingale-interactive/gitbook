@@ -16,6 +16,7 @@ NFT collectors should be aware that some NFTs issued before 2023 are now obsolet
 
 * Lucky Boxes (Season 1 - 3)
 * Compensation Boxes
+* Christmas Boxes
 * MARD Boxes
 * Rainbow Boxes (Red, Orange, Yellow, Green, Blue, Indigo and Violet)
 * Red Envelopes
