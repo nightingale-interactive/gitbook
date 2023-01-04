@@ -6,4 +6,20 @@ Lucky boxes each contain a total of **seven different goodies**, with sheep or o
 
 
 
-**At least one sheep** will be among the seven items in a lucky box, with the breed and rarity of each one being randomly generated. Everything is dependent on the probability established in a box, which you can inspect along with the contents before purchasing it. And because everything is regulated by smart contracts, you will not have to worry about being ripped off. Blockchain technology has truly changed the world!
+**At least one sheep** will be among the seven items in a lucky box, with the breed and rarity of each one being randomly generated. Everything is dependent on the probability established in a box, which you can inspect along with the contents before purchasing it. And because everything is regulated by smart contracts, you will not have to worry about being ripped off. Blockchain technology has truly changed the world!\
+\
+
+
+### PLEASE NOTE
+
+NFT collectors should be aware that some NFTs issued before 2023 are now obsolete and should not be acquired. These NFTs include:
+
+* Lucky Boxes (Season 1 - 3)
+* Compensation Boxes
+* MARD Boxes
+* Rainbow Boxes (Red, Orange, Yellow, Green, Blue, Indigo and Violet)
+* Red Envelopes
+
+\
+&#x20;
+
