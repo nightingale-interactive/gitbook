@@ -63,3 +63,15 @@ You will be able to tell when a sheep has reached its top speed, which is referr
 
 
 
+
+
+
+
+### Overtaking
+
+<figure><img src="../../../.gitbook/assets/overtaking.png" alt=""><figcaption></figcaption></figure>
+
+If a sheep's power stat is high, it may have a better chance of overtaking the sheep in front of it. It allows it to move more quickly or easily push its way past the other sheep. However, it is important to note that the probability of overtaking may also be influenced by other factors such as the behaviour of the other sheep.
+
+
+

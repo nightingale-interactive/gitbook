@@ -1,4 +1,4 @@
-# Sheep Attributes
+# Attributes
 
 Sheep possess a unique set of abilities that influence how well they compete in tournaments. Rarer sheep have more natural potential and will exhibit more significant attributes.
 
@@ -20,7 +20,7 @@ __
 
 ### **Dash-Time**
 
-<figure><img src="../../.gitbook/assets/dash_time.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 At some point during a race, a sheep will reach its top speed, which is known as its _Dash-time_, and is represented by a Dashometer bar alongside the other attributes of a sheep. This bar shows at what point during a race a sheep will activate its _Dash-time_ in order to boost their speed at the optimal moment. The stamina of a sheep will always be depleted while it is running, but during _Dash**-**time_, it will be consumed significantly more.\
 
