@@ -19,6 +19,7 @@
   * [Pasture Decoration](gameplay/sheep-farming/pasture-decoration.md)
   * [Earning & Spending](gameplay/sheep-farming/earning-and-spending.md)
   * [Morphing](gameplay/sheep-farming/morphing.md)
+  * [Sheep Chat](gameplay/sheep-farming/sheep-chat.md)
 * [Sheep Racing](gameplay/sheep-racing/README.md)
   * [Getting Started](gameplay/sheep-racing/getting-started.md)
   * [Racing](gameplay/sheep-racing/racing/README.md)
