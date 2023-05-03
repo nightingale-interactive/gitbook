@@ -40,7 +40,7 @@ Navigate to our website's Shop menu and click the Sheep Morphing tab.
 |   Rare + Rare   |      25 MARD      |      50 MARD      |
 |   Epic + Epic   |        N/A        |        N/A        |
 
-****
+
 
 **Probability for higher grades**
 

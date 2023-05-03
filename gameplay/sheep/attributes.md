@@ -14,9 +14,9 @@ Sheep possess a unique set of abilities that influence how well they compete in 
 |    ![](../../.gitbook/assets/icon\_st\_balance.png)    |  Balance  | Balance affects the running stability of sheep. It not only helps your sheep get a strong start in the race, but it also reduces the chance that they may stumble. |
 |   ![](../../.gitbook/assets/icon\_st\_mentality.png)   |   Spirit  | Spirit is an indicator of a sheep's capacity to better withstand fatigue and enables them to make more frequent use of their skills.                               |
 
-__
 
-__
+
+
 
 ### **Dash-Time**
 
