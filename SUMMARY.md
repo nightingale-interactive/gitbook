@@ -25,7 +25,7 @@
   * [Racing](gameplay/sheep-racing/racing/README.md)
     * [In-Race Mechanics](gameplay/sheep-racing/racing/in-race-mechanics.md)
     * [Weather Voting](gameplay/sheep-racing/racing/weather-voting.md)
-    * [Practice Run](gameplay/sheep-racing/racing/practice-run.md)
+    * [Practice Run](gameplay/sheep-racing/racing/simulation.md)
   * [Betting](gameplay/sheep-racing/betting/README.md)
     * [Buying Tickets](gameplay/sheep-racing/betting/buying-tickets.md)
     * [History & Results](gameplay/sheep-racing/betting/history-and-results.md)
