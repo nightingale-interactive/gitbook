@@ -2,6 +2,8 @@
 
 The Practice Run feature lets you watch demo versions of races for a cost of one Scope. Learn the tracks, refine your abilities, and adapt strategies to improve your own skills and understanding.
 
+<figure><img src="../../../.gitbook/assets/Image_2023-05-03_at_10.31.JPG" alt=""><figcaption></figcaption></figure>
+
 
 
 The odds of placement for each individual sheep are also determined, factoring in their attributes and the various kinds of weather. Analyze the moves, decision-making, and skills of top performing sheep to enhance your betting experience.
