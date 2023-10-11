@@ -68,7 +68,7 @@
 ***
 
 * [Website](https://sheepfarm.io/)
-* [Discord](https://discord.gg/sheepfarm)
+* [Discord](http://bit.ly/46GnTT2)
 * [Twitter](https://twitter.com/SheepFarmMeta)
 * [Telegram](https://t.me/sheepmeta)
 * [Opensea](https://opensea.io/collection/sheepfarm)
