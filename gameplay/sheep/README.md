@@ -1,44 +1,32 @@
 # Sheep
 
-![](<../../.gitbook/assets/concept painting03.jpg>)
+In Meta-land, sheep are the heart and soul of your pastoral adventure, aspiring to become racing champions. These woolly contenders come in three rarities: **Normal**, <mark style="color:blue;">**Rare**</mark>, and <mark style="color:red;">**Epic**</mark>. As a shepherd, your role is to nurture and raise these ambitious sheep, leading them towards racing excellence. They thrive on your care, attention, and occasional sweet treats. Your dedication shapes their journey from ordinary to extraordinary.
 
-Farmers that sell the wool from their sheep can earn MARD tokens in exchange for their goods. The rarity rating of a sheep influences the value of the wool it produces, and in general, rarer sheep generate more valuable wool.
+##
 
+## **Lambkins**
 
+<figure><img src="../../.gitbook/assets/img_sheepfarm (1).jpg" alt=""><figcaption></figcaption></figure>
 
-An important part of caring for healthy and happy sheep is harvesting their fleece. Shearing is essential for the health of sheep, and if it is not done, the fleece can become overgrown and have an adverse effect on the sheep's general well-being and productivity. The amount of wool produced by sheep will also be greatly influenced by their degree of happiness.
+Lambkins, cute baby sheep in a cozy basket, is a special addition to your virtual farm. Over time, it will grow into a unique adult sheep that you can add to your flock.&#x20;
 
-
-
-### **Placement**
-
-You can view your inventory by clicking on the inventory icon in the game menu. Select the sheep you wish to place from the item section. The placement symbol will then appear, and when clicked, your sheep will be added to the pasture. Certain sheep are more effective when placed together and by grouping compatible sheep you can achieve synergy and activate a combo effect. You may need to replace some sheep in order to accomplish this; simply move them to the warehouse and replace them with another.&#x20;
+As with all your sheep, proper care is crucial for your Lambkin, as a well-cared-for Lambkin has a higher chance of evolving into a rarer sheep. Regularly tending to tasks like <mark style="color:blue;">washing, feeding, petting</mark>, and <mark style="color:blue;">engaging in conversations</mark> with your Lambkin can lead to a remarkable transformation – you may even notice a subtle yet exciting change as your Lambkin begins to emit a radiant glow! This aura signals that your Lambkin is overflowing with potential, significantly enhancing its odds of maturing into a rarer breed.
 
 
 
-### **Harvesting**
-
-Sheep's wool begins to grow after they have been on a pasture for a certain amount of time. You can see how much of a sheep's wool gauge has been filled by clicking on it. Once the gauge is entirely full, the wool is ready to be collected. At this point, you will be able to claim MARD tokens and the wool gauge will be reset. The number of tokens you earn is determined by the type of sheep you use. By clicking on a sheep, you can learn how much money you can make from it.
+If you're eager to speed up your Lambkin's growth, consider using <mark style="color:blue;">Lambooster potions</mark>, which can provide a helpful boost.
 
 
 
-The pastures on Stewart Island have an auto-farming feature that are not present in other regions. If your pasture doesn't support auto-farming, you will have to manually collect wool once the gauge is full.
+**There are two distinct types of Lambkins:**
+
+**White Lambkin:** This adorable Lambkin will transform into a random sheep breed as you nurture and care for it.
+
+**Rainbow Lambkin:** An enhanced Lambkin with superior qualities. Raise it with love, and you'll witness it transform into a random rare or epic sheep.
 
 
 
-### **Petting and Cleaning**
+## Sheep Collection
 
-Sheep are very sociable and love to be petted! Interaction has a variety of notable benefits, and it also helps to strengthen the bond that you have with your sheep. Bathing your sheep is another vital aspect of caring for the health and well-being of your flock, and if you make a point of keeping your sheep clean by washing them as often as they require it, they may even produce wool quickly. Certain functional decoration items can be installed on your pasture that will allow your sheep to pet or cleanse themselves as needed. &#x20;
-
-
-
-### Feeding
-
-It goes without saying that you'll need to purchase "Sweet treats" for your sheep, which you can do with the MARD tokens that you earn. Alternatively, automatic feeding can be enabled to save both time and effort on your part. When the level of hunger in sheep falls below 50%, this mechanism kicks in to provide sweets for them. The amount of wool produced by a sheep decreases dramatically when its hunger level falls below 50%. If it reaches 0%, the sheep will no longer be able to generate any wool at all until it has been fed again.
-
-|              Sweet treats              |         Name         |                              |
-| :------------------------------------: | :------------------: | :--------------------------: |
-| ![](../../.gitbook/assets/food000.png) |    Bitter bon bon    |  Restores hunger for 8 hours |
-| ![](../../.gitbook/assets/food001.png) | Soft Meringue Cookie | Restores hunger for 24 hours |
-| ![](../../.gitbook/assets/food002.png) |   Green Apple Jelly  |  Restores hunger for 3 days  |
+_Coming Soon..._
 
