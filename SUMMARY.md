@@ -26,14 +26,14 @@
 * [Missioins & Challenges](gameplay/missioins-and-challenges.md)
 * [Daily Luck](gameplay/daily-luck.md)
 * [Consumable Items](gameplay/consumable-items.md)
-* [Withdraw/Deposit MARD](gameplay/withdraw-deposit-mard.md)
 * [Account Import/Export](gameplay/account-import-export.md)
 * [FAQ](gameplay/faq.md)
 
 ## Web 3.0
 
 * [Real-world & Meta-land](web-3.0/real-world-and-meta-land.md)
-* [Playing Sheepfarm with NFTs](web-3.0/playing-sheepfarm-with-nfts.md)
+* [Playing Sheepfarm with NFTs](web-3.0/playing-sheepfarm-with-nfts/README.md)
+  * [Minting NFTs](web-3.0/playing-sheepfarm-with-nfts/minting-nfts.md)
 * [Tokenomics](web-3.0/tokenomics.md)
 
 ## Copy of ECONOMY

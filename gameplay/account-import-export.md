@@ -4,7 +4,7 @@ Transferring your game account is a convenient way to seamlessly move your progr
 
 
 
-## **Exporting an Account:**
+## **Exporting an Account**
 
 1. Visit our official <mark style="color:blue;">website</mark> and log in using your wallet credentials to access your account page.
 2. Once logged in, navigate to the account page, where you can review all the in-game items and assets associated with your account.
@@ -14,7 +14,7 @@ Transferring your game account is a convenient way to seamlessly move your progr
 
 
 
-## **Importing an Account:**
+## **Importing an Account**
 
 1. Open the game app on your mobile device.
 2. Look for the "Import" button, which is usually found within the account menu.
