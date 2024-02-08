@@ -8,7 +8,7 @@ Ready to try your luck and test your instincts? Within Sheep Racing, Betting ser
 
 ## Practice Runs
 
-Before the actual race, you have the option to watch a practice run, providing valuable insights into what to expect. For a single Scope, you can access this feature and view demo versions of races. Utilize this opportunity to familiarize yourself with the tracks, refine your skills, and adapt strategies to improve your racing proficiency.
+Before the actual race, you have the option to watch a practice run, providing valuable insights into what to expect. For a single [Scope](../consumable-items.md), you can access this feature and view demo versions of races. Utilize this opportunity to familiarize yourself with the tracks, refine your skills, and adapt strategies to improve your racing proficiency.
 
 
 
@@ -28,7 +28,7 @@ The concept of odds is essential in Sheep Racing, and it's important to understa
 
 ## Placing Bets
 
-In Sheep Racing, there are two exciting ways to try your luck and potentially earn valuable rewards.
+In Sheep Racing, there are two exciting ways to try your luck and potentially earn valuable rewards:
 
 
 
@@ -36,7 +36,7 @@ In Sheep Racing, there are two exciting ways to try your luck and potentially ea
 
 <figure><img src="../../.gitbook/assets/Untitled (38).png" alt=""><figcaption></figcaption></figure>
 
-Beanz Betting lets you put your <mark style="color:blue;">Seasonal Beanz</mark> on the line, offering a chance to grow your Beanz stash. It's a fun way to engage in the races and reap rewards based on your predictions. Beanz Betting is a lively and accessible option, perfect for active participation in the races. Keep in mind that there's a betting limit – you can wager a maximum of 100 Seasonal Beanz on a single race. So, choose your bets wisely!
+Beanz Betting lets you put your[ <mark style="color:blue;">Seasonal Beanz</mark>](../currency.md) on the line, offering a chance to grow your Beanz stash. It's a fun way to engage in the races and reap rewards based on your predictions. Beanz Betting is a lively and accessible option, perfect for active participation in the races. Keep in mind that there's a betting limit – you can wager a maximum of 100 Seasonal Beanz on a single race. So, choose your bets wisely!
 
 
 
@@ -44,7 +44,7 @@ Beanz Betting lets you put your <mark style="color:blue;">Seasonal Beanz</mark> 
 
 <figure><img src="../../.gitbook/assets/Untitled (39).png" alt=""><figcaption></figcaption></figure>
 
-Ticket Betting uses specialized betting tickets as your currency for wagers. By using these tickets, you can potentially win <mark style="color:blue;">MARD tokens</mark>, elevating the excitement of your betting strategy. It's important to know that Ticket Races are less common than Beanz Races, but they come with more substantial rewards, making them a top choice for those aiming to maximize their winnings. There's no betting limit on Ticket Races, as long as you have enough tickets to place your bets!
+Ticket Betting uses specialized betting tickets as your currency for wagers. By using these tickets, you can potentially win [<mark style="color:blue;">MARD tokens</mark>](../currency.md), elevating the excitement of your betting strategy. It's important to know that Ticket Races are less common than Beanz Races, but they come with more substantial rewards, making them a top choice for those aiming to maximize their winnings. There's no betting limit on Ticket Races, as long as you have enough tickets to place your bets!
 
 
 

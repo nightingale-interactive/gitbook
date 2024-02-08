@@ -2,11 +2,11 @@
 
 <figure><img src="../.gitbook/assets/Untitled (52).png" alt=""><figcaption></figcaption></figure>
 
-Visit our <mark style="color:blue;">website</mark> and explore the Inventory menu, which is divided into two categories: Real World and Meta-Land. The Real World category represents your crypto wallet address, while Meta-Land is the in-game environment.
+Visit our [<mark style="color:blue;">website</mark>](https://sheepfarm.io/) and explore the Inventory menu, which is divided into two categories: Real World and Meta-Land. The Real World category represents your crypto wallet address, while Meta-Land is the in-game environment.
 
 
 
-To access certain features and activities, you'll need specific items in either the Real World or Meta-Land. You can easily switch between the Real World and Meta-Land tabs, sort items by category, search by name or ID, and identify the network (if it's an NFT) through badges in the corner of each item. Items not associated with NFTs will be marked as _Non-NFT_ and cannot be moved to the Real World.
+To access certain features and activities, you'll need specific items in either the Real World or Meta-Land. You can easily switch between the Real World and Meta-Land tabs, sort items by category, search by name or ID, and identify the network (if it's an NFT) through badges in the corner of each item. Items not associated with NFTs will be marked as _**Non-NFT**_ and cannot be moved to the Real World.
 
 ##
 

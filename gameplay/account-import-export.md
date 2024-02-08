@@ -6,7 +6,7 @@ Transferring your game account is a convenient way to seamlessly move your progr
 
 ## **Exporting an Account**
 
-1. Visit our official <mark style="color:blue;">website</mark> and log in using your wallet credentials to access your account page.
+1. Visit our official [<mark style="color:blue;">website</mark> ](https://sheepfarm.io/)and log in using your wallet credentials to access your account page.
 2. Once logged in, navigate to the account page, where you can review all the in-game items and assets associated with your account.
 3. Click on the "Settings" tab, typically located in the menu.
 4. Initiate the export process by selecting the "Export" button.

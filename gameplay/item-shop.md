@@ -12,13 +12,13 @@ The local shop offers a diverse range of goods, from unique items and rare treas
 
 ## Kelly's Item Shop
 
-In the cozy atmosphere of the item shop, the sisters extend a warm welcome to the community, always ready to assist their customers. Kelly is known for her well-stocked inventory, offering items that can be purchased using <mark style="color:blue;">Rainbow Beanz</mark> or <mark style="color:blue;">Seasonal Beanz</mark>. Additionally, Kate, Kelly's younger sister, plays an active role in managing all the sheep-related affairs in the town, handling every sheep transaction with enthusiasm.
+In the cozy atmosphere of the item shop, the sisters extend a warm welcome to the community, always ready to assist their customers. Kelly is known for her well-stocked inventory, offering items that can be purchased using [<mark style="color:blue;">Rainbow Beanz</mark>](currency.md) or [<mark style="color:blue;">Seasonal Beanz</mark>](currency.md). Additionally, Kate, Kelly's younger sister, plays an active role in managing all the sheep-related affairs in the town, handling every sheep transaction with enthusiasm.
 
 
 
 ## **Seasonal Shop and Seasonal Decor**
 
-You'll find a range of seasonal décor items and practical products, all available for a _limited_ time. To make these unique purchases, you'll need to use <mark style="color:blue;">Seasonal Beanz</mark> as your currency. The Seasonal Shop regularly updates its offerings to align with the changing seasons, ensuring that each visit provides a fresh and distinctive shopping experience. Be sure not to miss the sales period, and seize the opportunity to acquire these exclusive items while they're still available!
+You'll find a range of seasonal décor items and practical products, all available for a _limited_ time. To make these unique purchases, you'll need to use [<mark style="color:blue;">Seasonal Beanz</mark>](currency.md) as your currency. The Seasonal Shop regularly updates its offerings to align with the changing seasons, ensuring that each visit provides a fresh and distinctive shopping experience. Be sure not to miss the sales period, and seize the opportunity to acquire these exclusive items while they're still available!
 
 
 

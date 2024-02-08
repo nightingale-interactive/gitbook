@@ -6,11 +6,11 @@ Experience sheep competitions like never before, hosted by the charming Micayla.
 
 
 
-Whether you're an ambitious <mark style="color:blue;">bettor</mark>  or just curious, this place has something for everyone. Here, you can bet on sheep or even enroll your own fluffy athletes by placing them in the <mark style="color:blue;">racing barn</mark>. These sheep automatically compete in races, and if they perform well, you can earn <mark style="color:blue;">Seasonal Beanz</mark> or <mark style="color:blue;">MARD</mark>.
+Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on-sheep-races.md) or just curious, this place has something for everyone. Here, you can bet on sheep or even enroll your own fluffy athletes by placing them in the [Racing Barn](../racing-barn.md). These sheep automatically compete in races, and if they perform well, you can earn [<mark style="color:blue;">Seasonal Beanz</mark> ](../currency.md)or [<mark style="color:blue;">MARD</mark>.](../currency.md)
 
 
 
-You also have a say in race dynamics. You can cast your <mark style="color:blue;">vote for the weather</mark> conditions that will prevail during the races, adding an enjoyable strategic aspect to the competitions. Whether you prefer sunny skies or a touch of rain for added tension, your choices matter.
+You also have a say in race dynamics. You can cast your [<mark style="color:blue;">vote for the weather</mark>](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/\~/changes/841/web-3.0/sheepfarm-dao) conditions that will prevail during the races, adding an enjoyable strategic aspect to the competitions. Whether you prefer sunny skies or a touch of rain for added tension, your choices matter.
 
 
 
@@ -90,7 +90,7 @@ You can determine when a sheep reaches its maximum speed, referred to as Dash-ti
 
 <figure><img src="../../.gitbook/assets/overtaking (1).png" alt=""><figcaption></figcaption></figure>
 
-A sheep with a high Power stat has a better shot at overtaking competitors in front of it. This allows the sheep to move more swiftly and even nudge its way past others. Keep in mind that the likelihood of overtaking may also be influenced by various factors, including the behavior of the other sheep in the race.
+A sheep with a high Power stat has a better shot at overtaking competitors in front of it. This allows the sheep to move more swiftly and even nudge its way past others. Keep in mind that the likelihood of overtaking may also be influenced by various factors, including the behaviour of the other sheep in the race.
 
 
 
@@ -107,4 +107,5 @@ During a sheep race, the weather plays a crucial role in determining the race's 
 * **Snowy:** A 10% increase in both Power and Spirit.
 * **Stormy:** Grants a 6% increase to all stats.
 
-Understanding these weather effects can help you make informed betting decisions in Sheep Racing.
+Understanding these weather effects can help you make informed betting decisions in betting.
+

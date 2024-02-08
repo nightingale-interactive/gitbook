@@ -6,13 +6,13 @@ Playing with NFTs in the game opens up a world of possibilities. You can acquire
 
 Accessing your collection of Sheepfarm NFTs is straightforward; simply connect your wallet to view them at the [inventory](https://sheepfarm.io/inventory) menu on the website. You can easily identify whether your in-game item is an NFT and on which network it is based by a small badge displayed as an indicator on the corner of the item when viewing it on the website.
 
-<figure><img src="../../.gitbook/assets/2024-01-22 16 19 58 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-01-22 16 19 58 (2).png" alt=""><figcaption></figcaption></figure>
 
-Playing with NFTs in the game brings tangible benefits. You can profit by <mark style="color:blue;">selling the wool</mark> produced by your NFT sheep for <mark style="color:blue;">MARD tokens</mark>. You also have the flexibility to transfer your NFTs to other wallets or sell them on third-party marketplaces, where you have complete ownership of your items if you wish to part ways with them.
+Playing with NFTs in the game brings tangible benefits. You can profit by [<mark style="color:blue;">selling the wool</mark>](playing-sheepfarm-with-nfts.md#selling-nft-sheep-wool) produced by your NFT sheep for [<mark style="color:blue;">MARD tokens</mark>](../gameplay/currency.md). You also have the flexibility to transfer your NFTs to other wallets or sell them on third-party marketplaces, where you have complete ownership of your items if you wish to part ways with them.
 
 
 
-In an exciting new development, you can now <mark style="color:blue;">mint non-NFT in-game items into NFTs</mark>, offering exciting possibilities for your virtual assets. This feature is amazing for NFT collectors looking to enhance their in-game collections.
+In an exciting new development, you can now [<mark style="color:blue;">mint non-NFT in-game items into NFTs</mark>](playing-sheepfarm-with-nfts/minting-nfts.md), offering exciting possibilities for your virtual assets. This feature is amazing for NFT collectors looking to enhance their in-game collections.
 
 
 
@@ -20,9 +20,9 @@ In an exciting new development, you can now <mark style="color:blue;">mint non-N
 
 ## Selling NFT Sheep Wool
 
-<figure><img src="../../.gitbook/assets/2024-01-22 15 57 56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-01-22 15 57 56.png" alt=""><figcaption></figcaption></figure>
 
-You have the option to sell the wool produced by your NFT sheep to Marge, a frequent visitor to sheep farms who actively seeks high-quality wool. The value of the wool is determined by the rarity of your sheep, with rarer sheep producing more valuable wool. Marge, a respected and skilled figure in Meta-land, is renowned for her fashion expertise. She possesses a unique talent for crafting stylish clothing using locally-sourced wool, and her passion for fashion and her commitment to supporting local shepherds contribute significantly to the enrichment of the sheep farming culture in the village.
+You have the option to sell the wool produced by your **NFT sheep** to Marge, a frequent visitor to sheep farms who actively seeks high-quality wool. The value of the wool is determined by the rarity of your sheep, with rarer sheep producing more valuable wool. Marge, a respected and skilled figure in Meta-land, is renowned for her fashion expertise. She possesses a unique talent for crafting stylish clothing using locally-sourced wool, and her passion for fashion and her commitment to supporting local shepherds contribute significantly to the enrichment of the sheep farming culture in the village.
 
 
 
@@ -38,9 +38,9 @@ You have the option to sell the wool produced by your NFT sheep to Marge, a freq
 
 ## **Reveal Your NFT Sheep’s Attributes**
 
-<figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
-Every sheep possesses its own distinct personality and hidden attributes, waiting to be uncovered. Foster a deeper connection with your sheep as you unveil their unique characteristics.
+Every sheep possesses its own distinct personality and [hidden attributes](../gameplay/sheep/attributes-and-training.md), waiting to be uncovered. Foster a deeper connection with your sheep as you unveil their unique characteristics.
 
 
 
@@ -140,7 +140,7 @@ A comprehensive summary can be found on[ this](https://www.notion.so/ngit-intera
 
 ### **Guide: Upgrade an NFT Decor Item**
 
-<figure><img src="../../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Access Decor Upgrade Tab:** Navigate to the "Decor Upgrade" tab in the [Website NFT menu](https://sheepfarm.io/upgrades).
 2. **Select Decor Item:** Choose a decor item from the list that you wish to upgrade.

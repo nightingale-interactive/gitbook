@@ -14,7 +14,7 @@ Nestled within the heart of the Marmalade Kingdom lies the MARD Shop, a treasure
 
 <figure><img src="../.gitbook/assets/Untitled (46).png" alt=""><figcaption></figcaption></figure>
 
-The MARD Shop is a bustling _shared_ marketplace where players strive to acquire one-of-a-kind treasures. Operating on a _first come, first serve_ basis, this lively marketplace infuses every visit with a sense of excitement. Regularly checking back will lead to the discovery of exceptional items, ensuring each trip is an enjoyable adventure of unique finds.
+The MARD Shop is a bustling **shared** marketplace where players strive to acquire one-of-a-kind treasures. Operating on a _first-come, first-serve_ basis, this lively marketplace infuses every visit with a sense of excitement. Regularly checking back will lead to the discovery of exceptional items, ensuring each trip is an enjoyable adventure of unique finds.
 
 
 
@@ -28,11 +28,11 @@ At the MARD Shop, you'll encounter more than just a marketplace; it houses a cra
 
 
 
-Currently, a **limited** selection of craftable items includes a <mark style="color:blue;">wool bundle</mark>, created by combining wool from <mark style="color:blue;">NFT sheep</mark>, and <mark style="color:blue;">Minting Vouchers</mark>, which facilitate the transformation of regular sheep into <mark style="color:blue;">NFT Sheep</mark>.
+Currently, a **limited** selection of craftable items includes a[ <mark style="color:blue;">wool bundle</mark>](consumable-items.md), created by combining wool from [<mark style="color:blue;">NFT sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md), and [<mark style="color:blue;">Minting Vouchers</mark>](consumable-items.md), which facilitate the transformation of regular sheep into [<mark style="color:blue;">NFT Sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md).
 
 
 
-Assisting you in your crafting endeavors is Deolize, a reclusive potions expert in the mystical realm of Meta-land. With extensive knowledge and centuries of experience, she is the ultimate resource for crafting assistance. Her magical brews and crafts are known for enhancing the abilities of the village's sheep, aiding them in their quest to become masters of sheep racing.
+Assisting you in your crafting endeavours is Deolize, a reclusive potions expert in the mystical realm of Meta-land. With extensive knowledge and centuries of experience, she is the ultimate resource for crafting assistance. Her magical brews and crafts are known for enhancing the abilities of the village's sheep, aiding them in their quest to become masters of sheep racing.
 
 
 
@@ -58,7 +58,7 @@ This hub is your gateway to listing your items, exploring what others have avail
 
 
 
-Items available for sale are thoughtfully organized, with listings sorted by price for your convenience. This allows you to easily discover the best deals and valuable treasures that fit your budget. Whether you're looking to part ways with some of your in-game items or on a quest to find new ones, the _MARD Trading Hub_ is where it all it all happens.
+Items available for sale are thoughtfully organized, with listings sorted by price for your convenience. This allows you to easily discover the best deals and valuable treasures that fit your budget. Whether you're looking to part ways with some of your in-game items or on a quest to find new ones, the _MARD Trading Hub_ is where it all happens.
 
 
 

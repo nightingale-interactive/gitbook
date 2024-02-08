@@ -14,7 +14,7 @@ Each day, you'll have the chance to spin the prize wheel for a chance to claim r
 
 
 
-You'll receive one free spin on the prize wheel every day. If you're feeling lucky and want to spin again on the same day, you can use <mark style="color:blue;">Lucky Coins</mark>. These coins are available in limited stock from the <mark style="color:blue;">MARD shop</mark> for a variable price that may change over time.
+You'll receive one free spin on the prize wheel every day. If you're feeling lucky and want to spin again on the same day, you can use [<mark style="color:blue;">Lucky Coins</mark>](consumable-items.md). These coins are available in limited stock from the [<mark style="color:blue;">MARD shop</mark>](mard-shop.md) for a variable price that may change over time.
 
 
 

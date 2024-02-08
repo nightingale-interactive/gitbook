@@ -14,11 +14,11 @@ Within Meta-Land, there are two distinct pasture options to choose from, each of
 
 **Manual Pasture**
 
-Manual Pasture requires you to <mark style="color:blue;">shear</mark> your sheep manually. You'll need to keep a close eye on your flock, ensuring they are not overdue for shearing. Timely shearing is essential, as sheep will cease wool production if not sheared promptly.
+Manual Pasture requires you to [<mark style="color:blue;">shear</mark>](sheep-care.md) your sheep manually. You'll need to keep a close eye on your flock, ensuring they are not overdue for shearing. Timely shearing is essential, as sheep will cease wool production if not sheared promptly.
 
 **Automatic Pasture**
 
-The <mark style="color:blue;">Automatic Pasture</mark>, represents the future of sheep farming. In this innovative pasture, sheep enjoy automated shearing thanks to new technology. No more manual shearing! To determine if your pasture is an Automatic Pasture, simply look for the **Auto** Buff icon in the bottom left corner while you're in the pasture. You'll also find the Auto Pasture icon within the pasture list.
+The [<mark style="color:blue;">Automatic Pasture</mark>](../../web-3.0/playing-sheepfarm-with-nfts.md), represents the future of sheep farming. In this innovative pasture, sheep enjoy automated shearing thanks to new technology. No more manual shearing! To determine if your pasture is an Automatic Pasture, simply look for the **Auto** Buff icon in the bottom left corner while you're in the pasture. You'll also find the Auto Pasture icon within the pasture list.
 
 
 
@@ -38,13 +38,13 @@ Pastures are classified into three groups based on their size, as shown in the t
 
 **Benefits of Larger Pastures**
 
-One of the key advantages of having larger pastures is the increased capacity for both sheep and decoration items. This means you can raise more sheep and unleash your creativity in decorating your farm. Larger pastures also allow you to form larger groups of compatible sheep, paving the way for the activation of powerful <mark style="color:blue;">combo effects</mark>.
+One of the key advantages of having larger pastures is the increased capacity for both sheep and decoration items. This means you can raise more sheep and unleash your creativity in decorating your farm. Larger pastures also allow you to form larger groups of compatible sheep, paving the way for the activation of powerful [<mark style="color:blue;">combo effects</mark>](../sheep/combination-effects/).
 
 
 
 **Decorate Strategically**
 
-When adorning your pastures with decoration items, it's essential to take the pasture's size into account. Small pastures can provide benefits to a maximum of three sheep with decorations, while large pastures can enhance the experience for up to five sheep simultaneously. If you possess unique decoration items with <mark style="color:blue;">special effects</mark>, strategically placing them on large pastures can amplify their impact, significantly increasing the efficiency and benefits of these items.
+When adorning your pastures with decoration items, it's essential to take the pasture's size into account. Small pastures can provide benefits to a maximum of three sheep with decorations, while large pastures can enhance the experience for up to five sheep simultaneously. If you possess unique decoration items with [<mark style="color:blue;">special effects</mark>](../decorations.md), strategically placing them on large pastures can amplify their impact, significantly increasing the efficiency and benefits of these items.
 
 
 

@@ -2,11 +2,11 @@
 
 <figure><img src="../.gitbook/assets/racing barn.png" alt=""><figcaption></figcaption></figure>
 
-The Racing-Barn serves as a special sanctuary for your budding champions. This dedicated space is where the excitement of <mark style="color:blue;">sheep racing</mark> comes to life, serving as the training ground for your sheep in preparation for races and tournaments. Placing your sheep in the Racing-Barn opens doors to opportunities, allowing you to earn valuable rewards that await those brave enough to embrace the competition.
+The Racing-Barn serves as a special sanctuary for your budding champions. This dedicated space is where the excitement of [<mark style="color:blue;">sheep racing</mark>](sheep-racing/) comes to life, serving as the training ground for your sheep in preparation for races and tournaments. Placing your sheep in the Racing-Barn opens doors to opportunities, allowing you to earn valuable rewards that await those brave enough to embrace the competition.
 
 
 
-Once your sheep are comfortably settled in the barn, they automatically become participants in races. When your sheep participate in ticket races, they will earn MARD tokens, and Beanz races will let them earn Seasonal Beanz. Their performance in these races directly impacts the rewards they earn. For every race, a portion of the total bets placed by players on the game goes to the sheep as rewards. This share is determined by their rank in the race.
+Once your sheep are comfortably settled in the barn, they automatically become participants in races. When your sheep participate in ticket races, they will earn [MARD tokens](currency.md), and Beanz races will let them earn[ Seasonal Beanz](currency.md). Their performance in these races directly impacts the rewards they earn. For every race, a portion of the total bets placed by players on the game goes to the sheep as rewards. This share is determined by their rank in the race.
 
 &#x20;Here's a breakdown of how the 7% of wagers is distributed among the sheep:
 
@@ -16,13 +16,15 @@ Once your sheep are comfortably settled in the barn, they automatically become p
 * 4th and 5th place: 5% each
 * 6th to 8th place: 0%
 
-##
+
+
+***
 
 ## **Loot Lane**
 
-Loot Lane is a key part of the Racing Barn, giving you an easy way to collect Seasonal Beanz even when you're not actively playing. Just place your sheep in Loot Lane, and over time, you'll see those Beanz stacking up without needing to constantly check in. This rate of Beanz accumulation is determined by the combined stats of the sheep currently racing in the lane, and you can easily keep track of it at the top of the page.
+Loot Lane is a key part of the Racing Barn, giving you an easy way to collect [Seasonal Beanz](currency.md) even when you're not actively playing. Just place your sheep in Loot Lane, and over time, you'll see those Beanz stacking up without needing to constantly check in. This rate of Beanz accumulation is determined by the combined [stats of the sheep](sheep/attributes-and-training.md) currently racing in the lane, and you can easily keep track of it at the top of the page.
 
-It operates in an AFK (Away From Keyboard) mode, making it a hassle-free addition to your gameplay. You'll get AFK rewards, plus the added bonus of random consumable item drops as a bonus for your efforts in raising your sheep.
+It operates in an AFK (Away From Keyboard) mode, making it a hassle-free addition to your gameplay. You'll get AFK rewards, plus the added bonus of random[ consumable item](consumable-items.md) drops as a bonus for your efforts in raising your sheep.
 
 
 
@@ -40,17 +42,17 @@ It operates in an AFK (Away From Keyboard) mode, making it a hassle-free additio
 
 
 
-
+***
 
 ## Arena
 
 <figure><img src="../.gitbook/assets/Untitled (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-In the Arena, the second available area in the Racing Barn, you'll find a more dynamic player-versus-player (PvP) experience in contrast to the relaxed AFK environment of Loot Lane. Here, under the guidance of the passionate Race Manager, who was once renowned for raising lightning-fast racing champions, you'll engage in thrilling sheep races against fellow players. The Race Manager's extensive experience and inspiring racing stories will guide you on your journey to unlock your sheep's full potential, aiming for higher rankings and a chance at various rewards within the arena.
+In the Arena, the second available area in the Racing Barn, you'll find a more dynamic player-versus-player (PvP) experience in contrast to the relaxed AFK environment of **Loot Lane**. Here, under the guidance of the passionate Race Manager, who was once renowned for raising lightning-fast racing champions, you'll engage in thrilling sheep races against fellow players. The Race Manager's extensive experience and inspiring racing stories will guide you on your journey to unlock your sheep's full potential, aiming for higher rankings and a chance at various rewards within the arena.
 
 
 
-To join Arena races, you'll be paired with players of similar skill levels. If you want to explore different opponents, you can use _<mark style="color:blue;">Matchmaker Tickets</mark>_ as consumables to refresh your matchmaking options. Once you reach a certain point threshold, you'll have the opportunity to include more sheep in your participant group during matchmaking. This strategy increases your chances of winning as you compete against fewer opponents.
+To join Arena races, you'll be paired with players of similar skill levels. If you want to explore different opponents, you can use [<mark style="color:blue;">Matchmaker Tickets</mark>](consumable-items.md) as consumables to refresh your matchmaking options. Once you reach a certain point threshold, you'll have the opportunity to include more sheep in your participant group during matchmaking. This strategy increases your chances of winning as you compete against fewer opponents.
 
 
 
@@ -58,7 +60,7 @@ To join Arena races, you'll be paired with players of similar skill levels. If y
 
 <figure><img src="../.gitbook/assets/Arena.gif" alt=""><figcaption></figcaption></figure>
 
-The Arena features three distinct leagues: the Normal League, exclusively for shepherds with normal rarity sheep, providing a level playing field for skill showcases; the Rare League, where only those with rare sheep are eligible, offering a heightened challenge; and the Unlimited League, open to shepherds of any sheep rarity, testing their skill against a diverse range of opponents. These leagues allow shepherds to compete with their preferred sheep rarity in an environment that best suits their skills and aspirations.
+The Arena features three distinct leagues: the **Normal League**, exclusively for shepherds with normal rarity sheep, providing a level playing field for skill showcases; the **Rare League**, where only those with rare sheep are eligible, offering a heightened challenge; and the **Unlimited League**, open to shepherds of any sheep rarity, testing their skill against a diverse range of opponents. These leagues allow shepherds to compete with their preferred sheep rarity in an environment that best suits their skills and aspirations.
 
 
 
@@ -80,6 +82,6 @@ Participation in Arena races allows you to earn points that contribute to your r
 4. **Selecting a League:** To choose your desired league, you'll need to toggle the league button between _Normal_, _<mark style="color:blue;">Rare</mark>_, and _<mark style="color:red;">Unlimited</mark>_ based on the rarity of sheep you want to enter and compete against.
 5. **Drag and Drop**: Once you've added your sheep and chosen your league, you can drag and drop them into the frame to add them to the race lineup.
 6. **Match Button**: After adding your sheep to lineup, click the "Match" button to proceed matching up with a group of opponents.
-7. **Retry Matchmaking**: If you wish to match with a new group, click the "Retry" button. This option consumes Matchmaker Tickets.
+7. **Retry Matchmaking**: If you wish to match with a new group, click the "Retry" button. This option consumes [Matchmaker Tickets.](consumable-items.md)
 8. **Start Race**: Finally, press the "Start" button. Now you're all set to watch your sheep compete in the Arena!
 9. **Remove Sheep:** If you need to remove a sheep, simply drag and drop it from the lineup back into the Racing Barn tray on the left side.

@@ -48,7 +48,7 @@ These sheep have a unique preference – they crave sugar to power their high-en
 
 <figure><img src="../../.gitbook/assets/Untitled (31) (1).png" alt=""><figcaption></figcaption></figure>
 
-You can acquire bonbons from Kelly's item shop for 10 Rainbow Beanz, getting you 50 treats, or exchange 2 Seasonal Beanz for 1 bonbon. They may also be occasionally found as random item drops in Loot Lane or while grooming your sheep.
+You can acquire bonbons from [Kelly's item shop](../item-shop.md) for 10 Rainbow Beanz, getting you 50 treats, or exchange 2 Seasonal Beanz for 1 bonbon. They may also be occasionally found as random item drops in [Loot Lane](../racing-barn.md) or while grooming your sheep.
 
 
 
@@ -62,13 +62,13 @@ You can acquire bonbons from Kelly's item shop for 10 Rainbow Beanz, getting you
 
 
 
-## **Wool & Shearing Sheep**
+## **Wool & Shearing Sheep** <a href="#wool-and-shearing" id="wool-and-shearing"></a>
 
-Keeping those sheep well-groomed is your ticket to a plentiful wool supply. If you delay in shearing them, they'll hold off on producing more wool. Wool production time can be reduced by using functional decor items designed for this purpose or by activating <mark style="color:blue;">combo effects</mark> when you group together compatible sheep.
+Keeping those sheep well-groomed is your ticket to a plentiful wool supply. If you delay in shearing them, they'll hold off on producing more wool. Wool production time can be reduced by using functional decor items designed for this purpose or by activating [<mark style="color:blue;">combo effects</mark>](../sheep/combination-effects/) when you group together compatible sheep.
 
 
 
-Sheep will notify you when they're ready to be sheared, and <mark style="color:blue;">certain pastures</mark> come equipped with an automatic shearing feature, saving you from the chore of manually shearing your sheep. it's a valuable resource for leveling up your sheep, and the wool from <mark style="color:blue;">certain sheep</mark> can be <mark style="color:blue;">sold</mark> for extra profit. The rarer the sheep, the more valuable and potent their wool becomes.
+Sheep will notify you when they're ready to be sheared, and [<mark style="color:blue;">certain pastures</mark>](pastures.md) come equipped with an automatic shearing feature, saving you from the chore of manually shearing your sheep. it's a valuable resource for levelling up your sheep, and the wool from [<mark style="color:blue;">certain sheep</mark>](../../web-3.0/playing-sheepfarm-with-nfts.md) can be <mark style="color:blue;">sold</mark> for extra profit. The rarer the sheep, the more valuable and potent their wool becomes.
 
 
 
@@ -80,7 +80,7 @@ Discover the art of sheep whispering in an exciting way to connect with your flo
 
 
 
-Powered by AI technology, Sheep Chat interprets your inputs and generates responses from your sheep's unique perspective. The chatbot is well-versed in all things sheep, from their behaviors to preferences, making interactions more engaging over time. While currently only available in English, the game has plans to support more languages in the future, broadening the horizons of communication with your BFFs (Best Fluffy Friends)!
+Powered by AI technology, Sheep Chat interprets your inputs and generates responses from your sheep's unique perspective. The chatbot is well-versed in all things sheep, from their behaviours to preferences, making interactions more engaging over time. While currently only available in English, the game has plans to support more languages in the future, broadening the horizons of communication with your BFFs (Best Fluffy Friends)!
 
 
 

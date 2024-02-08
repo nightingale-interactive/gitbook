@@ -1,4 +1,4 @@
-# Missioins & Challenges
+# Missions & Challenges
 
 <figure><img src="../.gitbook/assets/2-4questill (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,8 +26,8 @@ Keep in mind that these passes are tied to seasons, so be sure to make the most 
 
 <figure><img src="../.gitbook/assets/Untitled (51).png" alt=""><figcaption></figcaption></figure>
 
-Challenges and achievements put your shepherding skills to the test. These tasks range from one-time challenges recurring duties that level up as you progress.
+Challenges and achievements put your shepherding skills to the test. These tasks range from one-time challenges to recurring duties that level up as you progress.
 
 
 
-As you complete these challenges, you'll unlock increasingly valuable rewards, making your journey as a shepherd all the more rewarding. Once you conquer all the challenges and fulfill your duties, you'll reap the final rewards, marking a significant milestone in your Sheep raising adventure!
+As you complete these challenges, you'll unlock increasingly valuable rewards, making your journey as a shepherd all the more rewarding. Once you conquer all the challenges and fulfil your duties, you'll reap the final rewards, marking a significant milestone in your Sheep-raising adventure!

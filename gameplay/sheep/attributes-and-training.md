@@ -2,7 +2,7 @@
 
 ## **Sheep Attributes**
 
-Your sheep are more than just fluffy companions; they come with unique attributes that significantly influence their performance on the racetrack. These attributes are the key to success in the competitive world of <mark style="color:blue;">sheep racing</mark>.
+Your sheep are more than just fluffy companions; they come with unique attributes that significantly influence their performance on the racetrack. These attributes are the key to success in the competitive world of [<mark style="color:blue;">sheep racing</mark>](../sheep-racing/).
 
 
 
@@ -32,7 +32,10 @@ During a sheep race, every woolly contender has a moment of glory – their Dash
 
 However, it's essential to keep in mind that while running, a sheep's stamina gradually depletes. During Dash-time, this depletion accelerates significantly as the sheep pushes its limits to outpace the competition. Understanding this crucial attribute and timing its activation can be the key to victory on the racetrack.
 
-\
+
+
+***
+
 
 
 ## Sheep Training&#x20;
@@ -43,15 +46,15 @@ Although every sheep in Meta-Land aspires to be a racing champion, but not all a
 
 
 
-Upon clicking the Sheep Training button, you can initiate training to enhance their <mark style="color:blue;">attributes</mark>. Rarity affects a sheep's attributes, with rarer sheep possessing better traits. The training screen offers a wealth of information about your sheep. Here, you can access vital details such as the sheep's name, rarity, current location, level and more. Use the left or right arrows to scroll through your sheep easily.
+Upon clicking the Sheep Training button, you can initiate training to enhance their attributes. Rarity affects a sheep's attributes, with rarer sheep possessing better traits. The training screen offers a wealth of information about your sheep. Here, you can access vital details such as the sheep's name, rarity, current location, level and more. Use the left or right arrows to scroll through your sheep easily.
 
 
 
-The right side of the screen features an **attribute diagram**, offering a visual representation of your sheep's attribute balance. While sheep are born with unique attributes, you can alter these stats using <mark style="color:blue;">Mystery Cubes</mark>, which grant a sheep random stats every time you use them.
+The right side of the screen features an **attribute diagram**, offering a visual representation of your sheep's attribute balance. While sheep are born with unique attributes, you can alter these stats using [<mark style="color:blue;">Mystery Cubes</mark>](../consumable-items.md), which grant a sheep random stats every time you use them.
 
 
 
-Also on the training screen, you'll notice that your sheep don't just race for glory; they also earn currency when placed in the <mark style="color:blue;">racing barn</mark> and competing in races. Their performance directly impacts your rewards.
+Also on the training screen, you'll notice that your sheep don't just race for glory; they also earn currency when placed in the [<mark style="color:blue;">racing barn</mark>](../racing-barn.md) and competing in races. Their performance directly impacts your rewards.
 
 
 
@@ -59,7 +62,7 @@ Also on the training screen, you'll notice that your sheep don't just race for g
 
 <figure><img src="../../.gitbook/assets/energy.png" alt="" width="257"><figcaption></figcaption></figure>
 
-Each sheep has an energy bar that depletes as they participate in arena races. Recharge them with <mark style="color:blue;">recharge potions</mark> to keep them in peak racing condition!
+Each sheep has an energy bar that depletes as they participate in arena races. Recharge them with [<mark style="color:blue;">recharge potions</mark>](../consumable-items.md) to keep them in peak racing condition!
 
 
 
@@ -67,7 +70,7 @@ Each sheep has an energy bar that depletes as they participate in arena races. R
 
 <figure><img src="../../.gitbook/assets/Untitled (45).png" alt=""><figcaption></figcaption></figure>
 
-To level up your sheep, you can infuse their strength with the wool you've collected in your <mark style="color:blue;">inventory</mark> or use <mark style="color:blue;">EXP potions</mark>. These potions come in three different sizes, each offering varying levels of experience points. Rarer sheep wool provides more experience, making them valuable assets in your training efforts. The "Auto" button simplifies the process by automatically calculating and adding the required EXP potions or wool to level up your sheep.
+To level up your sheep, you can infuse their strength with the wool you've collected in your [<mark style="color:blue;">inventory</mark> ](../inventory-and-gifting.md)or use[ <mark style="color:blue;">EXP potions</mark>](../consumable-items.md). These potions come in three different sizes, each offering varying levels of experience points. Rarer sheep wool provides more experience, making them valuable assets in your training efforts. The "Auto" button simplifies the process by automatically calculating and adding the required EXP potions or wool to level up your sheep.
 
 
 
@@ -93,9 +96,9 @@ In a sheep race, each sheep experiences a moment called <mark style="color:blue;
 
 ### **Selling and Resetting Sheep**
 
-When your flock has grown so large that there's not much room for new members, you can find a new home for your sheep by hitting the "sell" button. Just keep in mind that this decision is permanent, so be ready to say goodbye to your fluffy friend. In exchange, you'll receive the EXP you've invested in that sheep in the form of <mark style="color:blue;">EXP potions</mark>.
+When your flock has grown so large that there's not much room for new members, you can find a new home for your sheep by hitting the "sell" button. Just keep in mind that this decision is permanent, so be ready to say goodbye to your fluffy friend. In exchange, you'll receive the EXP you've invested in that sheep in the form of[ <mark style="color:blue;">EXP potions</mark>](../consumable-items.md).
 
-Alternatively, you can give your sheep a fresh start by making them forget their past experiences with a sprinkle of <mark style="color:blue;">Amnesia dust</mark>. This lets them start over at level one, and any EXP you've invested in them will be refunded to you as <mark style="color:blue;">EXP potions</mark>.
+Alternatively, you can give your sheep a fresh start by making them forget their past experiences with a sprinkle of [<mark style="color:blue;">Amnesia dust</mark>](../consumable-items.md). This lets them start over at level one, and any EXP you've invested in them will be refunded to you as [<mark style="color:blue;">EXP potions</mark>](../consumable-items.md).
 
 
 

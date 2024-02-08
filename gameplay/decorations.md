@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/마을풍경3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Decorating your pastures can have a delightful impact on your sheep's mood and overall well-being. Decoration items play a crucial role in the daily lives of your sheep, ensuring that your sheep stay content, comfortable, and happy on your farm! Plus, <mark style="color:blue;">certain decor items</mark> can even be upgraded for added benefits!
+Decorating your pastures can have a delightful impact on your sheep's mood and overall well-being. Decoration items play a crucial role in the daily lives of your sheep, ensuring that your sheep stay content, comfortable, and happy on your farm! Plus, [<mark style="color:blue;">certain decor items</mark>](../web-3.0/playing-sheepfarm-with-nfts.md) can even be upgraded for added benefits!
 
 
 

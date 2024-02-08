@@ -10,11 +10,11 @@ In Meta-land, sheep are the heart and soul of your pastoral adventure, aspiring 
 
 Lambkins, cute baby sheep in a cozy basket, is a special addition to your virtual farm. Over time, it will grow into a unique adult sheep that you can add to your flock.&#x20;
 
-As with all your sheep, proper care is crucial for your Lambkin, as a well-cared-for Lambkin has a higher chance of evolving into a rarer sheep. Regularly tending to tasks like <mark style="color:blue;">washing, feeding, petting</mark>, and <mark style="color:blue;">engaging in conversations</mark> with your Lambkin can lead to a remarkable transformation – you may even notice a subtle yet exciting change as your Lambkin begins to emit a radiant glow! This aura signals that your Lambkin is overflowing with potential, significantly enhancing its odds of maturing into a rarer breed.
+As with all your sheep, proper care is crucial for your Lambkin, as a well-cared-for Lambkin has a higher chance of evolving into a rarer sheep. Regularly tending to tasks like [<mark style="color:blue;">washing, feeding, petting</mark>, and <mark style="color:blue;">engaging in conversations</mark>](../sheep-farming/sheep-care.md) with your Lambkin can lead to a remarkable transformation – you may even notice a subtle yet exciting change as your Lambkin begins to emit a radiant glow! This aura signals that your Lambkin is overflowing with potential, significantly enhancing its odds of maturing into a rarer breed.
 
 
 
-If you're eager to speed up your Lambkin's growth, consider using <mark style="color:blue;">Lambooster potions</mark>, which can provide a helpful boost.
+If you're eager to speed up your Lambkin's growth, consider using [<mark style="color:blue;">Lambooster potions</mark>](../consumable-items.md), which can provide a helpful boost.
 
 
 
@@ -27,6 +27,8 @@ If you're eager to speed up your Lambkin's growth, consider using <mark style="c
 
 
 ## Sheep Collection
+
+A list of all Sheep Breeds that have been discovered in Meta-land so far:
 
 _Coming Soon..._
 

@@ -23,7 +23,7 @@ Note that the option to directly purchase Rainbow Beanz within the game is exclu
 
 
 
-### Guide: Purchase RB in (MARD Shop)
+### Guide: Purchasing RB (MARD Shop)
 
 _Coming Soon..._
 
@@ -58,17 +58,17 @@ If you need more Seasonal Beanz, visit the Beanz shop to exchange Rainbow Beanz 
 
 <figure><img src="../.gitbook/assets/MARD.png" alt="" width="188"><figcaption></figcaption></figure>
 
-MARD Tokens are the currency of opulence within the game. Hailing from the luxurious Marmalade Kingdom, these tokens symbolize prosperity and refinement. They are a valuable resource used for various transactions within the <mark style="color:blue;">MARD Shop</mark>, where Lady Amberworth ensures that only the finest and most sophisticated items are available.
+MARD Tokens are the currency of opulence within the game. Hailing from the luxurious Marmalade Kingdom, these tokens symbolize prosperity and refinement. They are a valuable resource used for various transactions within the[ <mark style="color:blue;">MARD Shop</mark>](mard-shop.md), where Lady Amberworth ensures that only the finest and most sophisticated items are available.
 
 
 
-You can earn MARD Tokens through purchase, through in-game achievements, rewards, and by trying your luck in ticket betting, adding an exciting element of chance to your journey towards opulence. These tokens grant you access to a world of elegance, that will make your sheep farming experience a truly lavish experience.
+You can earn MARD Tokens through purchases, through in-game achievements, rewards, and by trying your luck in ticket betting, adding an exciting element of chance to your journey towards opulence. These tokens grant you access to a world of elegance, that will make your sheep farming experience a truly lavish experience.
 
 
 
 **MARD Tokens come in two distinct forms:**
 
 * **MARD in Game:** This currency is confined to the virtual realm of the game, enriching your in-game experience.
-* **MARD in Wallet:** This is the real-world counterpart, residing outside the game in your <mark style="color:blue;">crypto wallet</mark>. It represents a tangible asset with potential real-world value.
+* **MARD in Wallet:** This is the real-world counterpart, residing outside the game in your [<mark style="color:blue;">crypto wallet</mark>](../web-3.0/tokenomics.md). It represents a tangible asset with potential real-world value.
 
 Both forms of MARD Tokens offer unique opportunities and adventures, bridging the gap between the virtual and real worlds.
