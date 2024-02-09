@@ -96,7 +96,7 @@ Here's how you can mint Sheep NFTs on each respective network:
 
 **NFT in inventory:**
 
-<figure><img src="../../.gitbook/assets/Untitled (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * You have the option to transfer, trade, or deposit the item back into the game ([Meta-land](../real-world-and-meta-land.md)) for in-game use.
 
