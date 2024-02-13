@@ -1,6 +1,6 @@
 # Minting NFTs
 
-In a new development, the game now allows you to mint **non-NFT** in-game items into **NFTs**, offering interesting possibilities for your virtual assets. This feature is exclusively available on the **Oasys** and **Kroma** networks. It opens up the potential for standard in-game items to be transformed into NFTs, unlocking various opportunities and potential value. While this option does involve a small fee and specific [<mark style="color:blue;">consumable items</mark>](broken-reference), it remains an accessible choice for those interested in expanding their in-game collections and exploring the world of NFTs within the game.
+In a new development, the game now allows you to mint **non-NFT** in-game items into **NFTs**, offering interesting possibilities for your virtual assets. This feature is exclusively available on the **Oasys** and **Kroma** networks. It opens up the potential for standard in-game items to be transformed into NFTs, unlocking various opportunities and potential value. While this option does involve a small fee and/or specific [<mark style="color:blue;">consumable items</mark>](../../gameplay/consumable-items.md), it remains an accessible choice for those interested in expanding their in-game collections and exploring the world of NFTs within the game.
 
 
 

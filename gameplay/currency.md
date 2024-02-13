@@ -6,7 +6,7 @@ In the world of Sheep farming, various currencies play a vital role in shaping y
 
 ## **Rainbow Beanz - A Shimmering Treasure**
 
-<figure><img src="../.gitbook/assets/301.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/beanz_rainbow (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Rainbow Beanz are a precious and sought-after currency in the game. While they are not as easy to obtain for free, they can still be acquired by various means, including in-app purchases, or by exchanging MARD Tokens on our official website. With Rainbow Beanz in your possession, you'll have access to exclusive and luxurious items, allowing you to easily enhance your sheep farming experience.
 
@@ -33,7 +33,7 @@ _Coming Soon..._
 
 ## **Seasonal Beanz - Embrace the Seasonal Spirit**
 
-<figure><img src="../.gitbook/assets/302.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/beanz_06.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Seasonal Beanz are a unique and time-sensitive currency within the game. They provide access to exclusive seasonal items and decor in the shop, allowing players to embrace the spirit of each season. However, there's a catch – Seasonal Beanz expire at the end of every season, encouraging players to enjoy the special offerings while they last.
 

@@ -95,12 +95,12 @@ You can access the complete summary on the following page:[https://www.notion.so
 
 
 
-_**Important Factors to Consider**_
+_<mark style="color:green;">**Important Factors to Consider**</mark>_
 
-1. _**No Lower Rarity**: Morphing will never result in sheep of lower rarity than the ones you started with. Your newly morphed sheep will either maintain the same rarity or become a higher rarity._
-2. _**Original Sheep Exclusion**: The results of morphing will never include any of the original sheep breeds you selected. This means that the sheep you initially choose for morphing won't be among the outcomes._
-3. _**Irreversible Process**: Once you begin the morphing process, there is no way to undo it. This is a permanent transformation, so exercise caution and ensure you're certain about your decision before initiating morphing._
-4. _**Patience is Key**: Please be patient as your morphing is in progress. The processing time may vary depending on the stability of the server, so allow for some time for the transformation to be completed._
+1. _<mark style="color:green;">**No Lower Rarity**</mark><mark style="color:green;">: Morphing will never result in sheep of lower rarity than the ones you started with. Your newly morphed sheep will either maintain the same rarity or become a higher rarity.</mark>_
+2. _<mark style="color:green;">**Original Sheep Exclusion**</mark><mark style="color:green;">: The results of morphing will never include any of the original sheep breeds you selected. This means that the sheep you initially choose for morphing won't be among the outcomes.</mark>_
+3. _<mark style="color:green;">**Irreversible Process**</mark><mark style="color:green;">: Once you begin the morphing process, there is no way to undo it. This is a permanent transformation, so exercise caution and ensure you're certain about your decision before initiating morphing.</mark>_
+4. _<mark style="color:green;">**Patience is Key**</mark><mark style="color:green;">: Please be patient as your morphing is in progress. The processing time may vary depending on the stability of the server, so allow for some time for the transformation to be completed.</mark>_
 
 
 

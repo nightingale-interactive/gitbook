@@ -8,7 +8,7 @@ Ready to try your luck and test your instincts? Within Sheep Racing, Betting ser
 
 ## Practice Runs
 
-Before the actual race, you have the option to watch a practice run, providing valuable insights into what to expect. For a single [Scope](broken-reference), you can access this feature and view demo versions of races. Utilize this opportunity to familiarize yourself with the tracks, refine your skills, and adapt strategies to improve your racing proficiency.
+Before the actual race, you have the option to watch a practice run, providing valuable insights into what to expect. For a single [Scope](../consumable-items.md), you can access this feature and view demo versions of races. Utilize this opportunity to familiarize yourself with the tracks, refine your skills, and adapt strategies to improve your racing proficiency.
 
 
 
@@ -55,7 +55,7 @@ To participate in ticket betting, you'll need to purchase tickets, and it's a st
 <figure><img src="../../.gitbook/assets/Untitled (41).png" alt=""><figcaption></figcaption></figure>
 
 1. Begin by clicking the button next to your current ticket balance to initiate the purchase procedure.
-2. Purchase your tickets using your in-game MARD currency. Simply input the number of tickets you wish to buy; each ticket is priced at just 1 MARD.
+2. Purchase your tickets using your in-game MARD currency. Simply input the number of [tickets ](../consumable-items.md)you wish to buy; each ticket is priced at just 1 MARD.
 3. If you attempt to place a bet without any tickets in your possession, don't worry! The system will automatically prompt you to acquire tickets before proceeding.
 
 
