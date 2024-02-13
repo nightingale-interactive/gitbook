@@ -11,7 +11,7 @@ description: >-
 
 ## Aurora Boxes
 
-<figure><img src="../.gitbook/assets/Untitled (1) (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Aurora Box Gif.gif" alt="" width="150"><figcaption></figcaption></figure>
 
 The [Aurora Boxes](https://twitter.com/i/status/1531969828382449664), created in collaboration with [Crypto.com](https://crypto.com/nft/drops-event/0342ddc847e381f0c45f2dbb536df233?tab=info), were a unique offering available for a limited time on June 1st. Inside these special virtual boxes, you could find various virtual sheep, which could be converted into non-fungible tokens (NFTs) for use on the Klaytn network.
 
