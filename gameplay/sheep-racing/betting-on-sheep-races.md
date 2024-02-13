@@ -20,6 +20,8 @@ The odds for each individual sheep are also factored into practice runs, taking 
 
 The concept of odds is essential in Sheep Racing, and it's important to understand how they work.
 
+<figure><img src="../../.gitbook/assets/Odds gif.gif" alt=""><figcaption></figcaption></figure>
+
 **Initial Odds:** Initial Odds represent the game's default setting and serve as the starting point for the race. These opening odds are calculated based on what the bookmaker predicts will happen, drawing from approximately 50 Practice Runs. As such, they offer a reliable initial reference point for the race.
 
 **Changing Odds:** As more players place their bets, the dynamics of the book change. Consequently, the bookmaker must adjust the odds to reflect the evolving betting patterns. You can track these changes by toggling the "Current Odds" indicator, which provides real-time updates on the odds for each contender in the race.
@@ -52,11 +54,13 @@ Ticket Betting uses specialized betting tickets as your currency for wagers. By 
 
 To participate in ticket betting, you'll need to purchase tickets, and it's a straightforward process on the <mark style="color:blue;">Klaytn Network</mark>:
 
-<figure><img src="../../.gitbook/assets/Untitled (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BuyBettingTicket-gif.gif" alt=""><figcaption></figcaption></figure>
 
-1. Begin by clicking the button next to your current ticket balance to initiate the purchase procedure.
-2. Purchase your tickets using your in-game MARD currency. Simply input the number of [tickets ](../consumable-items.md)you wish to buy; each ticket is priced at just 1 MARD.
-3. If you attempt to place a bet without any tickets in your possession, don't worry! The system will automatically prompt you to acquire tickets before proceeding.
+1. **Initiate Purchase**: Start by clicking the + button next to your current ticket balance.&#x20;
+2. **Input Number**: Once you've initiated the purchase procedure, you'll be prompted to input the number of tickets you wish to buy. Each ticket is priced at just 1 MARD, so simply enter the desired quantity of tickets you want to purchase.
+3. **Confirm Purchase**: After inputting the number of tickets, confirm your purchase to finalize the transaction.
+4. **Complete Transaction**: Once you've acquired the tickets, you're ready to proceed with placing your bet.&#x20;
+5. **Alternative:** If you attempt to place a bet without any tickets in your possession, the system will automatically prompt you to acquire tickets before proceeding. Follow the prompts to purchase the necessary tickets using your in-game MARD currency.
 
 
 

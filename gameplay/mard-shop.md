@@ -38,15 +38,15 @@ Assisting you in your crafting endeavours is Deolize, a reclusive potions expert
 
 ### Guide: How To Craft An Item
 
-<figure><img src="../.gitbook/assets/Untitled (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CraftWoolBundle-gif.gif" alt=""><figcaption></figcaption></figure>
 
-1. Visit the MARD Shop and navigate to the crafting tab.
-2. Select the specific item you want to craft from the available options.
-3. You will then see a list of items required as fuel to power the crafting process.
-4. You have the option to manually select the required items or click the "Auto" button, which will automatically fill in the necessary components for crafting your item.
-5. Once you've confirmed your selection, the crafting process will commence.
-6. Keep in mind that crafting an item involves a cost in MARD, which varies depending on the item you're crafting.
-7. Congratulations! You've successfully crafted your desired item.
+1. **Visit the MARD Shop**: Start by accessing the MARD Shop in the game. This can be found in the game's expandable menu.
+2. **Navigate to Crafting**: Once you're in the MARD Shop, look for the crafting tab. This tab is where you'll find options for crafting various items within the game.
+3. **Select Your Item**: From the available options in the crafting tab, select the specific item you want to craft.&#x20;
+4. **Required Components**: After selecting the item you want to craft, you'll see a list of items required as fuel to power the crafting process.&#x20;
+5. **Choose Manual or Auto Selection**: You have the option to manually select the required items from your inventory or click the "Auto" button. Choosing "Auto" will automatically fill in the necessary components for crafting your item based on what you have available.
+6. **Start Crafting**: After confirming your selection, the crafting process will commence. Keep in mind that crafting an item involves a cost in MARD currency, which varies depending on the item you're crafting. Make sure you have enough MARD to cover the cost before starting the crafting process.
+7. **Congratulations!**: Once the crafting process is complete, you've successfully crafted your desired item.
 
 
 
@@ -62,12 +62,16 @@ Items available for sale are thoughtfully organized, with listings sorted by pri
 
 
 
-### Guide: How To List an Item For Trading
+### Guide: How To List an Item For Sale
 
 _Coming Soon..._
 
+<figure><img src="../.gitbook/assets/Listanitemforsaleintradinghub-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-
-### Guide: How To Purchase An Item
-
-_Coming Soon..._
+1. **Visit the MARD Shop**: Start by accessing the MARD Shop within the game. You can find this in the game's expandable menu.
+2. **Navigate to Crafting**: Once you're in the MARD Shop, look for the trading hub tab. This tab is where you'll find options for trading various items within the game. Click on the trading hub tab to proceed.
+3. **Select Your Item**: From the available options in your inventory, select the specific item you want to list for sale. This could be any item that you own and are willing to sell to other players in the game.
+4. **Set Sale Details**: After selecting the item, choose the amount you want to sell and specify the price you want to sell it for. You'll also have the option to choose when you want your listing to expire, allowing you to control the duration of your item's availability on the market.
+5. **View Profit**: As you set the selling details, you'll be able to see how much profit you will make from this sale. This will help you make informed decisions about pricing and listing your item.
+6. **Confirm Listing**: Once you've set all the selling details and reviewed the potential profit, confirm your listing. This will finalize the process of listing your item for sale in the trading hub.
+7. **Finalize Sale**: After confirming the listing, your item will be listed for sale in the trading hub. Other players will be able to see your listing and potentially purchase your item if they're interested.
