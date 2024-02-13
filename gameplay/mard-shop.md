@@ -64,14 +64,14 @@ Items available for sale are thoughtfully organized, with listings sorted by pri
 
 ### Guide: How To List an Item For Sale
 
-_Coming Soon..._
-
 <figure><img src="../.gitbook/assets/Listanitemforsaleintradinghub-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 1. **Visit the MARD Shop**: Start by accessing the MARD Shop within the game. You can find this in the game's expandable menu.
-2. **Navigate to Crafting**: Once you're in the MARD Shop, look for the trading hub tab. This tab is where you'll find options for trading various items within the game. Click on the trading hub tab to proceed.
-3. **Select Your Item**: From the available options in your inventory, select the specific item you want to list for sale. This could be any item that you own and are willing to sell to other players in the game.
-4. **Set Sale Details**: After selecting the item, choose the amount you want to sell and specify the price you want to sell it for. You'll also have the option to choose when you want your listing to expire, allowing you to control the duration of your item's availability on the market.
-5. **View Profit**: As you set the selling details, you'll be able to see how much profit you will make from this sale. This will help you make informed decisions about pricing and listing your item.
-6. **Confirm Listing**: Once you've set all the selling details and reviewed the potential profit, confirm your listing. This will finalize the process of listing your item for sale in the trading hub.
-7. **Finalize Sale**: After confirming the listing, your item will be listed for sale in the trading hub. Other players will be able to see your listing and potentially purchase your item if they're interested.
+2. **Navigate to Trading**: Once you're in the MARD Shop, look for the trading hub tab. This tab is where you'll find options for trading various items within the game. Click on the trading hub tab to proceed.
+3. **List Item**: Click on the "List" button located in the top right corner of the trading hub interface. This will initiate the process of listing an item for sale.
+4. **Select Your Item**: After clicking "List", from the available options in your inventory, select the specific item you want to list for sale. This could be any item that you own and are willing to sell to other players in the game.
+5. **Set Sale Details**: Once you've selected the item, choose the amount you want to sell and specify the price you want to sell it for. You'll also have the option to choose when you want your listing to expire, allowing you to control the duration of your item's availability on the market.
+6. **View Profit**: As you set the selling details, you'll be able to see how much profit you will make from this sale. This will help you make informed decisions about pricing and listing your item.
+7. **Confirm Listing**: Once you've set all the selling details and reviewed the potential profit, confirm your listing. This will finalize the process of listing your item for sale in the trading hub.
+8. **Finalize Sale**: If your item sells, you'll receive the proceeds in your in-game currency. If your item doesn't sell and the listing expires, it will be returned to you. You can retrieve expired items from your post box, ensuring you don't lose any inventory.
+9. **View Your Listings**: You can view your listings at any time by clicking on "My Listing" located in the top right corner of the trading hub interface. This allows you to keep track of the items you have listed for sale.
