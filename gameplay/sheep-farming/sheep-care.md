@@ -8,6 +8,8 @@ As a responsible shepherd, it's vital to look after your sheep's well-being. Thi
 
 ## **Placing/Removing Sheep**
 
+<figure><img src="../../.gitbook/assets/Addandremovesheep-gif.gif" alt=""><figcaption></figcaption></figure>
+
 During gameplay, you have the flexibility to add or remove sheep from your pasture as needed.
 
 1. **Accessing Sheep:** Click on the _Sheep_ Collection icon located on the left side of the screen to access your Sheep Collection. Here, you can view all your sheep and add or remove them by clicking the respective buttons next to each sheep.
@@ -31,6 +33,8 @@ During gameplay, you have the flexibility to add or remove sheep from your pastu
 ## Sheep Grooming: Petting and Washing
 
 <figure><img src="../../.gitbook/assets/2024-01-29 17 24 33.png" alt=""><figcaption></figcaption></figure>
+
+
 
 Your sheep thrive on regular grooming to feel loved and cared for. They will clearly notify you when it's time for a grooming session, either by needing a gentle pet or a thorough wash. Be attentive to their signals to ensure their well-being and happiness. While grooming your sheep, keep an eye out for the occasional surprise – sweet treats may randomly drop as an extra reward during the grooming process.
 
@@ -84,6 +88,10 @@ Powered by AI technology, Sheep Chat interprets your inputs and generates respon
 
 
 
-Not only is Sheep Chat a fun way to interact with your sheep, but it also offers a chance to get random bonus reward items every 10th interaction. Here's a table that shows all the rewards and their probabilities, so you can know exactly what you can get:
+Not only is Sheep Chat a fun way to interact with your sheep, but it also offers a chance to get random bonus reward items every 10th interaction.
+
+<figure><img src="../../.gitbook/assets/SheepChatandreward gif.gif" alt=""><figcaption><p>Sheep Chat Reward Drop</p></figcaption></figure>
+
+**Here's a table that shows all the rewards and their probabilities, so you can know exactly what you can get:**
 
 <figure><img src="../../.gitbook/assets/2024-02-06 13 41 31.png" alt=""><figcaption></figcaption></figure>
