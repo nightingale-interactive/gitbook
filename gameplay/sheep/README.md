@@ -14,7 +14,7 @@ As with all your sheep, proper care is crucial for your Lambkin, as a well-cared
 
 
 
-If you're eager to speed up your Lambkin's growth, consider using [<mark style="color:blue;">Lambooster potions</mark>](../consumable-items.md), which can provide a helpful boost.
+If you're eager to speed up your Lambkin's growth, consider using [<mark style="color:blue;">Lambooster potions</mark>](broken-reference), which can provide a helpful boost.
 
 
 

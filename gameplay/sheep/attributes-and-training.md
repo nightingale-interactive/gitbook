@@ -50,7 +50,7 @@ Upon clicking the Sheep Training button, you can initiate training to enhance th
 
 
 
-The right side of the screen features an **attribute diagram**, offering a visual representation of your sheep's attribute balance. While sheep are born with unique attributes, you can alter these stats using [<mark style="color:blue;">Mystery Cubes</mark>](../consumable-items.md), which grant a sheep random stats every time you use them.
+The right side of the screen features an **attribute diagram**, offering a visual representation of your sheep's attribute balance. While sheep are born with unique attributes, you can alter these stats using [<mark style="color:blue;">Mystery Cubes</mark>](broken-reference), which grant a sheep random stats every time you use them.
 
 
 
@@ -62,7 +62,7 @@ Also on the training screen, you'll notice that your sheep don't just race for g
 
 <figure><img src="../../.gitbook/assets/energy.png" alt="" width="257"><figcaption></figcaption></figure>
 
-Each sheep has an energy bar that depletes as they participate in arena races. Recharge them with [<mark style="color:blue;">recharge potions</mark>](../consumable-items.md) to keep them in peak racing condition!
+Each sheep has an energy bar that depletes as they participate in arena races. Recharge them with [<mark style="color:blue;">recharge potions</mark>](broken-reference) to keep them in peak racing condition!
 
 
 
@@ -70,7 +70,7 @@ Each sheep has an energy bar that depletes as they participate in arena races. R
 
 <figure><img src="../../.gitbook/assets/Untitled (45).png" alt=""><figcaption></figcaption></figure>
 
-To level up your sheep, you can infuse their strength with the wool you've collected in your [<mark style="color:blue;">inventory</mark> ](../inventory-and-gifting.md)or use[ <mark style="color:blue;">EXP potions</mark>](../consumable-items.md). These potions come in three different sizes, each offering varying levels of experience points. Rarer sheep wool provides more experience, making them valuable assets in your training efforts. The "Auto" button simplifies the process by automatically calculating and adding the required EXP potions or wool to level up your sheep.
+To level up your sheep, you can infuse their strength with the wool you've collected in your [<mark style="color:blue;">inventory</mark> ](../inventory-and-gifting.md)or use[ <mark style="color:blue;">EXP potions</mark>](broken-reference). These potions come in three different sizes, each offering varying levels of experience points. Rarer sheep wool provides more experience, making them valuable assets in your training efforts. The "Auto" button simplifies the process by automatically calculating and adding the required EXP potions or wool to level up your sheep.
 
 
 
@@ -96,9 +96,9 @@ In a sheep race, each sheep experiences a moment called <mark style="color:blue;
 
 ### **Selling and Resetting Sheep**
 
-When your flock has grown so large that there's not much room for new members, you can find a new home for your sheep by hitting the "sell" button. Just keep in mind that this decision is permanent, so be ready to say goodbye to your fluffy friend. In exchange, you'll receive the EXP you've invested in that sheep in the form of[ <mark style="color:blue;">EXP potions</mark>](../consumable-items.md).
+When your flock has grown so large that there's not much room for new members, you can find a new home for your sheep by hitting the "sell" button. Just keep in mind that this decision is permanent, so be ready to say goodbye to your fluffy friend. In exchange, you'll receive the EXP you've invested in that sheep in the form of[ <mark style="color:blue;">EXP potions</mark>](broken-reference).
 
-Alternatively, you can give your sheep a fresh start by making them forget their past experiences with a sprinkle of [<mark style="color:blue;">Amnesia dust</mark>](../consumable-items.md). This lets them start over at level one, and any EXP you've invested in them will be refunded to you as [<mark style="color:blue;">EXP potions</mark>](../consumable-items.md).
+Alternatively, you can give your sheep a fresh start by making them forget their past experiences with a sprinkle of [<mark style="color:blue;">Amnesia dust</mark>](broken-reference). This lets them start over at level one, and any EXP you've invested in them will be refunded to you as [<mark style="color:blue;">EXP potions</mark>](broken-reference).
 
 
 

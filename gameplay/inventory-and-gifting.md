@@ -8,7 +8,7 @@ Your inventory is the treasure chest that holds all your possessions, from wool 
 
 <figure><img src="../.gitbook/assets/ch_deliver_spring.png" alt="" width="375"><figcaption></figcaption></figure>
 
-From within your inventory, you have the option to gift items to fellow players, accompanied by a heartfelt message of your choice. The trusty postman will swing by to collect your parcel and ensure it reaches your friend, making gift-giving a heartwarming experience in the game. Currently, the only giftable item is the [<mark style="color:blue;">Wool Bundle</mark>](consumable-items.md), but stay tuned for future updates that will introduce more gifting options.
+From within your inventory, you have the option to gift items to fellow players, accompanied by a heartfelt message of your choice. The trusty postman will swing by to collect your parcel and ensure it reaches your friend, making gift-giving a heartwarming experience in the game. Currently, the only giftable item is the [<mark style="color:blue;">Wool Bundle</mark>](broken-reference), but stay tuned for future updates that will introduce more gifting options.
 
 
 

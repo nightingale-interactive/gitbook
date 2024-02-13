@@ -28,7 +28,7 @@ At the MARD Shop, you'll encounter more than just a marketplace; it houses a cra
 
 
 
-Currently, a **limited** selection of craftable items includes a[ <mark style="color:blue;">wool bundle</mark>](consumable-items.md), created by combining wool from [<mark style="color:blue;">NFT sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md), and [<mark style="color:blue;">Minting Vouchers</mark>](consumable-items.md), which facilitate the transformation of regular sheep into [<mark style="color:blue;">NFT Sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md).
+Currently, a **limited** selection of craftable items includes a[ <mark style="color:blue;">wool bundle</mark>](broken-reference), created by combining wool from [<mark style="color:blue;">NFT sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md), and [<mark style="color:blue;">Minting Vouchers</mark>](broken-reference), which facilitate the transformation of regular sheep into [<mark style="color:blue;">NFT Sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md).
 
 
 

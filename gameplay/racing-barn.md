@@ -24,7 +24,7 @@ Once your sheep are comfortably settled in the barn, they automatically become p
 
 Loot Lane is a key part of the Racing Barn, giving you an easy way to collect [Seasonal Beanz](currency.md) even when you're not actively playing. Just place your sheep in Loot Lane, and over time, you'll see those Beanz stacking up without needing to constantly check in. This rate of Beanz accumulation is determined by the combined [stats of the sheep](sheep/attributes-and-training.md) currently racing in the lane, and you can easily keep track of it at the top of the page.
 
-It operates in an AFK (Away From Keyboard) mode, making it a hassle-free addition to your gameplay. You'll get AFK rewards, plus the added bonus of random[ consumable item](consumable-items.md) drops as a bonus for your efforts in raising your sheep.
+It operates in an AFK (Away From Keyboard) mode, making it a hassle-free addition to your gameplay. You'll get AFK rewards, plus the added bonus of random[ consumable item](broken-reference) drops as a bonus for your efforts in raising your sheep.
 
 
 
@@ -52,7 +52,7 @@ In the Arena, the second available area in the Racing Barn, you'll find a more d
 
 
 
-To join Arena races, you'll be paired with players of similar skill levels. If you want to explore different opponents, you can use [<mark style="color:blue;">Matchmaker Tickets</mark>](consumable-items.md) as consumables to refresh your matchmaking options. Once you reach a certain point threshold, you'll have the opportunity to include more sheep in your participant group during matchmaking. This strategy increases your chances of winning as you compete against fewer opponents.
+To join Arena races, you'll be paired with players of similar skill levels. If you want to explore different opponents, you can use [<mark style="color:blue;">Matchmaker Tickets</mark>](broken-reference) as consumables to refresh your matchmaking options. Once you reach a certain point threshold, you'll have the opportunity to include more sheep in your participant group during matchmaking. This strategy increases your chances of winning as you compete against fewer opponents.
 
 
 
@@ -82,6 +82,6 @@ Participation in Arena races allows you to earn points that contribute to your r
 4. **Selecting a League:** To choose your desired league, you'll need to toggle the league button between _Normal_, _<mark style="color:blue;">Rare</mark>_, and _<mark style="color:red;">Unlimited</mark>_ based on the rarity of sheep you want to enter and compete against.
 5. **Drag and Drop**: Once you've added your sheep and chosen your league, you can drag and drop them into the frame to add them to the race lineup.
 6. **Match Button**: After adding your sheep to lineup, click the "Match" button to proceed matching up with a group of opponents.
-7. **Retry Matchmaking**: If you wish to match with a new group, click the "Retry" button. This option consumes [Matchmaker Tickets.](consumable-items.md)
+7. **Retry Matchmaking**: If you wish to match with a new group, click the "Retry" button. This option consumes [Matchmaker Tickets.](broken-reference)
 8. **Start Race**: Finally, press the "Start" button. Now you're all set to watch your sheep compete in the Arena!
 9. **Remove Sheep:** If you need to remove a sheep, simply drag and drop it from the lineup back into the Racing Barn tray on the left side.
