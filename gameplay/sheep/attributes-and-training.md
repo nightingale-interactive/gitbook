@@ -76,13 +76,13 @@ To level up your sheep, you can infuse their strength with the wool you've colle
 
 #### **Guide: How to Level Up Your Sheep**
 
-1. Access the sheep training button located in the selected sheep's care panel within sheep farm mode.
-2. Click on the level up button positioned on the right-hand side.
-3. Review the list of items required as fuel to level up your sheep.
-4. Choose between manually selecting the necessary items or utilizing the "Auto" button for automatic selection.
-5. Confirm your selection to initiate the leveling up process.
-6. After leveling up your sheep, you have the option to reroll its stats using [mystery cubes](../consumable-items.md).
-7. Congratulations! You've completed the training process and successfully enhanced your sheep's abilities.
+1. **Access Sheep Training**: Enter sheep farm mode in the game and select the sheep you want to level up. Look for the sheep care panel, where you'll find the sheep training button. Click on it to access the training options for the selected sheep.
+2. **Level Up**: Within the sheep training interface, locate the level up button positioned on the bottom right-hand side. Click on this button to proceed with the leveling up process for your sheep.
+3. **Manual or Auto Selection**: Upon clicking the level up button, a list of items required as fuel to level up your sheep will be displayed. If you have the required items in your inventory, you can manually choose them. Alternatively, clicking the "Auto" button will automatically fill in the necessary components for leveling up your sheep based on what you have available.
+4. **Confirm Selection**: Once you've selected the required items or used the auto-selection feature, confirm your selection to initiate the leveling up process for your sheep.&#x20;
+5. **Initiate Leveling Up**: After confirming your selection, the leveling up process will be initiated for your sheep.&#x20;
+6. **Reroll Stats (Optional)**: After successfully leveling up your sheep, you may have the option to reroll its stats using mystery cubes. This allows you to potentially enhance your sheep's abilities even further.&#x20;
+7. **Congratulations!**: You've completed the training process and successfully enhanced your sheep's abilities through leveling up. Your sheep is now stronger and more capable, ready to excel in various races within the game.
 
 
 
