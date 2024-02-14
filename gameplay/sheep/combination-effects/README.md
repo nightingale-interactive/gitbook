@@ -4,7 +4,7 @@ description: 'Combo Effects: The Power of Pairing'
 
 # Combination Effects
 
-<figure><img src="../../../.gitbook/assets/IMG_1805 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3615.PNG" alt=""><figcaption></figcaption></figure>
 
 Sheep are naturally social animals, finding comfort and contentment in the company of their fellow woolly friends. Separating a sheep from its flock can lead to agitation and unease. To nurture the best in your sheep, consider grouping them together. Not only does this keep them happy, but it also unlocks the potential for powerful combo effects!
 

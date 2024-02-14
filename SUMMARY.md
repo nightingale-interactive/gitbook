@@ -45,7 +45,7 @@
 * [iOS App](https://apps.apple.com/us/app/sheepfarm-raising-4-racing/id6462849347)
 * [Android App](https://play.google.com/store/apps/details?id=com.nooslab.rasing4racing)
 * [Discord](http://bit.ly/46GnTT2)
-* [Twitter](https://twitter.com/SheepFarmMeta)
+* [X (Twitter)](https://twitter.com/SheepFarmMeta)
 * [Telegram](https://t.me/sheepmeta)
 * [Opensea](https://opensea.io/collection/sheepfarm)
 * [Medium ](https://sheepfarm.medium.com/)

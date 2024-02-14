@@ -4,7 +4,7 @@ description: A Gateway to Luxury and Unique Finds
 
 # MARD Shop
 
-<figure><img src="../.gitbook/assets/1_uwE5HbJIeeIXMQI3y0sR6Q.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_3612.PNG" alt=""><figcaption></figcaption></figure>
 
 Nestled within the heart of the Marmalade Kingdom lies the MARD Shop, a treasure trove of opulence and extraordinary discoveries. This establishment is a testament to impeccable taste, where every item is carefully chosen to meet the highest standards of quality and uniqueness.
 
@@ -14,7 +14,7 @@ Nestled within the heart of the Marmalade Kingdom lies the MARD Shop, a treasure
 
 <figure><img src="../.gitbook/assets/Untitled (46).png" alt=""><figcaption></figcaption></figure>
 
-The MARD Shop is a bustling **shared** marketplace where players strive to acquire one-of-a-kind treasures. Operating on a _first-come, first-serve_ basis, this lively marketplace infuses every visit with a sense of excitement. Regularly checking back will lead to the discovery of exceptional items, ensuring each trip is an enjoyable adventure of unique finds.
+The MARD Shop is a bustling **shared** marketplace where players strive to acquire one-of-a-kind treasures. Operating on a _first-come, first-serve_ basis, this lively marketplace infuses every visit with a sense of excitement. Lady Amberworth ensures that only the finest and most sophisticated items are available. Regularly checking back will lead to the discovery of exceptional items, ensuring each trip is an enjoyable adventure of unique finds.
 
 
 
