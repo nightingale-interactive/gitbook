@@ -38,7 +38,7 @@ You have the option to sell the wool produced by your **NFT sheep** to Marge, a 
 
 ## **Reveal Your NFT Sheep’s Attributes**
 
-<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 Every sheep possesses its own distinct personality and [hidden attributes](../gameplay/sheep/attributes-and-training.md), waiting to be uncovered. Foster a deeper connection with your sheep as you unveil their unique characteristics.
 
@@ -140,7 +140,7 @@ A comprehensive summary can be found on[ this](https://www.notion.so/ngit-intera
 
 ### **Guide: Upgrade an NFT Decor Item**
 
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Access Decor Upgrade Tab:** Navigate to the "Decor Upgrade" tab in the [Website NFT menu](https://sheepfarm.io/upgrades).
 2. **Select Decor Item:** Choose a decor item from the list that you wish to upgrade.
