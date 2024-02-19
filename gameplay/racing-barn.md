@@ -24,7 +24,7 @@ Once your sheep are comfortably settled in the barn, they automatically become p
 
 Loot Lane is a key part of the Racing Barn, giving you an easy way to collect [Seasonal Beanz](currency.md) even when you're not actively playing. Just place your sheep in Loot Lane, and over time, you'll see those Beanz stacking up without needing to constantly check in. This rate of Beanz accumulation is determined by the combined [stats of the sheep](sheep/attributes-and-training.md) currently racing in the lane, and you can easily keep track of it at the top of the page.
 
-It operates in an AFK (Away From Keyboard) mode, making it a hassle-free addition to your gameplay. You'll get AFK rewards, plus the added bonus of random [consumable item](consumable-items.md) drops as a bonus for your efforts in raising your sheep.
+It operates in an AFK (Away From Keyboard) mode, making it a hassle-free addition to your gameplay. You'll get AFK rewards, plus the added bonus of random [consumable item](consumable-items.md) drops as a bonus for your efforts in raising your sheep. Keep in mind, if you don't swing by to claim your loot within 12 hours, it hits a time cap, and the rewards stop piling up. So, make sure you drop in regularly to keep the rewards flowing!
 
 
 
