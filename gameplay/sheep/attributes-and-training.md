@@ -68,7 +68,11 @@ Each sheep has an energy bar that depletes as they participate in arena races. R
 
 <figure><img src="../../.gitbook/assets/Untitled (45).png" alt=""><figcaption></figcaption></figure>
 
-To level up your sheep, you can infuse their strength with the wool you've collected in your [<mark style="color:blue;">inventory</mark> ](../inventory-and-gifting.md)or use [<mark style="color:blue;">EXP potions</mark>](../consumable-items.md). These potions come in three different sizes, each offering varying levels of experience points. Rarer sheep wool provides more experience, making them valuable assets in your training efforts. The "Auto" button simplifies the process by automatically calculating and adding the required EXP potions or wool to level up your sheep.
+To enhance your sheep's abilities, you have two main options: you can strengthen them by infusing their strength with the wool you've collected in your inventory or by giving them [EXP potions](../consumable-items.md). These potions come in three different sizes, each offering varying amounts of experience points. It's worth noting that rarer sheep wool provides more experience, which makes them valuable for your training efforts.
+
+
+
+For convenience, there's an 'auto' button that simplifies the process by automatically calculating and adding the required EXP potions or wool to level up your sheep. Each sheep has current stat level and maximum stat level, with the dark brown area representing the maximum level and the orange area representing the current level. If your sheep's balanced maximum stat is 170, it means that even if you level up, you cannot increase the balance stat beyond 170.
 
 
 
