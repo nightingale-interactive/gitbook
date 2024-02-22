@@ -166,7 +166,7 @@ Eddie offers premium game pass items and valuable services to enhance your gamep
 
 _"Good morning, everyone! I've got some good news for you today!"_
 
-<figure><img src=".gitbook/assets/ch_deliver_spring (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ch_deliver_fall.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 The Seasonal Postman, a harbinger of good news in Meta-land. His attire seamlessly adapts to the shifting seasons, blending in with the ever-changing landscape. With his presence, he brings a sense of cheer to the tranquil surroundings.
 
