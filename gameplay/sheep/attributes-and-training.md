@@ -14,9 +14,7 @@ The rarity of your sheep determines the range of attributes they can potentially
 | Rare   | 240 | 280 |
 | Epic   | 280 | 320 |
 
-
-
-**Attributes:**
+#### **Attributes:**
 
 <table><thead><tr><th width="84" align="center">Icon</th><th width="122" align="center">Attribute</th><th>Description</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/icon_st_speed.png" alt=""></td><td align="center">Speed</td><td>Represents the speed at which a sheep can run.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_stamina (1).png" alt=""></td><td align="center">Stamina</td><td>Determines how long a sheep can maintain peak running speed.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_power.png" alt=""></td><td align="center">Power</td><td>Represents a sheep's ability to outrun and overtake other sheep, as well as to maintain its position once it has gained ground.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_balance.png" alt=""></td><td align="center">Balance</td><td>Affects the running stability of sheep. It not only helps your sheep get a strong start in the race, but it also reduces the chance that they may stumble.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_mentality.png" alt=""></td><td align="center">Spirit</td><td>Determines a sheep's capacity to better withstand fatigue and enables them to make more frequent use of their skills.</td></tr></tbody></table>
 
