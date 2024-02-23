@@ -52,7 +52,11 @@ In the Arena, the second available area in the Racing Barn, you'll find a more d
 
 
 
-To join Arena races, you'll be paired with players of similar skill levels. If you want to explore different opponents, you can use [<mark style="color:blue;">Matchmaker Tickets</mark> ](consumable-items.md)as consumables to refresh your matchmaking options. Once you reach a certain point threshold, you'll have the opportunity to include more sheep in your participant group during matchmaking. This strategy increases your chances of winning as you compete against fewer opponents.
+To join Arena races, you'll be paired with players of similar skill levels. If you want to explore different opponents, you can use [<mark style="color:blue;">Matchmaker Tickets</mark> ](consumable-items.md)as consumables to refresh your matchmaking options. Once you reach a certain point threshold, you'll have the opportunity to include more sheep in your participant group during matchmaking. This strategy increases your chances of winning as you compete against fewer opponents.&#x20;
+
+
+
+For those moments when time is of the essence, [Race Skippers](consumable-items.md) offer a convenient solution. With Race Skippers, you can bypass the race itself and instantly access the results, preserving the excitement without the need to watch the entire race unfold. It's a handy item that lets you stay engaged while managing your time efficiently in the Arena.
 
 
 

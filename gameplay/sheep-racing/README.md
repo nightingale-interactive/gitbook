@@ -6,7 +6,11 @@ Experience sheep competitions like never before, hosted by the charming Micayla.
 
 
 
-Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on-sheep-races.md) or just curious, this place has something for everyone. Here, you can bet on sheep or even enroll your own fluffy athletes by placing them in the [Racing Barn](../racing-barn.md). These sheep automatically compete in races, and if they perform well, you can earn [<mark style="color:blue;">Seasonal Beanz</mark> ](../currency.md)or [<mark style="color:blue;">MARD</mark>.](../currency.md)
+Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on-sheep-races.md) or just curious, this place has something for everyone. Here, you can bet on sheep or even enroll your own fluffy athletes by placing them in the [Racing Barn](../racing-barn.md). These sheep automatically compete in races, and if they perform well, you can earn [<mark style="color:blue;">Seasonal Beanz</mark> ](../currency.md)or [<mark style="color:blue;">MARD</mark>.](../currency.md)&#x20;
+
+
+
+Keeping track of your sheep's racing reputation is easy; simply navigate to the [website's racing menu](https://sheepfarm.io/racing) and head to the statistics tab. Here, you can view detailed racing stats such as earnings from races and the number of races your sheep have participated in or won. All players' sheep are displayed by default, but if you want to focus solely on your own fluffy contenders, you can easily filter them by checking the "my sheep" filter box if your wallet is connected to the website. However, if you prefer not to connect your wallet, you can still access your sheep's stats by searching for their unique token ID.
 
 
 
