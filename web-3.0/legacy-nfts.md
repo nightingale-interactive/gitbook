@@ -77,6 +77,24 @@ This event provided a delightful way for players to boost their virtual sheep co
 
 ***
 
+## Lucky Boxes
+
+<figure><img src="../.gitbook/assets/ic_luckbox3rd_04_2022 (1).png" alt=""><figcaption></figcaption></figure>
+
+Lucky Boxes were a fun way for collectors to discover surprises. Inside each box were seven different items, like cute sheep and decorations, all randomly picked to make each unboxing unique.
+
+
+
+There were different types of Lucky Boxes, each with its own price and mix of goodies. Every Lucky Box came with at least one adorable sheep. Some items were common, while others were more rare and exciting to uncover.
+
+&#x20;
+
+Even though they're not around anymore, Lucky Boxes are still remembered fondly by our NFT collectors. They showed how digital collectibles could be enjoyable and sparked new ideas in the hobby.
+
+
+
+***
+
 ## Rainbow Boxes
 
 <figure><img src="../.gitbook/assets/1_SlkNWLlWX0OTjpodLEnpzw.webp" alt=""><figcaption></figcaption></figure>
