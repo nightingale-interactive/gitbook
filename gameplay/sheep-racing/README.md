@@ -10,7 +10,7 @@ Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on
 
 
 
-Keeping track of your sheep's racing reputation is easy; simply navigate to the [website's racing menu](https://sheepfarm.io/racing) and head to the statistics tab. Here, you can view detailed racing stats such as earnings from races and the number of races your sheep have participated in or won. All players' sheep are displayed by default, but if you want to focus solely on your own fluffy contenders, you can easily filter them by checking the "my sheep" filter box if your wallet is connected to the website. However, if you prefer not to connect your wallet, you can still access your sheep's stats by searching for their unique token ID.
+Keeping track of your sheep's racing reputation is easy; simply navigate to the [website's racing menu](https://sheepfarm.io/racing) and head to the statistics tab. Here, you can view detailed racing stats such as earnings from races and the number of races your sheep have participated in or won. All players' sheep are displayed by default, but if you want to focus solely on your own fluffy contenders, you can easily filter them by checking the "_my sheep_" filter box if your wallet is connected to the website. However, if you prefer not to connect your wallet, you can still access your sheep's stats by searching for their unique token ID. _Please note that your sheep will only appear in the Statistics menu if it has taken part in either the Beanz Race or Ticket Race at least once. If your sheep isn't showing up, it might be because it hasn't participated in any races yet. These records are different from Arena Races and are specifically for races related to betting in the Sheep Racing menu._
 
 
 
