@@ -25,7 +25,14 @@ Note that the option to directly purchase Rainbow Beanz within the game is exclu
 
 ### Guide: Purchasing RB (MARD Shop)
 
-_Coming Soon..._
+At the Mard shop, Rainbow Beanz are available in two ways. You can opt for the straightforward purchase of 100 RB at a time. Alternatively, for the adventurous souls who like surprises, there's the choice of acquiring a Surprise RB Bag, which contains a random amount of Rainbow Beanz. Who knows? You might end up getting more than you paid for!
+
+<figure><img src="../.gitbook/assets/Random Rainbow BEanz Icon.png" alt=""><figcaption></figcaption></figure>
+
+1. **Navigate to the MARD Shop**: Open the in-game tray and locate the MARD shop. Click on the shop icon to enter the MARD shop.
+2. **Find Desired Item**: Once inside the MARD shop, navigate to the first tab. Scroll left or right to browse through the available items until you find either the _Rainbow Beanz 100x_ or _Surprise RB Bag_.&#x20;
+3. **Initiate Purchase**: After locating the desired item, click on it to initiate the purchase process. This will bring up a detailed description of the item, including its price. Click the purchase button to proceed with the purchase.
+4. **Complete Purchase**: Follow the prompts to complete the purchase of the item. Once the purchase is confirmed, the Rainbow Beanz or Surprise RB Bag will be credited to your account.
 
 
 
