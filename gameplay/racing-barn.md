@@ -16,7 +16,7 @@ Once your sheep are comfortably settled in the barn, they automatically become p
 * 4th and 5th place: 5% each
 * 6th to 8th place: 0%
 
-
+Remember, to participate in races automatically, your sheep must be at least level 20 when placed in the Racing barn.
 
 ***
 
