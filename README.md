@@ -308,7 +308,7 @@ Her husband, the trading whiz from Marmalade Kingdom, handles the hustle and bus
 
 
 
-Their daughter, Monica, adds a mysterious touch to the family dynamic. A silent observer of the lavish life they've woven, Monica's grumpy demeanor hints at a complexity that adds a unique flavour to the family's opulent existence.
+Their daughter, Jolly, adds a mysterious touch to the family dynamic. A silent observer of the lavish life they've woven, Jolly' grumpy demeanor hints at a complexity that adds a unique flavour to the family's opulent existence.
 
 
 
