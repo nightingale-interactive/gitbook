@@ -147,75 +147,76 @@ A list of all Sheep Breeds that have been discovered in Meta-land so far:
 {% endtab %}
 
 {% tab title="Rare Sheep" %}
-| Image | Name                           |
-| ----- | ------------------------------ |
-|       | Plain Midnight Stargazer       |
-|       | Plain Jade Tailored            |
-|       | Plain Sapphire Tailored        |
-|       | Plain Ruby Tailored            |
-|       | Plain Radiant White            |
-|       | Plain Confetti Polka           |
-|       | Plain Skyan Polka              |
-|       | Plain Tropical Polka           |
-|       | Plain Springbreeze Raindancer  |
-|       | Plain Arctic-Meadow Raindancer |
-|       | Plain Midsummer Raindancer     |
-|       | Splasheep                      |
-|       | Pink Baa-jama Lamb             |
-|       | Blue Baa-jama Lamb             |
-|       | Rebel Sheepster                |
-|       | Vogue Sheepster                |
-|       | Urban Sheepster                |
-|       | Rainbow Chantilly              |
-|       | Spiceberry Chantilly           |
-|       | Meadowtail Chantilly           |
-|       | Tangerine Gummy Chantilly      |
-|       | Pineapple Gummy Chantilly      |
-|       | Peach Gummy Chantilly          |
-|       | Black Sweetheart Chantilly     |
-|       | Pink Sweetheart Chantilly      |
-|       | Yellow Sweetheart Chantilly    |
-|       | Radiant Chantilly              |
-|       | Sweet Pea Hurricane            |
-|       | Arctic Hurricane               |
-|       | Ember Hurricane                |
-|       | Sunlit Hurricane               |
-|       | Pacific Hurricane              |
-|       | Majorca Hurricane              |
-|       | Camellia Hurricane             |
-|       | Red Starburst Hurricane        |
-|       | Silver Starburst Hurricane     |
-|       | Ruby Starburst Hurricane       |
-|       | Ominous Nocturne               |
-|       | Vanilla Creme Nocturne         |
-|       | Winter Rose Cherub             |
-|       | Jadelight Cherub               |
-|       | Autumn Rose Cherub             |
-|       | Opallight Cherub               |
-|       | Sealight Marino                |
-|       | Sable Marino                   |
-|       | Sunbleached Yarn-Matey         |
-|       | Bluebeard Yarn-matey           |
-|       | Violeta Rambouillet            |
-|       | Miss Rouge                     |
-|       | Candyfloss Ragdoll             |
-|       | Pistachic Ragdoll              |
-|       | Carmine Ragdoll                |
-|       | Cerulean Ragdoll               |
-|       | Crimson Dapperhorn             |
-|       | Dusty Dapperhorn               |
-|       | Zephyr Dapperhorn              |
-|       | Red Prince                     |
-|       | Blazen Wildfire                |
-|       | Sylvan Wildfire                |
-|       | Lumiglo Wildfire               |
-|       | Ruby Streaked Wildfire         |
-|       | Black Linen-Lamb               |
-|       | Flamboyant Bonnebell           |
-|       | Chiffon Bonnebell              |
-|       | Rosewood Bonnebell             |
-|       | Rosette Bonnebell              |
-|       | Reggae Wooligan                |
+| Image                                                                      | Name                           |
+| -------------------------------------------------------------------------- | ------------------------------ |
+| <img src="../../.gitbook/assets/123.png" alt="" data-size="original">      | Plain Midnight Stargazer       |
+| <img src="../../.gitbook/assets/131.png" alt="" data-size="original">      | Plain Jade Tailored            |
+| <img src="../../.gitbook/assets/133.png" alt="" data-size="original">      | Plain Sapphire Tailored        |
+| <img src="../../.gitbook/assets/134.png" alt="" data-size="original">      | Plain Ruby Tailored            |
+| <img src="../../.gitbook/assets/141.png" alt="" data-size="original">      | Plain Radiant White            |
+| <img src="../../.gitbook/assets/146.png" alt="" data-size="original">      | Plain Confetti Polka           |
+| <img src="../../.gitbook/assets/149.png" alt="" data-size="original">      | Plain Skyan Polka              |
+| <img src="../../.gitbook/assets/151.png" alt="" data-size="original">      | Plain Tropical Polka           |
+| <img src="../../.gitbook/assets/154.png" alt="" data-size="original">      | Plain Springbreeze Raindancer  |
+| <img src="../../.gitbook/assets/155.png" alt="" data-size="original">      | Plain Arctic-Meadow Raindancer |
+| <img src="../../.gitbook/assets/156.png" alt="" data-size="original">      | Plain Midsummer Raindancer     |
+| <img src="../../.gitbook/assets/186 (1).png" alt="" data-size="original">  | Splasheep                      |
+| <img src="../../.gitbook/assets/194.png" alt="" data-size="original">      | Pink Baa-jama Lamb             |
+| <img src="../../.gitbook/assets/195.png" alt="" data-size="original">      | Blue Baa-jama Lamb             |
+| <img src="../../.gitbook/assets/197.png" alt="" data-size="original">      | Rebel Sheepster                |
+| <img src="../../.gitbook/assets/196.png" alt="" data-size="original">      | Vogue Sheepster                |
+| <img src="../../.gitbook/assets/198.png" alt="" data-size="original">      | Urban Sheepster                |
+| <img src="../../.gitbook/assets/209.png" alt="" data-size="original">      | Rainbow Chantilly              |
+| <img src="../../.gitbook/assets/213.png" alt="" data-size="original">      | Spiceberry Chantilly           |
+| <img src="../../.gitbook/assets/219.png" alt="" data-size="original">      | Meadowtail Chantilly           |
+| <img src="../../.gitbook/assets/221 (1).png" alt="" data-size="original">  | Tangerine Gummy Chantilly      |
+| <img src="../../.gitbook/assets/222.png" alt="" data-size="original">      | Pineapple Gummy Chantilly      |
+| <img src="../../.gitbook/assets/223.png" alt="" data-size="original">      | Peach Gummy Chantilly          |
+| <img src="../../.gitbook/assets/226.png" alt="" data-size="original">      | Black Sweetheart Chantilly     |
+| <img src="../../.gitbook/assets/228.png" alt="" data-size="original">      | Pink Sweetheart Chantilly      |
+| <img src="../../.gitbook/assets/229.png" alt="" data-size="original">      | Yellow Sweetheart Chantilly    |
+| <img src="../../.gitbook/assets/290.png" alt="" data-size="original">      | Radiant Chantilly              |
+| <img src="../../.gitbook/assets/310.png" alt="" data-size="original">      | Sweet Pea Hurricane            |
+| <img src="../../.gitbook/assets/311 (1).png" alt="" data-size="original">  | Arctic Hurricane               |
+| <img src="../../.gitbook/assets/312.png" alt="" data-size="original">      | Ember Hurricane                |
+| <img src="../../.gitbook/assets/313.png" alt="" data-size="original">      | Sunlit Hurricane               |
+| <img src="../../.gitbook/assets/314.png" alt="" data-size="original">      | Pacific Hurricane              |
+| <img src="../../.gitbook/assets/318 (1).png" alt="" data-size="original">  | Majorca Hurricane              |
+| <img src="../../.gitbook/assets/319.png" alt="" data-size="original">      | Camellia Hurricane             |
+| <img src="../../.gitbook/assets/320.png" alt="" data-size="original">      | Red Starburst Hurricane        |
+| <img src="../../.gitbook/assets/322.png" alt="" data-size="original">      | Silver Starburst Hurricane     |
+| <img src="../../.gitbook/assets/323.png" alt="" data-size="original">      | Ruby Starburst Hurricane       |
+| <img src="../../.gitbook/assets/402.png" alt="" data-size="original">      | Ominous Nocturne               |
+| <img src="../../.gitbook/assets/416 (1).png" alt="" data-size="original">  | Vanilla Creme Nocturne         |
+| <img src="../../.gitbook/assets/606.png" alt="" data-size="original">      | Winter Rose Cherub             |
+| <img src="../../.gitbook/assets/610.png" alt="" data-size="original">      | Jadelight Cherub               |
+| <img src="../../.gitbook/assets/611.png" alt="" data-size="original">      | Autumn Rose Cherub             |
+| <img src="../../.gitbook/assets/616.png" alt="" data-size="original">      | Opallight Cherub               |
+| <img src="../../.gitbook/assets/718.png" alt="" data-size="original">      | Sealight Marino                |
+| <img src="../../.gitbook/assets/720.png" alt="" data-size="original">      | Sable Marino                   |
+| <img src="../../.gitbook/assets/804.png" alt="" data-size="original">      | Sunbleached Yarn-Matey         |
+| <img src="../../.gitbook/assets/806 (1).png" alt="" data-size="original">  | Bluebeard Yarn-matey           |
+| <img src="../../.gitbook/assets/1008.png" alt="" data-size="original">     | Violeta Rambouillet            |
+| <img src="../../.gitbook/assets/1009.png" alt="" data-size="original">     | Miss Rouge                     |
+| <img src="../../.gitbook/assets/1103.png" alt="" data-size="original">     | Candyfloss Ragdoll             |
+| <img src="../../.gitbook/assets/1104.png" alt="" data-size="original">     | Pistachic Ragdoll              |
+| <img src="../../.gitbook/assets/1109.png" alt="" data-size="original">     | Carmine Ragdoll                |
+| <img src="../../.gitbook/assets/1110.png" alt="" data-size="original">     | Cerulean Ragdoll               |
+| <img src="../../.gitbook/assets/1202.png" alt="" data-size="original">     | Crimson Dapperhorn             |
+| <img src="../../.gitbook/assets/1204.png" alt="" data-size="original">     | Dusty Dapperhorn               |
+| <img src="../../.gitbook/assets/1209.png" alt="" data-size="original">     | Zephyr Dapperhorn              |
+| <img src="../../.gitbook/assets/1513.png" alt="" data-size="original">     | Red Prince                     |
+| <img src="../../.gitbook/assets/1514.png" alt="" data-size="original">     | Blue Prince                    |
+| <img src="../../.gitbook/assets/1610.png" alt="" data-size="original">     | Blazen Wildfire                |
+| <img src="../../.gitbook/assets/1611 (2).png" alt="" data-size="original"> | Sylvan Wildfire                |
+| <img src="../../.gitbook/assets/1612.png" alt="" data-size="original">     | Lumiglo Wildfire               |
+| <img src="../../.gitbook/assets/1621.png" alt="" data-size="original">     | Ruby Streaked Wildfire         |
+| <img src="../../.gitbook/assets/2202 (1).png" alt="" data-size="original"> | Black Linen-Lamb               |
+| <img src="../../.gitbook/assets/2513.png" alt="" data-size="original">     | Flamboyant Bonnebell           |
+| <img src="../../.gitbook/assets/2514.png" alt="" data-size="original">     | Chiffon Bonnebell              |
+| <img src="../../.gitbook/assets/2516.png" alt="" data-size="original">     | Rosewood Bonnebell             |
+| <img src="../../.gitbook/assets/2517.png" alt="" data-size="original">     | Rosette Bonnebell              |
+| <img src="../../.gitbook/assets/2602.png" alt="" data-size="original">     | Reggae Wooligan                |
 {% endtab %}
 
 {% tab title="Epic Sheep" %}
