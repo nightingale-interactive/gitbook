@@ -206,7 +206,6 @@ A list of all Sheep Breeds that have been discovered in Meta-land so far:
 | <img src="../../.gitbook/assets/1204.png" alt="" data-size="original">     | Dusty Dapperhorn               |
 | <img src="../../.gitbook/assets/1209.png" alt="" data-size="original">     | Zephyr Dapperhorn              |
 | <img src="../../.gitbook/assets/1513.png" alt="" data-size="original">     | Red Prince                     |
-| <img src="../../.gitbook/assets/1514.png" alt="" data-size="original">     | Blue Prince                    |
 | <img src="../../.gitbook/assets/1610.png" alt="" data-size="original">     | Blazen Wildfire                |
 | <img src="../../.gitbook/assets/1611 (2).png" alt="" data-size="original"> | Sylvan Wildfire                |
 | <img src="../../.gitbook/assets/1612.png" alt="" data-size="original">     | Lumiglo Wildfire               |
@@ -220,46 +219,46 @@ A list of all Sheep Breeds that have been discovered in Meta-land so far:
 {% endtab %}
 
 {% tab title="Epic Sheep" %}
-| Image | Name                      |
-| ----- | ------------------------- |
-|       | Plain Snowbelly           |
-|       | Plain Twilight Raindancer |
-|       | Prime Splasheep           |
-|       | Black Starburst Hurricane |
-|       | Infernal Nocturne         |
-|       | Periwinkle Cherub         |
-|       | Apple Blossom Cherub      |
-|       | Luminova Cherub           |
-|       | Captain Keelson           |
-|       | Captain Sternway          |
-|       | Captain Pegleg            |
-|       | Captain Hightide          |
-|       | Strawberry Gateau         |
-|       | Choc-Matcha Gâteau        |
-|       | Blueberry Gateau          |
-|       | Sweet Orange Gâteau       |
-|       | Lemon-Crème Gâteau        |
-|       | Miss Chambermaid          |
-|       | Nurse Meadowsweet         |
-|       | Black Marching Lamb       |
-|       | Green Marching Lamb       |
-|       | Pink Marching Lamb        |
-|       | Pinkpuff Glazewool        |
-|       | Moonfrost Enchantica      |
-|       | Peppermint Prince         |
-|       | Blue Prince               |
-|       | Flamenco Wildfire         |
-|       | Inferno Wildfire          |
-|       | White Streaked Wildfire   |
-|       | Ice Moon Draconic         |
-|       | Crimson Moon Draconic     |
-|       | Spring Blossom            |
-|       | Frost Blossom             |
-|       | Wispy Bonnebell           |
-|       | Madame Mille-feuille      |
-|       | Madame Marzipan           |
-|       | Violet Sugarsong          |
-|       | Vanilla Sugar-Cupid       |
-|       | Cocoa Sugar-Cupid         |
+| Image                                                                           | Name                      |
+| ------------------------------------------------------------------------------- | ------------------------- |
+| <img src="../../.gitbook/assets/140.png" alt="" data-size="original">           | Plain Snowbelly           |
+| <img src="../../.gitbook/assets/158.png" alt="" data-size="original">           | Plain Twilight Raindancer |
+| <img src="../../.gitbook/assets/185 (1).png" alt="" data-size="original">       | Prime Splasheep           |
+| <img src="../../.gitbook/assets/321.png" alt="" data-size="original">           | Black Starburst Hurricane |
+| <img src="../../.gitbook/assets/404.png" alt="" data-size="original">           | Infernal Nocturne         |
+| <img src="../../.gitbook/assets/608.png" alt="" data-size="original">           | Periwinkle Cherub         |
+| <img src="../../.gitbook/assets/624.png" alt="" data-size="original">           | Apple Blossom Cherub      |
+| <img src="../../.gitbook/assets/626.png" alt="" data-size="original">           | Luminova Cherub           |
+| <img src="../../.gitbook/assets/721 (1).png" alt="" data-size="original">       | Captain Keelson           |
+| <img src="../../.gitbook/assets/722.png" alt="" data-size="original">           | Captain Sternway          |
+| <img src="../../.gitbook/assets/811.png" alt="" data-size="original">           | Captain Pegleg            |
+| <img src="../../.gitbook/assets/812.png" alt="" data-size="original">           | Captain Hightide          |
+| <img src="../../.gitbook/assets/900.png" alt="" data-size="original">           | Strawberry Gateau         |
+| <img src="../../.gitbook/assets/901.png" alt="" data-size="original">           | Choc-Matcha Gâteau        |
+| <img src="../../.gitbook/assets/904.png" alt="" data-size="original">           | Blueberry Gateau          |
+| <img src="../../.gitbook/assets/905.png" alt="" data-size="original">           | Sweet Orange Gâteau       |
+| <img src="../../.gitbook/assets/906.png" alt="" data-size="original">           | Lemon-Crème Gâteau        |
+| <img src="../../.gitbook/assets/1012 (1).png" alt="" data-size="original">      | Miss Chambermaid          |
+| <img src="../../.gitbook/assets/1013.png" alt="" data-size="original">          | Nurse Meadowsweet         |
+| <img src="../../.gitbook/assets/1014.png" alt="" data-size="original">          | Black Marching Lamb       |
+| <img src="../../.gitbook/assets/1015 (2).png" alt="" data-size="original">      | Green Marching Lamb       |
+| <img src="../../.gitbook/assets/1016.png" alt="" data-size="original">          | Pink Marching Lamb        |
+| <img src="../../.gitbook/assets/1121.png" alt="" data-size="original">          | Pinkpuff Glazewool        |
+| <img src="../../.gitbook/assets/1305.png" alt="" data-size="original">          | Moonfrost Enchantica      |
+| <img src="../../.gitbook/assets/1511.png" alt="" data-size="original">          | Peppermint Prince         |
+| <img src="../../.gitbook/assets/1514 (1).png" alt="" data-size="original">      | Blue Prince               |
+| <img src="../../.gitbook/assets/1617.png" alt="" data-size="original">          | Flamenco Wildfire         |
+| <img src="../../.gitbook/assets/1620.png" alt="" data-size="original">          | Inferno Wildfire          |
+| <img src="../../.gitbook/assets/1623.png" alt="" data-size="original">          | White Streaked Wildfire   |
+| <img src="../../.gitbook/assets/1900.png" alt="" data-size="original">          | Ice Moon Draconic         |
+| <img src="../../.gitbook/assets/Untitled (31).png" alt="" data-size="original"> | Crimson Moon Draconic     |
+| <img src="../../.gitbook/assets/2000.png" alt="" data-size="original">          | Spring Blossom            |
+| <img src="../../.gitbook/assets/2004.png" alt="" data-size="original">          | Frost Blossom             |
+| <img src="../../.gitbook/assets/2509.png" alt="" data-size="original">          | Wispy Bonnebell           |
+| <img src="../../.gitbook/assets/2518 (2).png" alt="" data-size="original">      | Madame Mille-feuille      |
+| <img src="../../.gitbook/assets/2519.png" alt="" data-size="original">          | Madame Marzipan           |
+| <img src="../../.gitbook/assets/2700.png" alt="" data-size="original">          | Violet Sugarsong          |
+| <img src="../../.gitbook/assets/2800.png" alt="" data-size="original">          | Vanilla Sugar-Cupid       |
+| <img src="../../.gitbook/assets/2801.png" alt="" data-size="original">          | Cocoa Sugar-Cupid         |
 {% endtab %}
 {% endtabs %}
