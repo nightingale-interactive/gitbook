@@ -50,10 +50,12 @@ If you're eager to speed up your Lambkin's growth, consider using [<mark style="
 
 ## Sheep Collection
 
-A list of all Sheep Breeds that have been discovered in Meta-land so far:
+A comprehensive compilation of all Sheep Breeds discovered within the realm of Meta-land to date:
 
 {% tabs %}
 {% tab title="Normal Sheep" %}
+Regular ol' sheep that's all about keeping things simple.
+
 | Image                                                                         | Name                        |
 | ----------------------------------------------------------------------------- | --------------------------- |
 | <img src="../../.gitbook/assets/100.png" alt="" data-size="original">         | Plain White                 |
@@ -147,6 +149,8 @@ A list of all Sheep Breeds that have been discovered in Meta-land so far:
 {% endtab %}
 
 {% tab title="Rare Sheep" %}
+Rarer sheep that stands out from the crowd.
+
 | Image                                                                      | Name                           |
 | -------------------------------------------------------------------------- | ------------------------------ |
 | <img src="../../.gitbook/assets/123.png" alt="" data-size="original">      | Plain Midnight Stargazer       |
@@ -219,6 +223,8 @@ A list of all Sheep Breeds that have been discovered in Meta-land so far:
 {% endtab %}
 
 {% tab title="Epic Sheep" %}
+Epic sheep that's the talk of the barn, making your pasture the place to be with its exceptional presence.
+
 | Image                                                                           | Name                      |
 | ------------------------------------------------------------------------------- | ------------------------- |
 | <img src="../../.gitbook/assets/140.png" alt="" data-size="original">           | Plain Snowbelly           |
