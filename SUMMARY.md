@@ -11,6 +11,7 @@
 * [Sheep Racing](gameplay/sheep-racing/README.md)
   * [Betting On Sheep Races](gameplay/sheep-racing/betting-on-sheep-races.md)
 * [Sheep](gameplay/sheep/README.md)
+  * [Lambkins](gameplay/sheep/lambkins.md)
   * [Attributes & Training](gameplay/sheep/attributes-and-training.md)
   * [Combination Effects](gameplay/sheep/combination-effects/README.md)
     * [Combo List Season 1](gameplay/sheep/combination-effects/combo-list-season-1.md)
