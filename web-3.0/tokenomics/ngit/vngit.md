@@ -1,6 +1,3 @@
----
-description: More Info Coming Soon...
----
-
 # vNGIT
 
+_More Info Coming Soon..._

@@ -76,6 +76,6 @@ You can earn MARD Tokens through purchases, through in-game achievements, reward
 **MARD Tokens come in two distinct forms:**
 
 * **MARD in Game:** This currency is confined to the virtual realm of the game, enriching your in-game experience.
-* **MARD in Wallet:** This is the real-world counterpart, residing outside the game in your [<mark style="color:blue;">crypto wallet</mark>](../web-3.0/tokenomics/). It represents a tangible asset with potential real-world value.
+* **MARD in Wallet:** This is the real-world counterpart, residing outside the game in your [<mark style="color:blue;">crypto wallet</mark>](../web-3.0/tokenomics.md). It represents a tangible asset with potential real-world value.
 
 Both forms of MARD Tokens offer unique opportunities and adventures, bridging the gap between the virtual and real worlds.
