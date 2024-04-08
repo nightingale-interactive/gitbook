@@ -46,12 +46,12 @@ Every sheep possesses its own distinct personality and [hidden attributes](../ga
 
 ### Guide: Reveal NFT Sheep's Stats
 
-1. Ensure your wallet is linked on our[ website](https://sheepfarm.io/).
-2. Visit the Sheep Reveal tab in the Racing menu.
-3. Click the "Select Sheep" button to choose the sheep you want to reveal. The reveal process incurs a cost of 50 Rainbow Beanz.
-4. Once the reveal process is complete, you'll have access to the detailed stats of your NFT sheep.
-
-You will be able to view a list of all sheep whose identities have been revealed. You may also filter your revealed sheep by clicking "My Reveal" or by searching for a token ID number.
+1. **Link Your Wallet**: Ensure that your wallet is linked on the game's [website](https://sheepfarm.io/). Locate and click the wallet button in the top right corner of the website. Follow the instructions to connect your wallet securely.
+2. **Visit Sheep Reveal Tab**: Navigate to the Reveal tab, which is located within the Racing menu of the game's website. Click on this tab to proceed.
+3. **Select Sheep**: Once you're on the Sheep Reveal page, click the "Select Sheep" button to choose the NFT sheep you want to reveal. This action will prompt you to select the specific sheep from your collection.
+4. **Confirm Reveal**: Confirm that you want to reveal the selected sheep. Keep in mind that the reveal process incurs a cost of 50 Rainbow Beanz. Ensure that you have sufficient Rainbow Beanz in your account before proceeding.
+5. **View Detailed Stats**: After confirming the reveal process, wait for it to complete. Once done, you'll have access to the detailed racing attributes/stats of your NFT sheep.&#x20;
+6. **Manage Revealed Sheep**: You will now be able to view a list of all sheep whose identities have been revealed. You can navigate through this list and view the stats of each revealed sheep. Additionally, you may filter your revealed sheep by clicking "My Reveal" or by searching for a token ID number.
 
 
 
