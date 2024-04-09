@@ -46,7 +46,7 @@ Here's how you can mint Sheep NFTs on each respective network:
 
 <figure><img src="../../.gitbook/assets/Untitled (14).png" alt=""><figcaption></figcaption></figure>
 
-* You can choose to transfer or trade the item or deposit it back into the game ([Meta-land](../real-world-and-meta-land.md)) for in-game use.
+* You can choose to transfer or trade the item or deposit it back into the game ([Meta-land](real-world-and-meta-land.md)) for in-game use.
 
 
 
@@ -98,7 +98,7 @@ Here's how you can mint Sheep NFTs on each respective network:
 
 <figure><img src="../../.gitbook/assets/Untitled (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* You have the option to transfer, trade, or deposit the item back into the game ([Meta-land](../real-world-and-meta-land.md)) for in-game use.
+* You have the option to transfer, trade, or deposit the item back into the game ([Meta-land](real-world-and-meta-land.md)) for in-game use.
 
 
 

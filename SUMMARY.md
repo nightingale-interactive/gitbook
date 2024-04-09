@@ -32,8 +32,8 @@
 
 ## Web 3.0
 
-* [Real-world & Meta-land](web-3.0/real-world-and-meta-land.md)
 * [Playing Sheepfarm with NFTs](web-3.0/playing-sheepfarm-with-nfts.md)
+  * [Real-world & Meta-land](web-3.0/playing-sheepfarm-with-nfts/real-world-and-meta-land.md)
   * [Minting NFTs](web-3.0/playing-sheepfarm-with-nfts/minting-nfts.md)
 * [Withdraw/Deposit MARD](web-3.0/withdraw-deposit-mard.md)
 * [Sheepfarm DAO](web-3.0/sheepfarm-dao.md)
