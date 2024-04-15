@@ -43,12 +43,13 @@
   * [NGIT](web-3.0/tokenomics/ngit/README.md)
     * [vNGIT](web-3.0/tokenomics/ngit/vngit.md)
 
-***
+## Socials
 
 * [Website](https://sheepfarm.io/)
 * [iOS App](https://apps.apple.com/us/app/sheepfarm-raising-4-racing/id6462849347)
 * [Android App](https://play.google.com/store/apps/details?id=com.nooslab.rasing4racing)
-* [Discord](http://bit.ly/46GnTT2)
-* [X (Twitter)](https://twitter.com/SheepFarmMeta)
-* [Telegram](https://t.me/sheepmeta)
 * [Medium ](https://sheepfarm.medium.com/)
+* [Discord](http://bit.ly/46GnTT2)
+* [Telegram](https://t.me/sheepmeta)
+* [X (Twitter)](https://twitter.com/SheepFarmMeta)
+* [Instagram](https://www.instagram.com/sheepfarminmeta/)
