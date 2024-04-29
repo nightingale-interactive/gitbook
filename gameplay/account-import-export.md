@@ -25,10 +25,6 @@ Transferring your game account is a convenient way to seamlessly move your progr
 
 
 
-Please exercise caution when importing your account onto a new device, as it will log you out of your current session and overwrite any progress or items associated with the previous account.
-
-
-
 ## How to Import a Game Account into MetaMask
 
 1. Launch the mobile game app on your mobile and navigate to the account menu.
@@ -38,3 +34,8 @@ Please exercise caution when importing your account onto a new device, as it wil
 5. In the "Import Wallet" menu, enter your special game account code into the designated field and follow any prompts to confirm the import.
 6. After importing, check to ensure that your account now appears in your MetaMask wallet and is accessible.
 7. Your account will now be successfully imported, granting you access to all the items and progress previously saved in your account.
+
+
+
+Please be aware that importing an account to a new device without first saving your account code can result in the loss of the original account, along with any progress or items associated with it.
+
