@@ -26,6 +26,7 @@
 * [Currency](gameplay/currency.md)
 * [Missions & Challenges](gameplay/missions-and-challenges.md)
 * [Daily Luck](gameplay/daily-luck.md)
+* [A Shepherd's Beginnings](gameplay/a-shepherds-beginnings.md)
 * [Consumable Items](gameplay/consumable-items.md)
 * [Account Import/Export](gameplay/account-import-export.md)
 * [FAQ](gameplay/faq.md)
