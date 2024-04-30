@@ -1,5 +1,7 @@
 # A Shepherd's Beginnings
 
+<figure><img src="../.gitbook/assets/IMG_4587.PNG" alt=""><figcaption></figcaption></figure>
+
 A Shepherd's Beginnings is a simple feature that acts as your personal guide to becoming a skilled shepherd, all while making the most out of your first 100 days in the game. Welcome to your first experience as a shepherd!&#x20;
 
 
@@ -12,7 +14,7 @@ The game kicks off with an initial tutorial led by Michelle, where "A Shepherd's
 
 Every day brings a new lesson in shepherding. From your very first day, you'll learn the essentials of caring for your sheep. As you progress, daily missions will enhance your skills gradually, deepening your knowledge of flock management. You'll also learn how to prepare your sheep for the thrilling sheep races that await.
 
-
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### **Daily Missions**
 
@@ -31,6 +33,8 @@ Every day brings a new lesson in shepherding. From your very first day, you'll l
 #### **Rewards**
 
 Each mission you complete rewards you with items and currency vital for your progress in the game. These are not just bonuses; they are essential tools that pave your way to success.
+
+
 
 
 
