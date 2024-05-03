@@ -42,6 +42,24 @@ It operates in an AFK (Away From Keyboard) mode, making it a hassle-free additio
 
 
 
+## Loot Lane Trials
+
+<figure><img src="../.gitbook/assets/2024-05-03 15 32 25.png" alt=""><figcaption></figcaption></figure>
+
+Loot Lane isn't just about passively gathering Beanz—it's also a training ground for champions! The Loot Lane Trials are your sheep’s ticket to the big time, setting the stage for the much-coveted Arena races.
+
+#### **Journey Through the Trials**
+
+<figure><img src="../.gitbook/assets/2024-05-03 15 32 39.png" alt=""><figcaption></figcaption></figure>
+
+As your sheep dash through these trials, they won’t just gain experience—they'll also collect treasures that boost their capabilities and embellish your gameplay. These rewards are carefully designed to give your flock the edge they need as the stakes get higher.
+
+
+
+&#x20;By conquering the Loot Lane Trials, your sheep will be well-prepared for the thunderous excitement of Arena races. Here, the atmosphere buzzes with heightened competition and the rewards are as grand as the contest.
+
+
+
 ***
 
 ## Arena
