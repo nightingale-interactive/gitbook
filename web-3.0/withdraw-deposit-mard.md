@@ -6,7 +6,7 @@
 
 ## Purchasing MARD Tokens
 
-**Guide: Acquire MARD Tokens through Decentralized Exchange (**[**Tealswap**](https://app.tealswap.com/swap/?chaintype=homeverse\&tokentype=mard)**):**
+**Guide: Acquire MARD Tokens through Decentralized Exchange (**[**Tealswap**](https://app.tealswap.com/en/swap/?chaintype=HOME\&tokentype=MARD)**):**
 
 <figure><img src="../.gitbook/assets/2024-01-22 17 20 26.png" alt=""><figcaption></figcaption></figure>
 
