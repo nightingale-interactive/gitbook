@@ -6,6 +6,8 @@ description: >-
 
 # Sheepfarm DAO
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ##
 
 ## **Weather Voting - Shaping Your Race Destiny**
