@@ -18,4 +18,4 @@ You'll receive one free spin on the prize wheel every day. If you're feeling luc
 
 
 
-Once you've claimed all the rewards or acquired all three available sheep, you have the option to reset the game board. This allows you to start on a new cycle and win exciting new rewards!
+Once you've claimed all the rewards or acquired all three available sheep, you have the option to reset the game board. This allows you to start on a new cycle and win exciting new rewards! Items available in Daily Luck refresh every season, bringing new and exciting rewards to keep you engaged throughout the year. Embrace the change and discover what each season has in store!
