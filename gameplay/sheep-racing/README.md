@@ -68,7 +68,7 @@ These effects can be triggered by multiple factors, ranging from the race enviro
 
 **Slipstream:** Sheep racing in a slipstream enjoy a 30% reduced rate of health decline. This effect makes it easier for them to maintain their health throughout the race.
 
-**Mud Puddle:**This will cause a 70% decrease in speed when your sheep encounters puddles on the track.&#x20;
+**Mud Puddle:** When your sheep encounters a mud puddle on the track, their speed decreases by 70%. The thick, sticky mud makes it extremely difficult for them to move swiftly.
 
 
 
