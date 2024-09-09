@@ -42,13 +42,14 @@ These elements help you monitor the race, control the pace, and stay informed ab
 
 ### Status Effects
 
-|                                                                Icon                                                                |      Name      |                  Effect                  |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :------------: | :--------------------------------------: |
-| ![Uphill](https://example.com/uphill.png)<img src="../../.gitbook/assets/uphill_status_small (3).png" alt="" data-size="original"> |   **Uphill**   |                -20% speed                |
-|              ![Downhill](https://example.com/downhill.png)![](<../../.gitbook/assets/downhill\_status\_small (6).png>)             |  **Downhill**  |                +20% speed                |
-|              ![Ice Lane](https://example.com/icelane.png)![](<../../.gitbook/assets/ice\_lane\_status\_small (3).png>)             |  **Ice Lane**  | <p>-10% speed<br>+12% health decline</p> |
-|           ![Slipstream](https://example.com/slipstream.png)![](<../../.gitbook/assets/slipstream\_status\_small (1).png>)          | **Slipstream** |            -30% health decline           |
-|              ![Puddle](https://example.com/puddle.png)![](<../../.gitbook/assets/mud\_puddle\_status\_small (1).png>)              | **Mud Puddle** |                -70% speed                |
+|                                                                Icon                                                                |                                               Name                                               |                  Effect                  |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------: |
+| ![Uphill](https://example.com/uphill.png)<img src="../../.gitbook/assets/uphill_status_small (3).png" alt="" data-size="original"> |                                            **Uphill**                                            |                -20% speed                |
+|              ![Downhill](https://example.com/downhill.png)![](<../../.gitbook/assets/downhill\_status\_small (6).png>)             |                                           **Downhill**                                           |                +20% speed                |
+|              ![Ice Lane](https://example.com/icelane.png)![](<../../.gitbook/assets/ice\_lane\_status\_small (3).png>)             |                                           **Ice Lane**                                           | <p>-10% speed<br>+12% health decline</p> |
+|           ![Slipstream](https://example.com/slipstream.png)![](<../../.gitbook/assets/slipstream\_status\_small (1).png>)          |                                          **Slipstream**                                          |            -30% health decline           |
+|              ![Puddle](https://example.com/puddle.png)![](<../../.gitbook/assets/mud\_puddle\_status\_small (1).png>)              |                                          **Mud Puddle**                                          |                -70% speed                |
+|                        <img src="../../.gitbook/assets/puddle_status_small.png" alt="" data-size="original">                       | <p><strong>Water Puddle</strong><br><em><mark style="color:green;">(Coming Soon)</mark></em></p> |  <p>-25% speed<br>-5% health decline</p> |
 
 Status effects are dynamic conditions that can influence a sheep's performance during a race. These effects come in varying durations and can either be advantageous or detrimental to your sheep's abilities and attributes.
 
@@ -67,6 +68,8 @@ These effects can be triggered by multiple factors, ranging from the race enviro
 **Ice Lane:** When your sheep races on an icy lane, they experience a 10% speed reduction, making it slippery and challenging to run. Additionally, they endure a 12% faster health decline due to the icy conditions.
 
 **Slipstream:** Sheep racing in a slipstream enjoy a 30% reduced rate of health decline. This effect makes it easier for them to maintain their health throughout the race.
+
+**Water Puddle** _<mark style="color:green;">(Coming Soon)</mark>_**:** When your sheep runs through a water puddle, their speed decreases by 25%. The splash of water slows them down, but it also provides a slight cooling effect, reducing their rate of health decline by 5%.
 
 **Mud Puddle:** When your sheep encounters a mud puddle on the track, their speed decreases by 70%. The thick, sticky mud makes it extremely difficult for them to move swiftly.
 
