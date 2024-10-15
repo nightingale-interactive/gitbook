@@ -1,10 +1,12 @@
 ---
-description: Daily Luck with Lucky Lenny
+description: 'Updated: October 15, 2024'
 ---
 
 # Daily Luck
 
-<figure><img src="../.gitbook/assets/2024-01-29 12 48 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-01-29 12 48 10.png" alt=""><figcaption><p>Daily Luck with Lucky Lenny</p></figcaption></figure>
+
+
 
 Daily Luck is a daily login reward feature hosted by the eccentric Chief of Mallowbu Island, Lucky Lenny. He encourages everyone to embrace life's unpredictability.
 
@@ -14,7 +16,7 @@ Each day, you'll have the chance to spin the prize wheel for a chance to claim r
 
 
 
-You'll receive one free spin on the prize wheel every day. If you're feeling lucky and want to spin again on the same day, you can use [<mark style="color:blue;">Lucky Coins</mark>](consumable-items.md). These coins are available in limited stock from the [<mark style="color:blue;">MARD shop</mark>](mard-shop.md) for a variable price that may change over time.
+You'll receive one free spin on the prize wheel every day. If you're feeling lucky and want to spin again on the same day, you can use <img src="../.gitbook/assets/Lucky coin (1) (3).png" alt="" data-size="line"> [<mark style="color:blue;">Lucky Coins</mark>](consumable-items.md). These coins are available in limited stock from the <img src="../.gitbook/assets/Icon_MARD Shop (8).png" alt="" data-size="line">[<mark style="color:blue;">MARD shop</mark>](mard-shop.md) for a variable price that may change over time.
 
 
 
