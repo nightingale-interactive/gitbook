@@ -1,23 +1,39 @@
+---
+description: 'Updated: October 15, 2024'
+---
+
 # Decorations
 
 <figure><img src="../.gitbook/assets/마을풍경3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Decorating your pastures can have a delightful impact on your sheep's mood and overall well-being. Decoration items play a crucial role in the daily lives of your sheep, ensuring that your sheep stay content, comfortable, and happy on your farm! Plus, [<mark style="color:blue;">certain decor items</mark>](../web-3.0/playing-sheepfarm-with-nfts.md) can even be upgraded for added benefits!
+Decorating your pastures can significantly improve your sheep’s mood and overall well-being. The right decor not only keeps your sheep content and comfortable but also enhances the charm of your farm. Some decor items can even be upgraded for additional benefits!
 
 
 
-Decor items come in various types, each serving a specific purpose on your sheep farm. These types include:
+All decor items come with weather buffs, meaning they thrive under specific weather conditions. For example, maple trees flourish in rainy weather, while sorbet trees prefer snowy conditions. When a decor item is experiencing its ideal weather, it provides a boost to your farm’s productivity—like increasing your sheep’s wool growth by a certain percentage.
 
-1. **Ornamental Decor:** These items are all about enhancing the visual appeal of your farm. While they don't offer direct gameplay benefits, they contribute to the overall aesthetics and charm of your pastures.
-2. **Interactive Decor:** These items are designed for entertainment and interaction. Sheep love playing with them, and they add an element of fun to your farm. Watch as your sheep frolic and enjoy their time with these engaging additions.
-3. **Functional Decor:** If you're looking to streamline your shepherding duties, functional decor items are the way to go. These practical additions can automate tasks like washing and petting your sheep, making your life as a shepherd much more efficient.
+
+
+Decor items are categorized based on their role on your farm:
+
+* **Ornamental Decor**: These items focus on beautifying your pastures. While they don't provide direct gameplay advantages, they enhance the visual appeal and atmosphere of your pasture.
+* **Interactive Decor**: Designed for fun and interaction, these items keep your sheep entertained. Watch as your sheep engage with these playful additions, bringing more joy to your farm.
+* **Functional Decor**: For a more hands-off approach to shepherding, functional decor items help automate tasks like washing and petting your sheep, making your life as a shepherd much more efficient.
 
 
 
 ### Available Functional Decor Items:
 
-<figure><img src="../.gitbook/assets/Untitled (48).png" alt=""><figcaption></figcaption></figure>
+| Image                                                                            | Name                        | Function     |
+| -------------------------------------------------------------------------------- | --------------------------- | ------------ |
+| <img src="../.gitbook/assets/deco592_thumb (3).png" alt="" data-size="original"> | Automatic Petting Machinery | Auto-petting |
+| <img src="../.gitbook/assets/deco346_thumb (1).png" alt="" data-size="original"> | Maple Oak Washer            | Auto-washing |
+| <img src="../.gitbook/assets/deco405_thumb (1).png" alt="" data-size="original"> | Ginkgo Leaf Teacup          | Auto-washing |
 
 
 
-By strategically placing these different types of decor items, you can create a well-rounded and visually appealing farm while also ensuring your sheep are happy and well-taken care of.
+Decorating your pastures isn’t just about aesthetics. Create a space where your sheep can thrive! Whether you’re adding ornamental charm, providing fun interactions, or boosting efficiency with functional items, each decor choice plays a role in the success of your farm. Don’t forget to consider weather buffs to maximize your sheep’s wool production.
+
+
+
+Explore different combinations and keep an eye out for upgrades to make your pasture the best it can be.&#x20;
