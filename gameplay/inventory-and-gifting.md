@@ -4,15 +4,15 @@ description: 'Updated: October 15, 2024'
 
 # Inventory & Gifting
 
-<img src="../.gitbook/assets/main_ui2_bt_items (1) (1).png" alt="" data-size="line"> Your inventory serves as the treasure chest that holds all your possessions, from wool and consumable items to snacks for your sheep. It's where your valuable resources are safely stored, ready to be used as you progress on your shepherding journey.&#x20;
+Your inventory serves as the treasure chest that holds all your possessions, from wool and consumable items to snacks for your sheep. It's where your valuable resources are safely stored, ready to be used as you progress on your shepherding journey.&#x20;
 
 ## Gifting Inventory Items
 
 <figure><img src="../.gitbook/assets/Untitled (66).png" alt=""><figcaption></figcaption></figure>
 
-From within your inventory, you have the option to gift items to fellow players, accompanied by a heartfelt message of your choice. The trusty postman will swing by to collect your parcel and ensure it reaches your friend, making gift-giving a heartwarming experience in the game.&#x20;
+From within your <img src="../.gitbook/assets/main_ui2_bt_items (1) (1).png" alt="" data-size="line"> inventory, you have the option to gift items to fellow players, accompanied by a heartfelt message of your choice. The trusty postman will swing by to collect your parcel and ensure it reaches your friend, making gift-giving a heartwarming experience in the game.&#x20;
 
-_<mark style="background-color:green;">Currently, the only giftable items are</mark>_ [_<mark style="background-color:green;">Wool Bundle</mark>_](consumable-items.md)_<mark style="color:blue;background-color:green;">s</mark><mark style="background-color:green;">, but stay tuned for future updates that will introduce more gifting options.</mark>_
+_Currently, the only giftable items are_ <img src="../.gitbook/assets/Wool Bundle S (3) (1).png" alt="" data-size="line"> [_Wool Bundle_](consumable-items.md)_s, but stay tuned for future updates that will introduce more gifting options._
 
 
 
