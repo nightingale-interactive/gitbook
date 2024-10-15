@@ -1,26 +1,24 @@
 ---
-description: A Gateway to Luxury and Unique Finds
+description: 'Updated: October 15, 2024'
 ---
 
 # MARD Shop
 
-<figure><img src="../.gitbook/assets/IMG_3612.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_3612.PNG" alt=""><figcaption><p>MARD Shop - A Gateway to Luxury and Unique Finds</p></figcaption></figure>
 
-Nestled within the heart of the Marmalade Kingdom lies the MARD Shop, a treasure trove of opulence and extraordinary discoveries. This establishment is a testament to impeccable taste, where every item is carefully chosen to meet the highest standards of quality and uniqueness.
+<img src="../.gitbook/assets/Icon_MARD Shop (1).png" alt="" data-size="line">Nestled in the heart of the Marmalade Kingdom, the MARD Shop is a haven of luxury and rare finds. Each item in the shop is meticulously selected for its quality and uniqueness, making it the perfect destination for those with impeccable taste. A one-of-a-kind shopping experience for those who appreciate the finer things.&#x20;
 
-##
 
-## **MARD Shop:**
+
+## <img src="../.gitbook/assets/ic_mard_big2 (1).png" alt="" data-size="line"> **MARDket**
 
 <figure><img src="../.gitbook/assets/image (135) (1).png" alt=""><figcaption></figcaption></figure>
 
-The MARD Shop is a bustling **shared** marketplace where players strive to acquire one-of-a-kind treasures. Operating on a _first-come, first-serve_ basis, this lively marketplace infuses every visit with a sense of excitement. Lady Amberworth ensures that only the finest and most sophisticated items are available. Regularly checking back will lead to the discovery of exceptional items, ensuring each trip is an enjoyable adventure of unique finds.
+The <mark style="color:orange;">**MARDket**</mark> is a bustling _**shared**_ marketplace where players race to acquire rare and unique treasures. With a first-come, first-served system, each visit brings a sense of excitement and urgency. Overseen by Lady Amberworth, only the finest, most sophisticated items make it to the shelves. Frequent visits will reward you with exceptional finds, turning every trip into a new adventure filled with rare discoveries.
 
 
 
-
-
-## Crafting
+## <img src="../.gitbook/assets/MARD CRAFTING.png" alt="" data-size="line"> Crafting
 
 <figure><img src="../.gitbook/assets/Untitled (34) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +48,7 @@ Assisting you in your crafting endeavours is Deolize, a reclusive potions expert
 
 
 
-## **Trading**
+## <img src="../.gitbook/assets/MARD Trading (1).png" alt="" data-size="line"> **Trading**
 
 <figure><img src="../.gitbook/assets/Untitled (35) (1).png" alt=""><figcaption></figcaption></figure>
 
