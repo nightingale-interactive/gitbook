@@ -1,124 +1,107 @@
+---
+description: 'Updated: October 15, 2024'
+---
+
 # Sheep Racing
 
-<figure><img src="../../.gitbook/assets/banner_mobile_playStore_2 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/banner_mobile_playStore_2 (2) (1).png" alt=""><figcaption><p>Sheep Racing</p></figcaption></figure>
 
-Experience sheep competitions like never before, hosted by the charming Micayla. As the most famous singer from the Marmalade Kingdom, Micayla brings her exceptional talent to the role of announcer, providing lively commentary and entertainment for the audience.
-
-
-
-Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on-sheep-races.md) or just curious, this place has something for everyone. Here, you can bet on sheep or even enroll your own fluffy athletes by placing them in the [Racing Barn](../racing-barn.md). These sheep automatically compete in races, and if they perform well, you can earn [<mark style="color:blue;">Seasonal Beanz</mark> ](../currency.md)or [<mark style="color:blue;">MARD</mark>.](../currency.md)&#x20;
+Experience sheep racing at its best, hosted by the charming Micayla. As the most famous singer from the Marmalade Kingdom, Micayla brings her lively personality and vocal talents to the role of announcer, making each race a little more exciting.
 
 
 
-Keeping track of your sheep's racing reputation is easy; simply navigate to the [website's racing menu](https://sheepfarm.io/racing) and head to the statistics tab. Here, you can view detailed racing stats such as earnings from races and the number of races your sheep have participated in or won. All players' sheep are displayed by default, but if you want to focus solely on your own fluffy contenders, you can easily filter them by checking the "_my sheep_" filter box if your wallet is connected to the website. However, if you prefer not to connect your wallet, you can still access your sheep's stats by searching for their unique token ID. _Please note that your sheep will only appear in the Statistics menu if it has taken part in either the Beanz Race or Ticket Race at least once. If your sheep isn't showing up, it might be because it hasn't participated in any races yet. These records are different from Arena Races and are specifically for races related to betting in the Sheep Racing menu._
+Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on-sheep-races.md) or just curious, this place has something for everyone. Here, you can bet on sheep or even enroll your own fluffy athletes by placing them in the <img src="../../.gitbook/assets/Icon_Racing Barn (1).png" alt="" data-size="line">[Racing Barn](../racing-barn.md). These sheep automatically compete in races, and if they perform well, you can earn <img src="../../.gitbook/assets/302 (5).png" alt="" data-size="line">[<mark style="color:blue;">Seasonal Beanz</mark> ](../currency.md)or <img src="../../.gitbook/assets/356ade1b67d5ae4532c09e4d04277ea0 (2).png" alt="" data-size="line"> [<mark style="color:blue;">MARD</mark>.](../currency.md)&#x20;
 
 
 
-You also have a say in race dynamics. You can cast your [<mark style="color:blue;">vote for the weather</mark>](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/\~/changes/841/web-3.0/sheepfarm-dao) conditions that will prevail during the races, adding an enjoyable strategic aspect to the competitions. Whether you prefer sunny skies or a touch of rain for added tension, your choices matter.
+Keeping tabs on your sheep’s stats is easy. Head to the website’s racing menu and check the **Statistics** tab for details like race earnings and total races entered or won. All players' sheep are shown by default, but you can focus on your own by using the **“my sheep”** filter if your wallet is connected. Not connected? No worries—you can still search using your sheep’s unique token ID. Just remember, sheep will only appear in the **Statistics** menu after participating in at least one _Beanz Race_ or _Ticket Race_. Arena Races are tracked separately.
+
+You also have a say in race dynamics. You can cast your <img src="../../.gitbook/assets/icon_weather.png" alt="" data-size="line"> [<mark style="color:blue;">vote for the weather</mark>](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/\~/changes/841/web-3.0/sheepfarm-dao) conditions that will prevail during the races, adding an strategic aspect to the competitions.&#x20;
 
 
 
-If betting or raising sheep isn't your thing, don’t worry. Sheep Racing is also a fantastic spot to just soak up the atmosphere by simply kicking back and watch the action from the sidelines. Everyone is welcome to enjoy the races.
+Even if you’re not racing or betting, Sheep Racing is a great place to sit back, watch the action, and soak up the atmosphere. There's always something going on!
 
-##
 
-## In Race Mechanics
 
-### Interface
+## <img src="../../.gitbook/assets/a7aa8c04417ceba75deefffdf26d1ae2 (1).png" alt="" data-size="line"> In Race Mechanics
 
-<figure><img src="../../.gitbook/assets/2024-01-26 15 35 12.png" alt=""><figcaption></figcaption></figure>
+Understanding the race interface is key to keeping track of the action and making the most of your experience. Here’s a breakdown of the important elements you’ll want to keep an eye on:
+
+<figure><img src="../../.gitbook/assets/2024-01-26 15 35 12.png" alt=""><figcaption><p>Race Interface </p></figcaption></figure>
+
+### <img src="../../.gitbook/assets/icon_map_direction.png" alt="" data-size="line"> Interface
 
 * **Position Bar (Top Left Corner):** This bar shows the current placement of the sheep in the race and how close they are to the finish line. It helps you track the progress of the competing sheep.
 * **Weather and Weather Buff (Top):** At the top of the screen, you can check the current weather condition and the corresponding buff it bestows upon the sheep. This weather buff can have a significant impact on the race's outcome.
-* **Status Effects Display (Left Side):** This area on the left side of the screen shows any status effects that are currently affecting the sheep in the race. It provides important information about their conditions and any active effects.
-* **Bottom Tray (Bottom Right Corner):**
-  * **Fast Forward Button:** This button allows you to speed up the race, advancing in time to get results more quickly.
-  * **Camera Button:** You can use this button to switch between different sheep and follow them on the screen. It displays the selected sheep's position and pace.
-  * **Gear Button:** By clicking on the gear button, you can adjust the audio settings to your preference.
+* **Status Effects Display (Left Side):** This area on the left side of the screen shows any [status effects](./#status-effects) that are currently affecting the sheep in the race. It provides important information about their conditions and any active effects.
+*   **Bottom Tray (Bottom Right Corner):**
 
-These elements help you monitor the race, control the pace, and stay informed about the sheep's statuses and positions for a more interactive experience.
+    * <img src="../../.gitbook/assets/icon_skip.png" alt="" data-size="original"> **Fast Forward Button**: Want to skip ahead? The fast forward button lets you speed up the race to see the results more quickly.
+    * <img src="../../.gitbook/assets/icon_camera.png" alt="" data-size="line"> **Camera Button**: Switch between different sheep by using the camera button. It helps you follow specific sheep, showing their current position and pace in the race.
+    * <img src="../../.gitbook/assets/main_ui2_bt_setting (1).png" alt="" data-size="line"> **Gear Button**: Need to adjust the audio settings? Just click the gear button to make changes to suit your preferences.
 
-
-
-### Status Effects
-
-|                                                                Icon                                                                |                                               Name                                               |                  Effect                  |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------: |
-| ![Uphill](https://example.com/uphill.png)<img src="../../.gitbook/assets/uphill_status_small (3).png" alt="" data-size="original"> |                                            **Uphill**                                            |                -20% speed                |
-|              ![Downhill](https://example.com/downhill.png)![](<../../.gitbook/assets/downhill\_status\_small (6).png>)             |                                           **Downhill**                                           |                +20% speed                |
-|              ![Ice Lane](https://example.com/icelane.png)![](<../../.gitbook/assets/ice\_lane\_status\_small (3).png>)             |                                           **Ice Lane**                                           | <p>-10% speed<br>+12% health decline</p> |
-|           ![Slipstream](https://example.com/slipstream.png)![](<../../.gitbook/assets/slipstream\_status\_small (1).png>)          |                                          **Slipstream**                                          |            -30% health decline           |
-|              ![Puddle](https://example.com/puddle.png)![](<../../.gitbook/assets/mud\_puddle\_status\_small (1).png>)              |                                          **Mud Puddle**                                          |                -70% speed                |
-|                        <img src="../../.gitbook/assets/puddle_status_small.png" alt="" data-size="original">                       | <p><strong>Water Puddle</strong><br><em><mark style="color:green;">(Coming Soon)</mark></em></p> |  <p>-25% speed<br>-5% health decline</p> |
-
-Status effects are dynamic conditions that can influence a sheep's performance during a race. These effects come in varying durations and can either be advantageous or detrimental to your sheep's abilities and attributes.
+    These tools keep you in control and informed, helping you follow the race action, manage the pace, and track your sheep’s performance for a more interactive and enjoyable experience.
 
 
 
-These effects can be triggered by multiple factors, ranging from the race environment to specific abilities, and they play a pivotal role in shaping the outcome of a race. Understanding and managing these effects is key to gaining an edge in sheep racing.
+### <img src="../../.gitbook/assets/icon_pastures_status.png" alt="" data-size="line"> Status Effects
+
+<table><thead><tr><th width="193" align="center">Icon</th><th align="center">Name</th><th align="center">Effect</th></tr></thead><tbody><tr><td align="center"><img src="https://example.com/uphill.png" alt="Uphill"><img src="../../.gitbook/assets/uphill_status_small (3).png" alt="" data-size="original"></td><td align="center"><strong>Uphill</strong></td><td align="center">-20% speed</td></tr><tr><td align="center"><img src="https://example.com/downhill.png" alt="Downhill"><img src="../../.gitbook/assets/downhill_status_small (6).png" alt=""></td><td align="center"><strong>Downhill</strong></td><td align="center">+20% speed</td></tr><tr><td align="center"><img src="https://example.com/icelane.png" alt="Ice Lane"><img src="../../.gitbook/assets/ice_lane_status_small (3).png" alt=""></td><td align="center"><strong>Ice Lane</strong></td><td align="center">-10% speed<br>+12% health decline</td></tr><tr><td align="center"><img src="https://example.com/slipstream.png" alt="Slipstream"><img src="../../.gitbook/assets/slipstream_status_small (1).png" alt=""></td><td align="center"><strong>Slipstream</strong></td><td align="center">-30% health decline</td></tr><tr><td align="center"><img src="https://example.com/puddle.png" alt="Puddle"><img src="../../.gitbook/assets/mud_puddle_status_small (1).png" alt=""></td><td align="center"><strong>Mud Puddle</strong></td><td align="center">-70% speed</td></tr><tr><td align="center"><img src="../../.gitbook/assets/puddle_status_small.png" alt="" data-size="original"></td><td align="center"><strong>Water Puddle</strong><br><em><mark style="color:green;">(Coming Soon)</mark></em></td><td align="center">-25% speed<br>-5% health decline</td></tr></tbody></table>
+
+During races, your sheep will face various conditions that impact their performance. Here are some of the most common status effects to watch out for:
+
+* **Uphill**: Racing uphill causes your sheep’s speed to drop by 20%. The incline makes it harder to maintain their usual pace, so expect a bit of a slowdown.
+* **Downhill**: Going downhill gives your sheep a 20% speed boost. The slope works in their favor, helping them pick up speed and move faster than normal.
+* **Ice Lane**: Racing on an icy lane slows your sheep’s speed by 10%. The slick surface makes it tricky to run, and they’ll experience a 12% faster health decline due to the cold conditions.
+* **Slipstream**: In the slipstream, your sheep benefit from a 30% reduced rate of health decline. This helps them maintain their health and stay in good shape for longer stretches of the race.
+* **Water Puddle (Coming Soon)**: When your sheep hits a water puddle, their speed decreases by 25%. While the splash slows them down, it also provides a slight cooling effect, reducing their health decline by 5%.
+* **Mud Puddle**: Encountering a mud puddle slows your sheep by a massive 70%. The thick, sticky mud makes it tough to move quickly, turning the race into a real challenge.
 
 
 
-**Examples of common status effects include:**
-
-**Uphill:** When racing uphill, your sheep's speed decreases by 20%. It becomes harder for them to maintain their usual pace due to the incline of the track.
-
-**Downhill:** Going downhill provides a 20% speed boost to your sheep. The slope helps them pick up speed and move faster than usual.
-
-**Ice Lane:** When your sheep races on an icy lane, they experience a 10% speed reduction, making it slippery and challenging to run. Additionally, they endure a 12% faster health decline due to the icy conditions.
-
-**Slipstream:** Sheep racing in a slipstream enjoy a 30% reduced rate of health decline. This effect makes it easier for them to maintain their health throughout the race.
-
-**Water Puddle** _<mark style="color:green;">(Coming Soon)</mark>_**:** When your sheep runs through a water puddle, their speed decreases by 25%. The splash of water slows them down, but it also provides a slight cooling effect, reducing their rate of health decline by 5%.
-
-**Mud Puddle:** When your sheep encounters a mud puddle on the track, their speed decreases by 70%. The thick, sticky mud makes it extremely difficult for them to move swiftly.
-
-
-
-### Health Bar
+### <img src="../../.gitbook/assets/heart.PNG" alt="" data-size="line"> Health Bar
 
 <figure><img src="../../.gitbook/assets/health_gauge (1).png" alt=""><figcaption></figcaption></figure>
 
-Keep tabs on a sheep's well-being during a race with the Health Bar, conveniently located on the left side of the screen. Sheep, especially when pushed to their physical limits, will gradually lose health and energy as they sprint. When a sheep's health diminishes, it will struggle to maintain top speed and utilize its Dash-time effectively.
+Keep an eye on your sheep’s well-being during the race with the Health Bar, conveniently located on the left side of the screen. As your sheep push their limits, they’ll gradually lose health and energy. Once their health dips, they’ll struggle to keep up their top speed and make the most of their <img src="../../.gitbook/assets/icon_dashtime (3).png" alt="" data-size="line"> [Dash-time.](./#dash-time)
 
 
 
-### Stumbling
+### <img src="../../.gitbook/assets/ic_hunger_04.png" alt="" data-size="line"> Stumbling
 
 <figure><img src="../../.gitbook/assets/Stumbling-removebg-preview (1).png" alt=""><figcaption></figcaption></figure>
 
-Occasionally, during a race, random stumbling events can occur. When a sheep stumbles, its speed temporarily decreases. The likelihood of stumbling is influenced by the sheep's Balance and Spirit stats. The faster a sheep runs, the higher the chance of it becoming disoriented and stumbling. A higher Balance stat enhances a sheep's ability to stay on its feet and avoid these mishaps.
+Every so often, a sheep might stumble during a race, causing a brief drop in speed. The likelihood of stumbling is tied to their <img src="../../.gitbook/assets/icon_st_balance_250x220.png" alt="" data-size="line"> **Balance** and <img src="../../.gitbook/assets/icon_st_spirit_250x250.png" alt="" data-size="line"> **Spirit** stats. The faster they run, the more likely they are to lose their footing. A higher Balance stat gives your sheep a better shot at staying on their feet and avoiding these mishaps.
 
 
 
-### Dash-time
+### <img src="../../.gitbook/assets/icon_dashtime.png" alt="" data-size="line"> Dash-time
 
 <figure><img src="../../.gitbook/assets/dash_time (1).png" alt=""><figcaption></figcaption></figure>
 
-You can determine when a sheep reaches its maximum speed, referred to as Dash-time. This happens when a sheep believes it's the ideal moment to give it their all. However, during the dash, a sheep will experience a significant decrease in stamina reserves. Dash-time automatically ends when a sheep depletes its stamina.
+When a sheep hits its maximum speed—known as <img src="../../.gitbook/assets/icon_dashtime (1).png" alt="" data-size="line"> **Dash-time**—it’s going all out. But Dash-time comes with a cost: it drains stamina quickly. The Dash-time ends automatically when a sheep’s stamina runs out, so it’s a burst of speed with a trade-off.
 
 
 
-### Overtaking
+### <img src="../../.gitbook/assets/icon_LvUp.png" alt="" data-size="line"> Overtaking
 
 <figure><img src="../../.gitbook/assets/overtaking (1).png" alt=""><figcaption></figcaption></figure>
 
-A sheep with a high Power stat has a better shot at overtaking competitors in front of it. This allows the sheep to move more swiftly and even nudge its way past others. Keep in mind that the likelihood of overtaking may also be influenced by various factors, including the behaviour of the other sheep in the race.
+Sheep with a high <img src="../../.gitbook/assets/icon_st_power_250x250.png" alt="" data-size="line"> **Power** stat have a better chance of overtaking those ahead of them. They’ll be able to move faster and may even nudge past their competitors. Other factors, like the behavior of the other sheep, can also affect the likelihood of overtaking.
 
 
 
-## Weather
+## <img src="../../.gitbook/assets/icon_weather (1).png" alt="" data-size="line"> Weather
+
+Weather plays a big role in how races unfold. Each type of weather affects the sheep’s skills in different ways:
 
 <figure><img src="../../.gitbook/assets/weather.png" alt=""><figcaption></figcaption></figure>
 
-During a sheep race, the weather plays a crucial role in determining the race's outcome. The skills of the sheep can be influenced by various weather conditions, resulting in different advantages:
+* **Sunny**: <img src="../../.gitbook/assets/icon_st_power_250x202.png" alt="" data-size="line"> Speed increases by 10%.
+* **Rainy**: <img src="../../.gitbook/assets/icon_st_stamina_250x250.png" alt="" data-size="line"> Stamina and <img src="../../.gitbook/assets/icon_st_balance_250x220 (1).png" alt="" data-size="line"> Balance both get a 10% boost.
+* **Snowy**: <img src="../../.gitbook/assets/icon_st_power_250x250 (1).png" alt="" data-size="line"> Power and <img src="../../.gitbook/assets/icon_st_spirit_250x250 (1).png" alt="" data-size="line"> Spirit increase by 10%.
+* **Stormy**: _All stats_ get a 6% increase.
 
-**Weather Effects:**
-
-* **Sunny:** Speed increases by 10%.
-* **Rainy:** Stamina and Balance both receive a 10% boost.
-* **Snowy:** A 10% increase in both Power and Spirit.
-* **Stormy:** Grants a 6% increase to all stats.
-
-Understanding these weather effects can help you make informed betting decisions in betting.
+Understanding these weather effects can help you plan your strategy and make smarter bets in the races.
 
