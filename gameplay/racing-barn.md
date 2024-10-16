@@ -12,7 +12,7 @@ The Racing-Barn is the ultimate sanctuary for your up-and-coming sheep champions
 
 
 
-Once your sheep are comfortably settled in the barn, they _**automatically enter races**_. Ticket races will earn them <img src="../.gitbook/assets/356ade1b67d5ae4532c09e4d04277ea0.png" alt="" data-size="line"> [<mark style="color:blue;">MARD tokens</mark>](currency.md), while Beanz races bring in <img src="../.gitbook/assets/302.png" alt="" data-size="line"> [<mark style="color:blue;">Seasonal Beanz</mark>](currency.md). The better they perform, the greater the rewards. A share of the total bets placed by players on the game is distributed based on race rankings, so your sheep’s rank directly impacts their rewards.
+Once your sheep are comfortably settled in the barn, they _**automatically enter races**_. Ticket races will earn them <img src="../.gitbook/assets/356ade1b67d5ae4532c09e4d04277ea0.png" alt="" data-size="line"> [<mark style="color:blue;">MARD tokens</mark>](currency.md), while Beanz races bring in <img src="../.gitbook/assets/302 (1).png" alt="" data-size="line"> [<mark style="color:blue;">Seasonal Beanz</mark>](currency.md). The better they perform, the greater the rewards. A share of the total bets placed by players on the game is distributed based on race rankings, so your sheep’s rank directly impacts their rewards.
 
 Here’s how the 7% of wagers is divvied up:
 
@@ -30,7 +30,7 @@ Just remember, to automatically participate in races, your sheep need to be at l
 
 ## <img src="../.gitbook/assets/93ceb5242c19809669274f999f63bbdb.png" alt="" data-size="line"> **Loot Lane**
 
-Loot Lane is a key part of the Racing Barn, giving you an easy way to rake in <img src="../.gitbook/assets/302 (1).png" alt="" data-size="line">[Seasonal Beanz](currency.md), even when you’re not actively playing. Simply place your sheep in Loot Lane, and watch as the Beanz stack up while you’re AFK. The rate of accumulation is based on the combined stats of the sheep racing in the lane, and you can keep an eye on it right at the top of the page.
+Loot Lane is a key part of the Racing Barn, giving you an easy way to rake in <img src="../.gitbook/assets/302 (1) (1).png" alt="" data-size="line">[Seasonal Beanz](currency.md), even when you’re not actively playing. Simply place your sheep in Loot Lane, and watch as the Beanz stack up while you’re AFK. The rate of accumulation is based on the combined stats of the sheep racing in the lane, and you can keep an eye on it right at the top of the page.
 
 
 
