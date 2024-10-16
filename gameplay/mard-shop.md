@@ -20,17 +20,17 @@ The <mark style="color:orange;">**MARDket**</mark> is a bustling _**shared**_ ma
 
 ## <img src="../.gitbook/assets/MARD CRAFTING.png" alt="" data-size="line"> Crafting
 
-<figure><img src="../.gitbook/assets/Untitled (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (34) (1).png" alt=""><figcaption><p>Deolize, mysterious potions expert</p></figcaption></figure>
 
-At the MARD Shop, you'll encounter more than just a marketplace; it houses a crafting feature that empowers you to craft in-game items. Through resource gathering and the application of your crafting skills, you can manufacture items that elevate your in-game adventures on your sheep-raising odyssey.
-
-
-
-Currently, a **limited** selection of craftable items includes [<mark style="color:blue;">wool bundle</mark>](consumable-items.md)<mark style="color:blue;">s</mark>, created by combining wool from [<mark style="color:blue;">NFT sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md), and [<mark style="color:blue;">Minting Vouchers</mark>](consumable-items.md), which facilitate the transformation of regular sheep into [<mark style="color:blue;">NFT Sheep</mark>](../web-3.0/playing-sheepfarm-with-nfts.md).
+The MARD Shop isn’t just your average marketplace—it’s where you can flex your crafting skills and create game-changing items. By gathering the right resources and putting them to good use, you’ll be able to craft everything you need to keep your sheep-raising journey on track.
 
 
 
-Assisting you in your crafting endeavours is Deolize, a reclusive potions expert in the mystical realm of Meta-land. With extensive knowledge and centuries of experience, she is the ultimate resource for crafting assistance. Her magical brews and crafts are known for enhancing the abilities of the village's sheep, aiding them in their quest to become masters of sheep racing.
+Currently, the selection of craftable items includes <img src="../.gitbook/assets/Wool Bundle S (3) (6).png" alt="" data-size="line"> [wool bundles](consumable-items.md)—made from combining wool of your [NFT sheep](../web-3.0/playing-sheepfarm-with-nfts.md)—and <img src="../.gitbook/assets/Icon_Minting Voucher Normal (4).png" alt="" data-size="line">[Minting Vouchers](consumable-items.md), the key to turning your regular sheep into NFT champions.
+
+
+
+And who’s there to help you in your crafting quest? None other than _Deolize_, the village’s mysterious potions expert. She may be a bit of a recluse, but with centuries of magical brewing under her belt, she’s the ultimate crafting partner. Her concoctions not only boost your sheep’s abilities but can also give them that extra edge on the racetrack.
 
 
 
@@ -38,13 +38,13 @@ Assisting you in your crafting endeavours is Deolize, a reclusive potions expert
 
 <figure><img src="../.gitbook/assets/CraftWoolBundle-gif.gif" alt=""><figcaption></figcaption></figure>
 
-1. **Visit the MARD Shop**: Start by accessing the MARD Shop in the game. This can be found in the game's expandable menu.
-2. **Navigate to Crafting**: Once you're in the MARD Shop, look for the crafting tab. This tab is where you'll find options for crafting various items within the game.
-3. **Select Your Item**: From the available options in the crafting tab, select the specific item you want to craft.&#x20;
-4. **Required Components**: After selecting the item you want to craft, you'll see a list of items required as fuel to power the crafting process.&#x20;
-5. **Choose Manual or Auto Selection**: You have the option to manually select the required items from your inventory or click the "Auto" button. Choosing "Auto" will automatically fill in the necessary components for crafting your item based on what you have available.
-6. **Start Crafting**: After confirming your selection, the crafting process will commence. Keep in mind that crafting an item involves a cost in MARD currency, which varies depending on the item you're crafting. Make sure you have enough MARD to cover the cost before starting the crafting process.
-7. **Congratulations!**: Once the crafting process is complete, you've successfully crafted your desired item.
+1. **Visit the MARD Shop**: Start by opening the <img src="../.gitbook/assets/Icon_MARD Shop (7).png" alt="" data-size="line"><mark style="color:orange;">**MARD Shop**</mark> from the game's expandable menu. It’s your one-stop shop for all things crafting and shopping.
+2. **Navigate to Crafting**: Once inside, head to the crafting tab—this is where all the crafting magic happens.
+3. **Select Your Item**: From the options available, pick the item you want to craft. Whether it’s wool bundles or something fancier, the choice is yours.
+4. **Required Components**: After choosing your item, you’ll see a list of ingredients—your crafting fuel. These are the resources you’ll need to make it happen.
+5. **Choose Manual / Auto Selection**: You can either manually select the required components or hit the trusty "Auto" button to let the game fill in the blanks for you.&#x20;
+6. **Start Crafting**: Confirm your selection, and the crafting process will begin. Just make sure you have enough MARD currency to cover the crafting cost—different items come with different price tags.
+7. **Congratulations!**: Once crafting is complete, you’ll have your shiny new item ready to use. Time to put it to good use on your farm!
 
 
 
@@ -52,11 +52,11 @@ Assisting you in your crafting endeavours is Deolize, a reclusive potions expert
 
 <figure><img src="../.gitbook/assets/Untitled (35) (1).png" alt=""><figcaption></figcaption></figure>
 
-This hub is your gateway to listing your items, exploring what others have available, and making purchases to enhance your gameplay. Listings, however, come with an expiration date, ensuring that the marketplace remains fresh and relevant.
+The Trading Hub is your go-to spot for listing items, browsing what others have to offer, and grabbing those must-have treasures to boost your game. But don’t wait too long—listings come with an expiration date to keep the marketplace fresh and buzzing with activity.
 
 
 
-Items available for sale are thoughtfully organized, with listings sorted by price for your convenience. This allows you to easily discover the best deals and valuable treasures that fit your budget. Whether you're looking to part ways with some of your in-game items or on a quest to find new ones, the _MARD Trading Hub_ is where it all happens.
+Items for sale are neatly organized, with listings sorted by price to make deal-hunting a breeze. Whether you’re ready to part ways with some items or hunting for new ones, the _MARD Trading Hub_ is where the action unfolds.
 
 
 
@@ -64,12 +64,13 @@ Items available for sale are thoughtfully organized, with listings sorted by pri
 
 <figure><img src="../.gitbook/assets/Listanitemforsaleintradinghub-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-1. **Visit the MARD Shop**: Start by accessing the MARD Shop within the game. You can find this in the game's expandable menu.
-2. **Navigate to Trading**: Once you're in the MARD Shop, look for the trading hub tab. This tab is where you'll find options for trading various items within the game. Click on the trading hub tab to proceed.
-3. **List Item**: Click on the "List" button located in the top right corner of the trading hub interface. This will initiate the process of listing an item for sale.
-4. **Select Your Item**: After clicking "List", from the available options in your inventory, select the specific item you want to list for sale. This could be any item that you own and are willing to sell to other players in the game.
-5. **Set Sale Details**: Once you've selected the item, choose the amount you want to sell and specify the price you want to sell it for. You'll also have the option to choose when you want your listing to expire, allowing you to control the duration of your item's availability on the market.
-6. **View Profit**: As you set the selling details, you'll be able to see how much profit you will make from this sale. This will help you make informed decisions about pricing and listing your item.
-7. **Confirm Listing**: Once you've set all the selling details and reviewed the potential profit, confirm your listing. This will finalize the process of listing your item for sale in the trading hub.
-8. **Finalize Sale**: If your item sells, you'll receive the proceeds in your in-game currency. If your item doesn't sell and the listing expires, it will be returned to you. You can retrieve expired items from your post box, ensuring you don't lose any inventory.
-9. **View Your Listings**: You can view your listings at any time by clicking on "My Listing" located in the top right corner of the trading hub interface. This allows you to keep track of the items you have listed for sale.
+1. **Visit the MARD Shop**: Start by accessing the <img src="../.gitbook/assets/Icon_MARD Shop (7).png" alt="" data-size="line"><mark style="color:orange;">**MARD Shop**</mark> through the game's expandable menu. It’s where all the trading begins.
+2. **Navigate to Trading**: Once inside the MARD Shop, head to the trading hub tab. This is your gateway to buying, selling, and browsing the marketplace.&#x20;
+3. **List Item**: Ready to sell? Click the "List" button in the top right corner of the trading hub. This kicks off the process of listing your item for sale.
+4. **Select Your Item**: Choose the item you want to part with from your inventory. It can be anything you own that you’re willing to sell to other players.
+5. **Set Sale Details**: Now, set the quantity and price for your item. You can even decide how long your listing stays active by choosing an expiration date.
+6. **View Profit**: As you enter your sale details, you’ll see a handy preview of your potential profit. This helps you make smart pricing choices for maximum returns.
+7. **Confirm Listing**: Happy with your listing? Hit "Confirm" to finalize it, and your item will officially be up for sale in the trading hub.
+8. **Finalize Sale**: If your item sells, the earnings will arrive in your post box, ready for you to collect. If the listing expires without a sale, your item will be returned safely to your post box—no inventory lost!
+9. **View Your Listings**: Want to check what you’ve got listed? Just click "My Listings" in the top right corner of the trading hub to keep an eye on your items.
+
