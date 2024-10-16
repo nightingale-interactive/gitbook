@@ -1,12 +1,12 @@
 # Betting On Sheep Races
 
-<figure><img src="../../.gitbook/assets/Bet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bet.png" alt=""><figcaption><p>Betting On Races</p></figcaption></figure>
 
-Ready to try your luck and test your instincts? Within Sheep Racing, Betting serves as the gateway to a deeper engagement with the races. Whether you're an experienced bettor or new to the concept, this section allows you to participate actively in the races.
+Confident in your picks, or just feeling adventurous? Betting in Sheep Racing cranks up the excitement and pulls you deeper into the action. From seasoned bettors to curious newcomers, there’s something for everyone to enjoy and plenty of chances to win big!
 
-##
 
-## Practice Runs
+
+## <img src="../../.gitbook/assets/icon_evolove.png" alt="" data-size="line"> Practice Runs
 
 Before the actual race, you have the option to watch a practice run, providing valuable insights into what to expect. For a single [Scope](../consumable-items.md), you can access this feature and view demo versions of races. Utilize this opportunity to familiarize yourself with the tracks, refine your skills, and adapt strategies to improve your racing proficiency.
 
