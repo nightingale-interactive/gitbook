@@ -49,4 +49,9 @@ Follow these steps to transform your adorable Lambkin into a fully-grown sheep:
 
 ### <img src="../../.gitbook/assets/tool_tip_icon.png" alt="" data-size="line"> Lambkin Transformation Probability
 
-Coming Soon...
+Curious about the odds of your Lambkin evolving into a particular sheep breed? While the transformation process is exciting, there’s a bit of mystery to it! To make things easier, we’ve compiled a detailed breakdown of the probabilities for each outcome.
+
+
+
+For those who love diving into the finer details, you can check out the full list of probabilities [**here**](https://ngit-interactive.notion.site/LAMBKIN-TRANSFORMATION-PROBABILITY-LIST-87c95ae05c0d4cd9a2a3d3a8b482b63e). This comprehensive list will walk you through all the possible transformations and their likelihood, giving you a clearer picture of what to expect as your Lambkin grows.
+
