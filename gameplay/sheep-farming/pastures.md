@@ -1,32 +1,37 @@
+---
+description: 'Updated: October 15, 2024'
+---
+
 # Pastures
 
 <figure><img src="../../.gitbook/assets/pasture (1).png" alt=""><figcaption></figcaption></figure>
 
-Pastures play a crucial role in providing a haven for your beloved sheep. These lush and vibrant enclosures serve as the home for your fluffy companions, and understanding the pastures is essential for any aspiring shepherd.
+Pastures are the heart of your sheep farm, providing a cozy home for your fluffy companions. Understanding how pastures work is key to becoming a successful shepherd in Meta-Land.
 
-##
 
-## Types Of Pastures
+
+## <img src="../../.gitbook/assets/ic_visit (1) (1).png" alt="" data-size="line"> Types Of Pastures
 
 <figure><img src="../../.gitbook/assets/Untitled (42).png" alt=""><figcaption></figcaption></figure>
 
 Within Meta-Land, there are two distinct pasture options to choose from, each offering its own unique experience and advantages.
 
-**Manual Pasture**
-
-Manual Pasture requires you to [<mark style="color:blue;">shear</mark>](sheep-care.md) your sheep manually. You'll need to keep a close eye on your flock, ensuring they are not overdue for shearing. Timely shearing is essential, as sheep will cease wool production if not sheared promptly.
-
-**Automatic Pasture**
-
-The [<mark style="color:blue;">Automatic Pasture</mark>](../../web-3.0/playing-sheepfarm-with-nfts.md), represents the future of sheep farming. In this innovative pasture, sheep enjoy automated shearing thanks to new technology. No more manual shearing! To determine if your pasture is an Automatic Pasture, simply look for the **Auto** Buff icon in the bottom left corner while you're in the pasture. You'll also find the Auto Pasture icon within the pasture list.
 
 
+There are two types of pastures to choose from, each offering its own set of perks:
 
-## Pasture Size and Capacity
+* <img src="../../.gitbook/assets/icon_land (2).png" alt="" data-size="line"> **Manual Pasture**: In this pasture, you’ll need to manually shear your sheep. Keep a close eye on them because if you don’t shear them on time, they’ll stop producing wool. It’s a hands-on experience, but rewarding for those who like to stay involved.
+* <img src="../../.gitbook/assets/icon_landAuto (1).png" alt="" data-size="line"> **Automatic Pasture**: Welcome to the future of sheep farming! In an [Automatic Pasture](../../web-3.0/playing-sheepfarm-with-nfts.md), your sheep are sheared automatically. Just look for the icon in the bottom left corner of your pasture to see if you're in an automatic setup. You can also see the <img src="../../.gitbook/assets/icon_leftUpper_landAuto (1) (1).png" alt="" data-size="line"> **Auto Pasture** icon in the pasture list.
+
+
+
+## <img src="../../.gitbook/assets/icon_land (1).png" alt="" data-size="line"> Pasture Size & Capacity
 
 <figure><img src="../../.gitbook/assets/pasture capacity (1).png" alt=""><figcaption></figcaption></figure>
 
-Pastures are classified into three groups based on their size, as shown in the table below. The size of a pasture refers to the number of tile units it occupies, while the capacity indicates the maximum number of sheep that can be accommodated in that pasture.
+Pastures come in three different sizes, and each size determines how many sheep you can house. The bigger the pasture, the more space for sheep—and for creative decorating!
+
+
 
 | Category | Pasture Size | Sheep Capacity |
 | -------- | ------------ | -------------- |
@@ -36,20 +41,21 @@ Pastures are classified into three groups based on their size, as shown in the t
 
 
 
-**Benefits of Larger Pastures**
+<img src="../../.gitbook/assets/Untitled (75) (1).png" alt="" data-size="line"> **Benefits of Larger Pastures**
 
-One of the key advantages of having larger pastures is the increased capacity for both sheep and decoration items. This means you can raise more sheep and unleash your creativity in decorating your farm. Larger pastures also allow you to form larger groups of compatible sheep, paving the way for the activation of powerful [<mark style="color:blue;">combo effects</mark>](../sheep/combination-effects/).
+With larger pastures, you’ll have room to raise more sheep and get more creative with decor. Bigger pastures also let you group more compatible sheep together, unlocking [**combo effects**](../sheep/combination-effects/) that boost your farm’s efficiency.
 
 
 
-**Decorate Strategically**
+<img src="../../.gitbook/assets/main_ui2_bt_decos (2).png" alt="" data-size="line"> **Decorate Strategically**
 
-When adorning your pastures with decoration items, it's essential to take the pasture's size into account. Small pastures can provide benefits to a maximum of three sheep with decorations, while large pastures can enhance the experience for up to five sheep simultaneously. If you possess unique decoration items with [<mark style="color:blue;">special effects</mark>](../decorations.md), strategically placing them on large pastures can amplify their impact, significantly increasing the efficiency and benefits of these items.
+When decorating your pastures, size matters. Small pastures can boost up to three sheep with decorations, while large pastures can enhance up to five. If you’ve got special decor items with [unique effects](../decorations.md), placing them strategically on larger pastures can maximize their impact, giving your farm a big boost.
 
 
 
 ### **Guide: Switching Between Pastures**
 
-1. **Locate Pasture Information Bar:** Look for the pasture information bar located at the bottom of the screen. This bar displays important details such as the pasture's name, ID, and sheep capacity.
-2. **Switching between Pastures:** If you own more than one pasture, you can effortlessly switch between them by clicking the left and right arrows positioned next to this information bar.
-3. **Access Pasture List:** The hamburger menu button located next to the information bar opens up your pasture list. Here, you can conveniently view all your pastures, along with essential details like sheep statuses, active combo effects, and more.
+1. **Locate Pasture Information Bar**: You’ll find the pasture information bar at the bottom of the screen. This shows details like the pasture’s name, ID, and capacity.
+2. **Switching Between Pastures**: If you’ve got more than one pasture, use the left and right arrows next to the information bar to switch between them.
+3. **Access Pasture List**: Click the hamburger menu next to the information bar to open the pasture list, where you can see all your pastures, their sheep, and any active combo effects.
+

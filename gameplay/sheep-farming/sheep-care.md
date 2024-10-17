@@ -73,7 +73,7 @@ Bonbons can be bought from <img src="../../.gitbook/assets/Icon_Item Shop (1).pn
 2. **Item Shop**: In the shop menu, head to the **Item Shop** tab (the first tab) and select <img src="../../.gitbook/assets/ic_sheep_food (3).png" alt="" data-size="line"> **Bonbon** for purchase. Stock is unlimited, so you can treat your sheep as much as you want—just make sure you can afford it!
 3. **Confirm Purchase**: Once you confirm, your shiny new bonbons will be added to your inventory, ready to keep those sheep energized and happy.
 4. **Seasonal Shop**: If you’ve got excess **Seasonal Beanz**, head over to the **Seasonal Shop** (the second tab) and exchange 2 <img src="../../.gitbook/assets/beanz_06 (1).png" alt="" data-size="line"> **Beanz** for 1 bonbon. Keep in mind, this stock is limited—so grab them while you can!
-5. **Confirm Purchase**: After confirming, your bonbons will be waiting in your <img src="../../.gitbook/assets/icon_stuff (1).png" alt="" data-size="line"> **inventory**.
+5. **Confirm Purchase**: After confirming, your bonbons will be waiting in your  <img src="../../.gitbook/assets/icon_stuff (1).png" alt="" data-size="line"> **inventory**.
 
 
 
@@ -101,7 +101,7 @@ Powered by AI, Sheep Chat gives you unique responses from each sheep’s perspec
 
 
 
-Not only is it a fun way to interact, but every 10th conversation might reward you with a little surprise! So keep the chats flowing, and see what goodies your sheep have in store.
+Not only is it a fun way to interact, but **every 10th conversation** might reward you with a little surprise! So keep the chats flowing, and see what goodies your sheep have in store.
 
 <figure><img src="../../.gitbook/assets/SheepChatandreward gif.gif" alt=""><figcaption><p>Sheep Chat Reward Drop</p></figcaption></figure>
 
