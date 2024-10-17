@@ -1,94 +1,107 @@
+---
+description: 'Updated: October 15, 2024'
+---
+
 # Sheep care
 
 <figure><img src="../../.gitbook/assets/img_clothes_line_completed copy (1).jpg" alt=""><figcaption></figcaption></figure>
 
-As a responsible shepherd, it's vital to look after your sheep's well-being. This means ensuring they have enough to eat, cleaning them after their adventures, and showering them with affection.
+As a responsible shepherd, keeping your sheep happy and healthy is the name of the game. From feeding and grooming to showing them some love, your fluffy friends depend on you to stay in tip-top shape.
 
-##
 
-## **Placing/Removing Sheep**
+
+## <img src="../../.gitbook/assets/ic_located.png" alt="" data-size="line"> **Placing/Removing Sheep**
+
+Managing your flock is as easy as it is fun!
 
 <figure><img src="../../.gitbook/assets/Addandremovesheep-gif.gif" alt=""><figcaption></figcaption></figure>
 
-During gameplay, you have the flexibility to add or remove sheep from your pasture as needed.
+* **Accessing Sheep**: Click the <img src="../../.gitbook/assets/ic_lamb (1).png" alt="" data-size="line"> **Sheep Collection** icon to view your woolly companions. Add or remove them with the buttons next to each sheep.
+* **Repositioning Sheep**: Hold down on a sheep for about 2 seconds, and then drag them wherever you like. Drop them on an interactive decor item, and watch them spring to life with activity!
+* **Removing Sheep**: Want to make room? Hit the <img src="../../.gitbook/assets/icon_remove.png" alt="" data-size="line"> **Remove Sheep** button in the bottom tray when you’ve selected a sheep, and they’ll happily take a break.
+* **Relocation Prompt**: Trying to move a sheep that’s already elsewhere? You’ll get a prompt asking if you want to relocate them, unless they’re locked into an event like a race.
 
-1. **Accessing Sheep:** Click on the _Sheep_ Collection icon located on the left side of the screen to access your Sheep Collection. Here, you can view all your sheep and add or remove them by clicking the respective buttons next to each sheep.
-2. **Repositioning Sheep:** To move around a sheep within your pasture during gameplay, click and hold down on the sheep for approximately 2 seconds. If you drag your sheep onto an interactive decoration item, they will instantly engage with it, making your pasture come alive with activity.
-3. **Removing Sheep:** To remove a sheep from your pasture, simply click the _Remove Sheep_ button located in the bottom tray that appears when the sheep is selected. The selected sheep will then be removed from the pasture.
-4. **Relocation Prompt:** If you attempt to add a sheep to a pasture where they are already placed elsewhere, you will receive a prompt asking if you want to relocate the sheep to the new location, if possible. Please note that sheep participating in specific activities, like races, are locked in place and cannot be removed from the respective activity until they have completed their task.
 
-##
 
-## **The Basics**
+## <img src="../../.gitbook/assets/ic_lamb (1) (2).png" alt="" data-size="line"> **The Basics**
+
+When you select a sheep, the **Sheep Care** panel appears, showing all the important details and options for taking care of your woolly companions. Here’s what you’ll see:
 
 <figure><img src="../../.gitbook/assets/Untitled (37).png" alt=""><figcaption></figcaption></figure>
 
-* The Sheep Care panel appears when you select a sheep, displaying its name, gender, and rarity.
-* Use left/right arrows or swipe to switch between sheep.
-* Available sheep care actions include: Training, Treats, Washing, Petting, Shearing, Autofeeding, and Remove Sheep.
-* The bar at the bottom of the panel provides a visual representation of your sheep's hunger level.
+* <img src="../../.gitbook/assets/ic_female.png" alt="" data-size="line"><img src="../../.gitbook/assets/icon_male.png" alt="" data-size="line"> **Identity:** Quickly check your sheep’s identity, gender, and rarity at a glance.
+* <img src="../../.gitbook/assets/btn_direction_available.png" alt="" data-size="line"> **Swipe / Click to Switch**: Easily swipe or use left/right arrows to toggle between sheep.
+* **Available Actions**:
+  * <img src="../../.gitbook/assets/icon_training.png" alt="" data-size="line"> **Training**: Build up your sheep’s skills for races and other activities.
+  * <img src="../../.gitbook/assets/ic_sheep_food.png" alt="" data-size="line"> **Treats**: Spoil them with bonbons to keep their energy up.
+  * <img src="../../.gitbook/assets/ic_sheep_cleaning.png" alt="" data-size="line"> **Washing**: Keep them clean and happy with regular washes.
+  * <img src="../../.gitbook/assets/ic_sheep_petting.png" alt="" data-size="line"> **Petting**: Show some affection and boost their mood!
+  * <img src="../../.gitbook/assets/ic_sheep_harvesting.png" alt="" data-size="line"> **Shearing**: Time to harvest that valuable wool—don’t let it go to waste!
+  * <img src="../../.gitbook/assets/ic_sheep_autofeeding.png" alt="" data-size="line"> **Autofeeding**: Enable this to make sure your sheep are always fed (but watch out for overindulgence).
+  * <img src="../../.gitbook/assets/icon_remove (1).png" alt="" data-size="line"> **Remove Sheep**: Take them out of the pasture when needed.
+* <img src="../../.gitbook/assets/ic_hunger.png" alt="" data-size="line"> **Hunger Bar**: A visual representation of how hungry your sheep are—keep them well-fed to maintain their energy!
 
-##
-
-## Sheep Grooming: Petting and Washing
-
-<figure><img src="../../.gitbook/assets/2024-01-29 17 24 33.png" alt=""><figcaption></figcaption></figure>
 
 
+## <img src="../../.gitbook/assets/ic_sheep_petting (1).png" alt="" data-size="line"> Sheep Grooming: Petting and Washing
 
-Your sheep thrive on regular grooming to feel loved and cared for. They will clearly notify you when it's time for a grooming session, either by needing a gentle pet or a thorough wash. Be attentive to their signals to ensure their well-being and happiness. While grooming your sheep, keep an eye out for the occasional surprise – sweet treats may randomly drop as an extra reward during the grooming process.
+<figure><img src="../../.gitbook/assets/2024-01-29 17 24 33.png" alt=""><figcaption><p>Reward Drop</p></figcaption></figure>
 
-##
+Sheep love a little pampering! When they’re ready for attention, they’ll let you know. Pet them, wash them, and maybe even score some sweet treat drops as a thank-you for your care.
 
-## Feeding Your Sheep
+
+
+## <img src="../../.gitbook/assets/ic_sheep_autofeeding (1).png" alt="" data-size="line"> Feeding Your Sheep
 
 <figure><img src="../../.gitbook/assets/2-1questill (1).jpg" alt=""><figcaption></figcaption></figure>
 
-These sheep have a unique preference – they crave sugar to power their high-energy races, and vegetables simply won't do. You can enable autofeeding, allowing the sheep to take care of their own meals, as long as there's enough food available. However, it's worth noting that giving them unrestricted access to sweet treats might lead to some overindulgence, so keep an eye on their intake to ensure you use your food supply wisely.
+These high-energy sheep prefer sugar over vegetables! You can enable autofeeding, allowing the sheep to take care of their own meals, as long as there's enough food available. Just watch their intake—they might overindulge if left unchecked.
 
 
 
-#### Acquiring Treats
+#### <img src="../../.gitbook/assets/ic_sheep_food (2).png" alt="" data-size="line"> Acquiring Treats
 
 <figure><img src="../../.gitbook/assets/Untitled (31) (1).png" alt=""><figcaption></figcaption></figure>
 
-You can acquire bonbons from [Kelly's item shop](../item-shop.md) for 10 Rainbow Beanz, getting you 50 treats, or exchange 2 Seasonal Beanz for 1 bonbon. They may also be occasionally found as random item drops in [Loot Lane](../racing-barn.md) or while grooming your sheep.
+Bonbons can be bought from <img src="../../.gitbook/assets/Icon_Item Shop (1).png" alt="" data-size="line"> [Kelly’s shop](../item-shop.md) for 10  <img src="../../.gitbook/assets/item_RB_1 (1).png" alt="" data-size="line"> Rainbow Beanz (50 treats) or traded for 2 <img src="../../.gitbook/assets/beanz_06 (2).png" alt="" data-size="line">Seasonal Beanz per bonbon. You might also find them as random drops in <img src="../../.gitbook/assets/Icon_Racing Barn (2).png" alt="" data-size="line"> [**Loot Lane**](../racing-barn.md) or during grooming.
 
 
 
 ### **Guide: Purchasing Sweet Treats**
 
-1. **Kelly's Shop:** Find Kelly's item shop in the expandable tray at the bottom right corner of the screen and click on it.
-2. **Item Shop:** In the shop menu, choose the _Item Shop_ tab (the first tab) and select Bonbon for purchase. This stock is unlimited, so you can buy as many as you can afford.
-3. **Confirm Purchase:** After confirming your purchase, you will find your bonbons in your inventory.
-4. **Seasonal Shop:** Alternatively, you can click on the _Seasonal Shop_ tab (the second tab) and exchange 2 Seasonal Beanz for 1 bonbon. Please note that this stock is limited.
-5. **Confirm Purchase:** After confirming your purchase in the Seasonal Shop, you will have your bonbons added to your inventory.
+1. **Kelly’s Shop**: Start by finding <img src="../../.gitbook/assets/Icon_Item Shop.png" alt="" data-size="line"> **Kelly’s item shop** in the expandable tray at the bottom right corner of your screen and give it a click.
+2. **Item Shop**: In the shop menu, head to the **Item Shop** tab (the first tab) and select <img src="../../.gitbook/assets/ic_sheep_food (3).png" alt="" data-size="line"> **Bonbon** for purchase. Stock is unlimited, so you can treat your sheep as much as you want—just make sure you can afford it!
+3. **Confirm Purchase**: Once you confirm, your shiny new bonbons will be added to your inventory, ready to keep those sheep energized and happy.
+4. **Seasonal Shop**: If you’ve got excess **Seasonal Beanz**, head over to the **Seasonal Shop** (the second tab) and exchange 2 <img src="../../.gitbook/assets/beanz_06 (1).png" alt="" data-size="line"> **Beanz** for 1 bonbon. Keep in mind, this stock is limited—so grab them while you can!
+5. **Confirm Purchase**: After confirming, your bonbons will be waiting in your <img src="../../.gitbook/assets/icon_stuff (1).png" alt="" data-size="line"> **inventory**.
 
 
 
-## **Wool & Shearing Sheep** <a href="#wool-and-shearing" id="wool-and-shearing"></a>
+## &#x20;<img src="../../.gitbook/assets/icon_mining (1).png" alt="" data-size="line"> **Wool & Shearing Sheep** <a href="#wool-and-shearing" id="wool-and-shearing"></a>
 
-Keeping those sheep well-groomed is your ticket to a plentiful wool supply. If you delay in shearing them, they'll hold off on producing more wool. Wool production time can be reduced by using functional decor items designed for this purpose or by activating [<mark style="color:blue;">combo effects</mark>](../sheep/combination-effects/) when you group together compatible sheep.
+Keeping your sheep well-groomed doesn’t just make them happy—it’s also the secret to a steady supply of valuable wool. If you delay shearing, your sheep will hold off on growing more wool until they’re trimmed, so don’t wait too long!
+
+* **Shearing Time**: Sheep will notify you when they're ready to be <img src="../../.gitbook/assets/ic_sheep_harvesting (1).png" alt="" data-size="line"> **sheared**, and [<mark style="color:blue;">certain pastures</mark>](pastures.md) come equipped with an automatic shearing feature, saving you from the chore of manually shearing your sheep. The wool from [<mark style="color:blue;">certain sheep</mark>](../../web-3.0/playing-sheepfarm-with-nfts.md) can be <mark style="color:blue;">sold</mark> for <img src="../../.gitbook/assets/icon_sell.png" alt="" data-size="line"> **MARD**. The rarer the sheep, the higher the wool’s worth!
+* **Speeding Things Up**: Want to cut down on waiting time? [Functional decor items](../decorations.md#available-functional-decor-items) can help reduce wool production time, and grouping compatible sheep together activates [combo effects](../sheep/combination-effects/) to speed things up even more.
+* **Automatic Shearing**: Some [pastures ](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/\~/changes/916/gameplay/sheep-farming/pastures)even come equipped with an automatic shearing feature, making it a breeze to keep the wool flowing without the manual effort.
+
+Keep your wool production going strong—it’s not only essential for keeping your sheep happy, but it’s also a great resource for **leveling up** your flock and making a tidy profit.
 
 
 
-Sheep will notify you when they're ready to be sheared, and [<mark style="color:blue;">certain pastures</mark>](pastures.md) come equipped with an automatic shearing feature, saving you from the chore of manually shearing your sheep. it's a valuable resource for levelling up your sheep, and the wool from [<mark style="color:blue;">certain sheep</mark>](../../web-3.0/playing-sheepfarm-with-nfts.md) can be <mark style="color:blue;">sold</mark> for extra profit. The rarer the sheep, the more valuable and potent their wool becomes.
-
-
-
-## Sheep Chat
+## <img src="../../.gitbook/assets/event_sheep (1).png" alt="" data-size="line"> Sheep Chat
 
 <figure><img src="../../.gitbook/assets/2024-01-17 17 29 01 (1).png" alt=""><figcaption></figcaption></figure>
 
-Discover the art of sheep whispering in an exciting way to connect with your flock. Sheep Chat lets you engage in meaningful conversations with your sheep, and for a small cost of _10 Rainbow Beanz_ per interaction, you can ask questions, share stories, and even uncover hidden secrets about your woolly companions.
+Unlock the art of sheep whispering with **Sheep Chat**, the perfect way to connect with your flock. For a small cost of 10 <img src="../../.gitbook/assets/item_RB_1 (1) (1).png" alt="" data-size="line"> **Rainbow Beanz**, you can ask your sheep anything—whether it’s about their day, their favorite snack, or even a secret or two.
 
 
 
-Powered by AI technology, Sheep Chat interprets your inputs and generates responses from your sheep's unique perspective. The chatbot is well-versed in all things sheep, from their behaviours to preferences, making interactions more engaging over time. While currently only available in English, the game has plans to support more languages in the future, broadening the horizons of communication with your BFFs (Best Fluffy Friends)!
+Powered by AI, Sheep Chat gives you unique responses from each sheep’s perspective. Over time, you’ll get to know their quirks, preferences, and maybe even a hidden talent! Right now, it’s available in English, but don’t worry—more languages are on the way to help you chat with your flock wherever you are.
 
 
 
-Not only is Sheep Chat a fun way to interact with your sheep, but it also offers a chance to get random bonus reward items every 10th interaction.
+Not only is it a fun way to interact, but every 10th conversation might reward you with a little surprise! So keep the chats flowing, and see what goodies your sheep have in store.
 
 <figure><img src="../../.gitbook/assets/SheepChatandreward gif.gif" alt=""><figcaption><p>Sheep Chat Reward Drop</p></figcaption></figure>
 
