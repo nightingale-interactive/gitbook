@@ -10,15 +10,15 @@ As a responsible shepherd, keeping your sheep happy and healthy is the name of t
 
 
 
-## <img src="../../.gitbook/assets/ic_located.png" alt="" data-size="line"> **Placing/Removing Sheep**
+## <img src="../../.gitbook/assets/ic_sheep_unlocating.png" alt="" data-size="line"> **Placing/Removing Sheep**
 
 Managing your flock is as easy as it is fun!
 
 <figure><img src="../../.gitbook/assets/Addandremovesheep-gif.gif" alt=""><figcaption></figcaption></figure>
 
-* **Accessing Sheep**: Click the <img src="../../.gitbook/assets/ic_lamb (1).png" alt="" data-size="line"> **Sheep Collection** icon to view your woolly companions. Add or remove them with the buttons next to each sheep.
+* **Accessing Sheep**: Click the <img src="../../.gitbook/assets/ic_lamb (1).png" alt="" data-size="line"> **Sheep Collection** icon to view your woolly companions. <img src="../../.gitbook/assets/ic_located.png" alt="" data-size="line"> **Add** or <img src="../../.gitbook/assets/icon_remove.png" alt="" data-size="line"> **remove** them with the buttons next to each sheep.
 * **Repositioning Sheep**: Hold down on a sheep for about 2 seconds, and then drag them wherever you like. Drop them on an interactive decor item, and watch them spring to life with activity!
-* **Removing Sheep**: Want to make room? Hit the <img src="../../.gitbook/assets/icon_remove.png" alt="" data-size="line"> **Remove Sheep** button in the bottom tray when you’ve selected a sheep, and they’ll happily take a break.
+* **Removing Sheep**: Want to make room? Hit the <img src="../../.gitbook/assets/icon_remove (1).png" alt="" data-size="line"> **Remove Sheep** button in the bottom tray when you’ve selected a sheep, and they’ll happily take a break.
 * **Relocation Prompt**: Trying to move a sheep that’s already elsewhere? You’ll get a prompt asking if you want to relocate them, unless they’re locked into an event like a race.
 
 
@@ -38,7 +38,7 @@ When you select a sheep, the **Sheep Care** panel appears, showing all the impor
   * <img src="../../.gitbook/assets/ic_sheep_petting.png" alt="" data-size="line"> **Petting**: Show some affection and boost their mood!
   * <img src="../../.gitbook/assets/ic_sheep_harvesting.png" alt="" data-size="line"> **Shearing**: Time to harvest that valuable wool—don’t let it go to waste!
   * <img src="../../.gitbook/assets/ic_sheep_autofeeding.png" alt="" data-size="line"> **Autofeeding**: Enable this to make sure your sheep are always fed (but watch out for overindulgence).
-  * <img src="../../.gitbook/assets/icon_remove (1).png" alt="" data-size="line"> **Remove Sheep**: Take them out of the pasture when needed.
+  * <img src="../../.gitbook/assets/icon_remove (1) (1).png" alt="" data-size="line"> **Remove Sheep**: Take them out of the pasture when needed.
 * <img src="../../.gitbook/assets/ic_hunger.png" alt="" data-size="line"> **Hunger Bar**: A visual representation of how hungry your sheep are—keep them well-fed to maintain their energy!
 
 

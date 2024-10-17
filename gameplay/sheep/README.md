@@ -1,14 +1,18 @@
+---
+description: 'Updated: October 15, 2024'
+---
+
 # Sheep
 
-In Meta-land, sheep are the heart and soul of your pastoral adventure, aspiring to become racing champions. These woolly contenders come in three rarities: **Normal**, <mark style="color:blue;">**Rare**</mark>, and <mark style="color:red;">**Epic**</mark>. As a shepherd, your role is to nurture and raise these ambitious sheep, leading them towards racing excellence. They thrive on your care, attention, and occasional sweet treats. Your dedication shapes their journey from ordinary to extraordinary.
+<figure><img src="../../.gitbook/assets/banner_080223_barn_sheep.png" alt=""><figcaption></figcaption></figure>
+
+In Meta-land, sheep are the soul of your pastoral adventure, each one aspiring to become a racing champion. These woolly contenders come in three distinct rarities: <img src="../../.gitbook/assets/icon_star (3).png" alt="" data-size="line"> **Normal**, <img src="../../.gitbook/assets/icon_star (4).png" alt="" data-size="line"><img src="../../.gitbook/assets/icon_star (6).png" alt="" data-size="line"> <mark style="color:blue;">**Rare**</mark>, and <img src="../../.gitbook/assets/icon_star (2).png" alt="" data-size="line"><img src="../../.gitbook/assets/icon_star (1).png" alt="" data-size="line"><img src="../../.gitbook/assets/icon_star.png" alt="" data-size="line"> <mark style="color:red;">**Epic**</mark>. As their shepherd, it’s your job to nurture and guide them on their journey toward racing greatness. With your care, attention, and a few sweet treats, your sheep will transform from humble contenders to extraordinary racers.
 
 ***
 
-##
+## <img src="../../.gitbook/assets/item3014__50p.png" alt="" data-size="line"> Sheep Collection
 
-## Sheep Collection
-
-A comprehensive compilation of all Sheep Breeds discovered within the realm of Meta-land to date:
+Here’s a comprehensive list of all the sheep breeds discovered in Meta-land so far:
 
 {% tabs %}
 {% tab title="Normal Sheep" %}
@@ -107,7 +111,7 @@ Regular ol' sheep that's all about keeping things simple.
 {% endtab %}
 
 {% tab title="Rare Sheep" %}
-Rarer sheep that stands out from the crowd.
+Rarer sheep that stand out from the crowd.
 
 | Image                                                                         | Name                           | Lambkin       |
 | ----------------------------------------------------------------------------- | ------------------------------ | ------------- |
@@ -181,7 +185,7 @@ Rarer sheep that stands out from the crowd.
 {% endtab %}
 
 {% tab title="Epic Sheep" %}
-Epic sheep that's the talk of the barn, making your pasture the place to be with its exceptional presence.
+Epic sheep that are the talk of the barn, making your pasture the place to be with their presence.
 
 | Image                                                                           | Name                      | Lambkin       |
 | ------------------------------------------------------------------------------- | ------------------------- | ------------- |

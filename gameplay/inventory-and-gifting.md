@@ -6,7 +6,7 @@ description: 'Updated: October 15, 2024'
 
 Your inventory serves as the treasure chest that holds all your possessions, from wool and consumable items to snacks for your sheep. It's where your valuable resources are safely stored, ready to be used as you progress on your shepherding journey.&#x20;
 
-## Gifting Inventory Items
+## <img src="../.gitbook/assets/5f4c3b921d8daa7492dfbd700521bfdb.png" alt="" data-size="line"> Gifting Inventory Items
 
 <figure><img src="../.gitbook/assets/Untitled (66).png" alt=""><figcaption></figcaption></figure>
 

@@ -22,7 +22,7 @@ Decor items are categorized based on their role on your farm:
 
 
 
-### Available Functional Decor Items:
+### &#x20;<img src="../.gitbook/assets/icon_house.png" alt="" data-size="line"> Available Functional Decor Items:
 
 | Image                                                                            | Name                        | Function     |
 | -------------------------------------------------------------------------------- | --------------------------- | ------------ |
