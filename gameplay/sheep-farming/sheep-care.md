@@ -33,9 +33,9 @@ When you select a sheep, the **Sheep Care** panel appears, showing all the impor
 * <img src="../../.gitbook/assets/btn_direction_available.png" alt="" data-size="line"> **Swipe / Click to Switch**: Easily swipe or use left/right arrows to toggle between sheep.
 * **Available Actions**:
   * <img src="../../.gitbook/assets/icon_training.png" alt="" data-size="line"> **Training**: Build up your sheep’s skills for races and other activities.
-  * <img src="../../.gitbook/assets/ic_sheep_food.png" alt="" data-size="line"> **Treats**: Spoil them with bonbons to keep their energy up.
+  * <img src="../../.gitbook/assets/ic_sheep_food (1).png" alt="" data-size="line"> **Treats**: Spoil them with bonbons to keep their energy up.
   * <img src="../../.gitbook/assets/ic_sheep_cleaning.png" alt="" data-size="line"> **Washing**: Keep them clean and happy with regular washes.
-  * <img src="../../.gitbook/assets/ic_sheep_petting.png" alt="" data-size="line"> **Petting**: Show some affection and boost their mood!
+  * <img src="../../.gitbook/assets/ic_sheep_petting (1).png" alt="" data-size="line"> **Petting**: Show some affection and boost their mood!
   * <img src="../../.gitbook/assets/ic_sheep_harvesting.png" alt="" data-size="line"> **Shearing**: Time to harvest that valuable wool—don’t let it go to waste!
   * <img src="../../.gitbook/assets/ic_sheep_autofeeding.png" alt="" data-size="line"> **Autofeeding**: Enable this to make sure your sheep are always fed (but watch out for overindulgence).
   * <img src="../../.gitbook/assets/icon_remove (1) (1).png" alt="" data-size="line"> **Remove Sheep**: Take them out of the pasture when needed.
@@ -43,7 +43,7 @@ When you select a sheep, the **Sheep Care** panel appears, showing all the impor
 
 
 
-## <img src="../../.gitbook/assets/ic_sheep_petting (1).png" alt="" data-size="line"> Sheep Grooming: Petting and Washing
+## <img src="../../.gitbook/assets/ic_sheep_petting (1) (1).png" alt="" data-size="line"> Sheep Grooming: Petting and Washing
 
 <figure><img src="../../.gitbook/assets/2024-01-29 17 24 33.png" alt=""><figcaption><p>Reward Drop</p></figcaption></figure>
 
