@@ -1,20 +1,22 @@
+---
+description: 'Updated: October 18, 2024'
+---
+
 # Combo Values
 
-## Effect Calculation
+## <img src="../../../.gitbook/assets/icon_add2.png" alt="" data-size="line"> Effect Calculation
 
-Determining the effectiveness of a combo relies on two factors: the number of components and their rarity. For instance, let's consider a scenario with 5 sheep on a large pasture (_Plain Red, Plain Orange, Plain Yellow, Plain Green, Plain Blue_). In this setup, your sheep can trigger various combo effects:
+The effectiveness of a combo depends on two main factors: the **number of components** and their **rarity**. Let’s take an example where you have 5 sheep on a large pasture—<mark style="color:red;">Plain Red</mark>, <mark style="color:orange;">Plain Orange</mark>, <mark style="color:yellow;">Plain Yellow</mark>, <mark style="color:green;">Plain Green</mark>, and <mark style="color:blue;">Plain Blue</mark>. With this group, you can trigger various combo effects, such as:
 
-* _"Somewhere over the rainbow 1"_ = 21.43%
-* "T_raffic lamb_" = 12.94%
-* "_Red light, Green light_" = 6.03%
+* <img src="../../../.gitbook/assets/(38)_somewhere_over_the_rainbow.png" alt="" data-size="line"> **Somewhere Over the Rainbow Lv.1** = 21.43%
+* <img src="../../../.gitbook/assets/(17)_traffic_lamb.png" alt="" data-size="line"> **Traffic Lamb** = 12.94%
+* <img src="../../../.gitbook/assets/(5)_red_light,_green_light.png" alt="" data-size="line"> **Red Light, Green Light** = 6.03%
 
-Combining these effects, your sheep on the sheep will produce wool 40.4% faster!  If you add <mark style="color:blue;">upgraded decor items</mark> to the pasture and your sheep already benefit from a 5% productivity boost from decor effects, then your sheep will produce 45.4% faster! &#x20;
+When combined, your sheep will be producing wool **40.4% faster**! Now, if you add upgraded decor that already provides a 5% productivity boost, your sheep will be cranking out wool **45.4% faster** overall!
+
+These combo effects work alongside other factors like <img src="../../../.gitbook/assets/icon_weather.png" alt="" data-size="line"> **weather** and <img src="../../../.gitbook/assets/main_ui2_bt_decos (2).png" alt="" data-size="line"> **decor** to speed up wool production. Each of these effects works independently without multiplying each other. Together, they create a productive environment for every sheep in your pasture!
 
 
-
-Combo effects, along with other factors like weather and decor, collectively influence wool production time on the pasture. These effects impact every sheep on the pasture and are independent of each other, without multiplication.
-
-###
 
 ## Available Combos & Their Values
 

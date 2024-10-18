@@ -63,7 +63,7 @@ These high-energy sheep prefer sugar over vegetables! You can enable autofeeding
 
 <figure><img src="../../.gitbook/assets/Untitled (31) (1).png" alt=""><figcaption></figcaption></figure>
 
-Bonbons can be bought from <img src="../../.gitbook/assets/Icon_Item Shop (1).png" alt="" data-size="line"> [Kelly’s shop](../item-shop.md) for 10  <img src="../../.gitbook/assets/item_RB_1 (1).png" alt="" data-size="line"> Rainbow Beanz (50 treats) or traded for 2 <img src="../../.gitbook/assets/beanz_06 (2).png" alt="" data-size="line">Seasonal Beanz per bonbon. You might also find them as random drops in <img src="../../.gitbook/assets/Icon_Racing Barn (2).png" alt="" data-size="line"> [**Loot Lane**](../racing-barn.md) or during grooming.
+Bonbons can be bought from <img src="../../.gitbook/assets/Icon_Item Shop (1).png" alt="" data-size="line"> [Kelly’s shop](../item-shop.md) for 10  <img src="../../.gitbook/assets/item_RB_1 (1) (2).png" alt="" data-size="line"> Rainbow Beanz (50 treats) or traded for 2 <img src="../../.gitbook/assets/beanz_06 (2) (1).png" alt="" data-size="line">Seasonal Beanz per bonbon. You might also find them as random drops in <img src="../../.gitbook/assets/Icon_Racing Barn (2).png" alt="" data-size="line"> [**Loot Lane**](../racing-barn.md) or during grooming.
 
 
 
@@ -72,8 +72,8 @@ Bonbons can be bought from <img src="../../.gitbook/assets/Icon_Item Shop (1).pn
 1. **Kelly’s Shop**: Start by finding <img src="../../.gitbook/assets/Icon_Item Shop.png" alt="" data-size="line"> **Kelly’s item shop** in the expandable tray at the bottom right corner of your screen and give it a click.
 2. **Item Shop**: In the shop menu, head to the **Item Shop** tab (the first tab) and select <img src="../../.gitbook/assets/ic_sheep_food (3).png" alt="" data-size="line"> **Bonbon** for purchase. Stock is unlimited, so you can treat your sheep as much as you want—just make sure you can afford it!
 3. **Confirm Purchase**: Once you confirm, your shiny new bonbons will be added to your inventory, ready to keep those sheep energized and happy.
-4. **Seasonal Shop**: If you’ve got excess **Seasonal Beanz**, head over to the **Seasonal Shop** (the second tab) and exchange 2 <img src="../../.gitbook/assets/beanz_06 (1).png" alt="" data-size="line"> **Beanz** for 1 bonbon. Keep in mind, this stock is limited—so grab them while you can!
-5. **Confirm Purchase**: After confirming, your bonbons will be waiting in your  <img src="../../.gitbook/assets/icon_stuff (1).png" alt="" data-size="line"> **inventory**.
+4. **Seasonal Shop**: If you’ve got excess **Seasonal Beanz**, head over to the **Seasonal Shop** (the second tab) and exchange 2 <img src="../../.gitbook/assets/beanz_06 (1) (1).png" alt="" data-size="line"> **Beanz** for 1 bonbon. Keep in mind, this stock is limited—so grab them while you can!
+5. **Confirm Purchase**: After confirming, your bonbons will be waiting in your  <img src="../../.gitbook/assets/icon_stuff (1) (1).png" alt="" data-size="line"> **inventory**.
 
 
 
@@ -93,7 +93,7 @@ Keep your wool production going strong—it’s not only essential for keeping y
 
 <figure><img src="../../.gitbook/assets/2024-01-17 17 29 01 (1).png" alt=""><figcaption></figcaption></figure>
 
-Unlock the art of sheep whispering with **Sheep Chat**, the perfect way to connect with your flock. For a small cost of 10 <img src="../../.gitbook/assets/item_RB_1 (1) (1).png" alt="" data-size="line"> **Rainbow Beanz**, you can ask your sheep anything—whether it’s about their day, their favorite snack, or even a secret or two.
+Unlock the art of sheep whispering with **Sheep Chat**, the perfect way to connect with your flock. For a small cost of 10 <img src="../../.gitbook/assets/item_RB_1 (1) (1) (1).png" alt="" data-size="line"> **Rainbow Beanz**, you can ask your sheep anything—whether it’s about their day, their favorite snack, or even a secret or two.
 
 
 

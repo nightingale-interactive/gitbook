@@ -40,7 +40,7 @@ At the Mard shop, Rainbow Beanz are available in two ways. You can opt for the s
 
 ## **Seasonal Beanz - Embrace the Seasonal Spirit**
 
-<figure><img src="../.gitbook/assets/beanz_06.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/beanz_06 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Seasonal Beanz are a unique and time-sensitive currency within the game. They provide access to exclusive seasonal items and decor in the shop, allowing players to embrace the spirit of each season. However, there's a catch – Seasonal Beanz expire at the end of every season, encouraging players to enjoy the special offerings while they last.
 

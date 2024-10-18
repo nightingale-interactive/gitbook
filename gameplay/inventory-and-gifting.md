@@ -20,14 +20,14 @@ _Currently, the only giftable items are_ <img src="../.gitbook/assets/Wool Bundl
 
 Here's a step-by-step guide on how to send a Wool Bundle gift to a friend:
 
-1. **Go to Your Inventory**: Open your inventory, accessible through the main menu or  designated inventory tab.
+1. **Go to Your Inventory**: Open your <img src="../.gitbook/assets/icon_stuff (1).png" alt="" data-size="line"> inventory.
 2. **Locate Wool Bundle**: Navigate to the "Miscellaneous Items" section or wherever Wool Bundles are stored. Select the Wool Bundle you wish to gift.
 3. **Access the Send Parcel Screen**: Click the post box button next to the Wool Bundle. This will take you to the send parcel screen, where you can prepare your gift.
 4. **Enter Recipient's Account Number**: On the send parcel screen, enter your friend’s account number or wallet address. Be sure to input the correct details to ensure a successful delivery.
 5. **Write a Thoughtful Message**: Add a personal message to accompany the gift. This could be a friendly note or greeting that makes the gesture even more special.
 6. **Confirm Sending Process**: After entering the recipient’s details and composing your message, click "Confirm" to send the Wool Bundle gift.
 7. **Parcel Delivery**: Once confirmed, the postman will handle the delivery. Depending on the in-game mechanics, delivery may take some time.
-8. **Recipient Receives Gift**: Your friend will find the Wool Bundle in their post box. They can collect it and enjoy the thoughtful gift you've sent.
+8. **Recipient Receives Gift**: Your friend will find the Wool Bundle in their <img src="../.gitbook/assets/ic_postbox (1).png" alt="" data-size="line"> post box. They can collect it and enjoy the thoughtful gift you've sent.
 
 
 

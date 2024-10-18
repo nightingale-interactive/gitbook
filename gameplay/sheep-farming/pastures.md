@@ -47,7 +47,7 @@ With larger pastures, you’ll have room to raise more sheep and get more creati
 
 
 
-<img src="../../.gitbook/assets/main_ui2_bt_decos (2).png" alt="" data-size="line"> **Decorate Strategically**
+<img src="../../.gitbook/assets/main_ui2_bt_decos (2) (1).png" alt="" data-size="line"> **Decorate Strategically**
 
 When decorating your pastures, size matters. Small pastures can boost up to three sheep with decorations, while large pastures can enhance up to five. If you’ve got special decor items with [unique effects](../decorations.md), placing them strategically on larger pastures can maximize their impact, giving your farm a big boost.
 

@@ -1,8 +1,8 @@
 ---
-description: Keep your sheep productive by grouping them together!
+description: 'Updated: October 18, 2024'
 ---
 
-# Klay Dragons
+# Klay Dragons Combos
 
 {% tabs %}
 {% tab title="Lv.1" %}

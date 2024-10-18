@@ -1,5 +1,5 @@
 ---
-description: Keep your sheep productive by grouping them together!
+description: 'Updated: October 18, 2024'
 ---
 
 # Combo List Season 3
