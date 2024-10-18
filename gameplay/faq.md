@@ -1,7 +1,5 @@
 ---
-description: >-
-  Welcome to the official FAQ page for Sheepfarm in Meta-Land!  Whether you're a
-  newcomer or a seasoned player, find all the information you need right here!
+description: 'Updated: October 18, 2024'
 coverY: 0
 layout:
   cover:
@@ -21,25 +19,29 @@ layout:
 
 # FAQ
 
+Welcome to the official FAQ page for **SheepFarm in Meta-Land!** Get all the details you need to start your sheep-farming adventure!
+
+
+
 ### **What is Sheepfarm: Raising 4 Racing?**
 
-**A:** Raising 4 Racing is a simulation and racing game that skillfully merges elements of both Web2 and Web3. Players can seamlessly engage with this innovative gaming platform via their PC or mobile devices. The primary objective is to collect adorable sheep, nurture them, and transform them into top-tier racing competitors. The game offers a diverse range of modes to cater to various player goals and gaming preferences. [More details](https://docs.google.com/presentation/d/1aDAfu\_OrLbfiX0k\_ZAN1vFI-De3UoIHJcFv9sEtPe6M/edit?usp=sharing)
+**A:** **SheepFarm: Raising 4 Racing** is a simulation and racing game that combines Web2 and Web3 elements. You can easily jump in on PC or mobile, collecting a flock of adorable sheep. Your mission? Turn these fluffy underdogs into racing champions. With a variety of modes to match different play styles, there’s plenty of room to explore and find your path to victory. [More details](https://docs.google.com/presentation/d/1aDAfu\_OrLbfiX0k\_ZAN1vFI-De3UoIHJcFv9sEtPe6M/edit?usp=sharing)&#x20;
 
 ### **How to play the game?**
 
-**A:** You can start playing the game on PC web or mobile app without any payment. If you are on a PC, simply click the "Play Game" button on the official website to access the game. You will need to install a Crypto Wallet in your browser for login. If you are on a mobile device, you can download the game from either the Google Play Store or Apple App Store and you can play without having a separate wallet.
+**A:** Getting started is easy. **SheepFarm: Raising 4 Racing** is free to play on PC or mobile. If you’re on a PC, head to the [**official website**](https://sheepfarm.io/) and click the **Play Game** button—just be sure you have a crypto wallet installed in your browser for login. On mobile? No problem! Download the game from the Google Play Store or Apple App Store, and you’re good to go. No wallet needed to get started.
 
 ### **Do I need to understand blockchain to play the game?**
 
-**A:** No, you don't need to know anything about blockchain to enjoy Sheepfarm: Raising 4 Racing. It's a mobile game that you can dive into just like any other without any prior blockchain knowledge. The Web3 features in Sheepfarm are entirely optional and won't impact your gameplay. However, if you're curious about exploring the additional Web3 features like minting game items as NFTs or trading with other users, we've got a handy [guidebook](broken-reference) to help you get started.
+**A:** Absolutely not! You don’t need any blockchain knowledge to enjoy **SheepFarm: Raising 4 Racing**. It plays just like any other mobile game, with **optional** Web3 features for those who want to dive deeper. Curious about minting NFTs or trading items? We’ve got [guides ](https://guide.sheepfarm.io/guide/web-3.0/playing-sheepfarm-with-nfts)to help you explore these extras, but they won’t affect your core gameplay.
 
 ### **Where can I find my NFTs?**
 
-**A:** If you are an explorer in the world of Web3, you can purchase Sheepfarm NFTs on NFT marketplaces like Opensea and use them in the game. If you already own NFTs, you can view your Sheepfarm NFTs by visiting the [inventory page](https://sheepfarm.io/inventory) and connecting your wallet.
+**A:** If you’re already exploring Web3, you can purchase **SheepFarm NFTs** on marketplaces like [**Opensea** ](https://opensea.io/collection/sheepfarm)and use them in the game. To view your NFTs, head to the [inventory page](https://sheepfarm.io/inventory) on our website and connect your wallet.
 
 ### **Can I transfer my progress to a new device?**
 
-**A:** Yes, you can effortlessly migrate your progress and items across various devices. If you're transitioning from playing the game on a PC Web platform to a mobile device, you can simply follow our step-by-step [guide](https://guide.sheepfarm.io/guide/gameplay/import-export-an-account)[ ](account-import-export.md)to export your game account. Similarly, if you're switching between mobile devices, you can utilize this feature on your old device to seamlessly continue your journey on the new one.
+**A:** Absolutely! Switching devices is a breeze. If you're moving from PC to mobile or between mobile devices, just follow our step-by-step [guide ](https://guide.sheepfarm.io/guide/gameplay/import-export-an-account)to export your account from one device and import it onto the other. You’ll be right back where you left off, with all your progress and items intact.
 
 ### I would like to discuss a partnership or collaboration with your project.
 
