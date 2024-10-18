@@ -2,32 +2,33 @@
 
 <figure><img src="../.gitbook/assets/2-4questill (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-Discover a range of missions, challenges, and achievements that put your shepherding skills to the test and reward your dedication. These features add depth and enrich your journey, offering valuable rewards along the way.
+Take on a variety of missions, challenges, and achievements that put your shepherding skills to the test, rewarding your dedication along the way. These features add depth to your journey, offering valuable rewards as you progress.
 
-##
 
-## **Seasonal Pass and Missions**
+
+## <img src="../.gitbook/assets/Seasonal Pass Icon (1).PNG" alt="" data-size="line"> **Seasonal Pass and Missions**
 
 <figure><img src="../.gitbook/assets/Untitled (50).png" alt=""><figcaption></figcaption></figure>
 
-In Sheepfarm, you have access to two distinct seasonal passes: the basic pass (free), provided by Katie, and the premium pass (paid), offered by Eddie. These passes open doors to various rewards and progression opportunities in the game.
+In **SheepFarm**, you’ve got access to two distinct seasonal passes: the **basic pass** (free), courtesy of Katie, and the <img src="../.gitbook/assets/Seasonal Pass Icon.PNG" alt="" data-size="line"> **premium pass** (paid), offered by Eddie. These passes open up doors to all kinds of rewards and progression opportunities throughout the season.
 
 
 
-To earn rewards and experience points to advance through the pass levels, complete daily and weekly missions. As you level up, you'll unlock rewards that can enhance your sheep farming journey.
+To level up, complete **daily and weekly missions** that reward you with experience points and goodies. As you progress through the pass levels, you’ll unlock rewards that help you get more out of your sheep-farming experience.
 
 
 
-Keep in mind that these passes are tied to seasons, so be sure to make the most of them before the season ends.
+Just remember, these passes are tied to the seasons, so don’t let them slip by before the next one rolls in!
 
-
-
-## **Challenges and Achievements**
+## <img src="../.gitbook/assets/main_UI3_bt_hot.png" alt="" data-size="line"> **Challenges and Achievements**
 
 <figure><img src="../.gitbook/assets/Untitled (51).png" alt=""><figcaption></figcaption></figure>
 
-Challenges and achievements put your shepherding skills to the test. These tasks range from one-time challenges to recurring duties that level up as you progress.
+
+
+Want to really test your skills? Challenges and achievements give you tasks to tackle, from one-time challenges to recurring duties that level up as you do.
 
 
 
-As you complete these challenges, you'll unlock increasingly valuable rewards, making your journey as a shepherd all the more rewarding. Once you conquer all the challenges and fulfil your duties, you'll reap the final rewards, marking a significant milestone in your Sheep-raising adventure!
+Each challenge you complete unlocks better rewards, and when you’ve tackled them all, you’ll earn final rewards that mark a major milestone in your shepherding adventure. It’s all about pushing yourself to see how far you can go!
+

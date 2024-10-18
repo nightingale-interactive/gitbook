@@ -20,7 +20,7 @@ In **SheepFarm in Meta-land**, currency is your key to unlocking all the best it
 
 The option to purchase Rainbow Beanz directly within the game is available only on mobile through in-app purchases. Here’s how:
 
-1. **Access Beanz Shop**: In the top right corner of your screen, click the <img src="../.gitbook/assets/icon_add2 (1).png" alt="" data-size="line"> plus button next to your Rainbow Beanz balance to open the Beanz Shop.
+1. **Access Beanz Shop**: In the top right corner of your screen, click the <img src="../.gitbook/assets/icon_add.png" alt="" data-size="line"> plus button next to your Rainbow Beanz balance to open the Beanz Shop.
 2. **Select Beanz**: In the first tab with an image of Rainbow Beanz, choose the amount you wish to buy.
 3. **App Store Confirmation**: You’ll be redirected to your device’s app store for confirmation.
 4. **Confirm Purchase**: Complete the purchase through the app store, and your new Rainbow Beanz balance will be updated.
@@ -56,7 +56,7 @@ You can earn Seasonal Beanz through rewards, achievements, and even **Beanz Bett
 
 If you need more Seasonal Beanz, you can exchange **Rainbow Beanz** for them in the Beanz Shop. Don’t forget, your first purchase each season gives you **double the value**!
 
-1. **Access Beanz Shop**: Click the plus button next to your Seasonal Beanz balance in the top right corner to enter the Beanz Shop.
+1. **Access Beanz Shop**: Click the <img src="../.gitbook/assets/icon_add (1).png" alt="" data-size="line"> plus button next to your Seasonal Beanz balance in the top right corner to enter the Beanz Shop.
 2. **Select Beanz**: On the second tab, featuring an image of Seasonal Beanz, choose the amount you’d like to buy.
 3. **App Store Confirmation**: You’ll be redirected to your app store for confirmation.
 4. **Confirm Purchase**: Complete the steps, and your Seasonal Beanz balance will update.
