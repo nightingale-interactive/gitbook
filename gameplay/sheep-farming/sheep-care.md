@@ -32,7 +32,7 @@ When you select a sheep, the **Sheep Care** panel appears, showing all the impor
 * <img src="../../.gitbook/assets/ic_female.png" alt="" data-size="line"><img src="../../.gitbook/assets/icon_male.png" alt="" data-size="line"> **Identity:** Quickly check your sheep’s identity, gender, and rarity at a glance.
 * <img src="../../.gitbook/assets/btn_direction_available.png" alt="" data-size="line"> **Swipe / Click to Switch**: Easily swipe or use left/right arrows to toggle between sheep.
 * **Available Actions**:
-  * <img src="../../.gitbook/assets/icon_training.png" alt="" data-size="line"> **Training**: Build up your sheep’s skills for races and other activities.
+  * <img src="../../.gitbook/assets/icon_training (1).png" alt="" data-size="line"> **Training**: Build up your sheep’s skills for races and other activities.
   * <img src="../../.gitbook/assets/ic_sheep_food (1).png" alt="" data-size="line"> **Treats**: Spoil them with bonbons to keep their energy up.
   * <img src="../../.gitbook/assets/ic_sheep_cleaning.png" alt="" data-size="line"> **Washing**: Keep them clean and happy with regular washes.
   * <img src="../../.gitbook/assets/ic_sheep_petting (1).png" alt="" data-size="line"> **Petting**: Show some affection and boost their mood!
@@ -93,7 +93,7 @@ Keep your wool production going strong—it’s not only essential for keeping y
 
 <figure><img src="../../.gitbook/assets/2024-01-17 17 29 01 (1).png" alt=""><figcaption></figcaption></figure>
 
-Unlock the art of sheep whispering with **Sheep Chat**, the perfect way to connect with your flock. For a small cost of 10 <img src="../../.gitbook/assets/item_RB_1 (1) (1) (1) (1).png" alt="" data-size="line"> **Rainbow Beanz**, you can ask your sheep anything—whether it’s about their day, their favorite snack, or even a secret or two.
+Unlock the art of sheep whispering with **Sheep Chat**, the perfect way to connect with your flock. For a small cost of 10 <img src="../../.gitbook/assets/item_RB_1 (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Rainbow Beanz**, you can ask your sheep anything—whether it’s about their day, their favorite snack, or even a secret or two.
 
 
 

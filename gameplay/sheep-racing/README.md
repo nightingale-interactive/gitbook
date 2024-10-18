@@ -84,7 +84,7 @@ When a sheep hits its maximum speed—known as <img src="../../.gitbook/assets/i
 
 
 
-### <img src="../../.gitbook/assets/icon_LvUp.png" alt="" data-size="line"> Overtaking
+### <img src="../../.gitbook/assets/icon_LvUp (1).png" alt="" data-size="line"> Overtaking
 
 <figure><img src="../../.gitbook/assets/overtaking (1).png" alt=""><figcaption></figcaption></figure>
 

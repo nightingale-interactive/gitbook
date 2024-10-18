@@ -20,7 +20,7 @@ The rarity of your sheep—whether **Normal**, <mark style="color:blue;">**Rare*
 
 
 
-#### <img src="../../.gitbook/assets/icon_training (1).png" alt="" data-size="line"> **Attributes:**
+#### <img src="../../.gitbook/assets/icon_training (1) (1).png" alt="" data-size="line"> **Attributes:**
 
 <table><thead><tr><th width="84" align="center">Icon</th><th width="122" align="center">Attribute</th><th>Description</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/icon_st_power_50x40 (1).png" alt="" data-size="line"></td><td align="center">Speed</td><td>How fast your sheep can sprint.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_stamina_250x250 (1).png" alt="" data-size="line"></td><td align="center">Stamina</td><td>How long they can maintain their pace.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_power_250x250 (1) (1).png" alt="" data-size="line"></td><td align="center">Power</td><td>Increases their chances of overtaking other sheep.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_balance_250x220 (1) (1).png" alt="" data-size="line"></td><td align="center">Balance</td><td>Helps sheep avoid stumbling or tripping during races.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/icon_st_spirit_250x250 (1) (1).png" alt="" data-size="line"></td><td align="center">Spirit</td><td>Boosts their drive and determination, especially in tough races.</td></tr></tbody></table>
 

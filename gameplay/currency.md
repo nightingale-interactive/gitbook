@@ -8,7 +8,7 @@ In **SheepFarm in Meta-land**, currency is your key to unlocking all the best it
 
 
 
-## <img src="../.gitbook/assets/item_RB_1 (1).png" alt="" data-size="line"> **Rainbow Beanz - A Shimmering Treasure**
+## <img src="../.gitbook/assets/item_RB_1 (1) (1).png" alt="" data-size="line"> **Rainbow Beanz - A Shimmering Treasure**
 
 <figure><img src="../.gitbook/assets/beanz_rainbow (1).png" alt="" width="375"><figcaption></figcaption></figure>
 

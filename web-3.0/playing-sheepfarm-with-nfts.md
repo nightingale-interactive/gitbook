@@ -1,63 +1,79 @@
+---
+description: 'Updated: October 18, 2024'
+---
+
 # Playing Sheepfarm with NFTs
 
-Playing with NFTs in the game opens up a world of possibilities. You can acquire NFTs, including pastures, sheep, and decorations, from platforms like [Opensea](https://opensea.io/collection/sheepfarm), Palasquare, Oasys, and [Tofu NFT](https://tofunft.com/collection/sheepfarm-in-meta-land/items) to enhance your in-game experience. These virtual assets can be seamlessly transferred between Meta-land and the real world via our [website](https://sheepfarm.io/).
+<figure><img src="../.gitbook/assets/money2_02.png" alt=""><figcaption></figcaption></figure>
+
+Playing with NFTs in the game opens up a world of possibilities. You can acquire NFTs like pastures, sheep, and decorations from platforms like [**Opensea** ](https://opensea.io/collection/sheepfarm)to enhance your in-game experience. These virtual assets can be seamlessly transferred between Meta-land and the real world via our [**website**](https://sheepfarm.io/).
 
 
 
-Accessing your collection of Sheepfarm NFTs is straightforward; simply connect your wallet to view them at the [inventory](https://sheepfarm.io/inventory) menu on the website. You can easily identify whether your in-game item is an NFT and on which network it is based by a small badge displayed as an indicator on the corner of the item when viewing it on the website.
+#### <img src="../.gitbook/assets/ic_racingList.png" alt="" data-size="line"> Accessing Your Collection
 
 <figure><img src="../.gitbook/assets/2024-01-22 16 19 58 (2).png" alt=""><figcaption></figcaption></figure>
 
-Playing with NFTs in the game brings tangible benefits. You can profit by [<mark style="color:blue;">selling the wool</mark>](playing-sheepfarm-with-nfts.md#selling-nft-sheep-wool) produced by your NFT sheep for [<mark style="color:blue;">MARD tokens</mark>](../gameplay/currency.md). You also have the flexibility to transfer your NFTs to other wallets or sell them on third-party marketplaces, where you have complete ownership of your items if you wish to part ways with them.
+Viewing your **SheepFarm NFTs** is simple—just connect your wallet to the [inventory ](https://sheepfarm.io/inventory)menu on the website. Any item that’s an NFT will have a small badge indicating its network, making it easy to spot which of your in-game treasures are NFTs.
 
 
 
-In an exciting new development, you can now [<mark style="color:blue;">mint non-NFT in-game items into NFTs</mark>](playing-sheepfarm-with-nfts/minting-nfts.md), offering exciting possibilities for your virtual assets. This feature is amazing for NFT collectors looking to enhance their in-game collections.
+#### <img src="../.gitbook/assets/icon_LvUp.png" alt="" data-size="line"> Benefits of Playing with NFTs
+
+NFTs bring real benefits to your farm. You can [**sell the wool**](playing-sheepfarm-with-nfts.md#selling-nft-sheep-wool) produced by your **NFT sheep** for <img src="../.gitbook/assets/ic_mard_big2 (2) (1).png" alt="" data-size="line"> [**MARD tokens**](../gameplay/currency.md#mard-tokens-the-currency-of-opulence), giving you a steady income. Plus, if you ever want to transfer your NFTs to another wallet or sell them on third-party marketplaces, you have complete ownership and flexibility over your items.
 
 
 
-##
+#### <img src="../.gitbook/assets/Icon_Minting Voucher EPIC (1).png" alt="" data-size="line"> Minting Non-NFT Items
 
-## Selling NFT Sheep Wool
-
-<figure><img src="../.gitbook/assets/2024-01-22 15 57 56.png" alt=""><figcaption></figcaption></figure>
-
-You have the option to sell the wool produced by your **NFT sheep** to Marge, a frequent visitor to sheep farms who actively seeks high-quality wool. The value of the wool is determined by the rarity of your sheep, with rarer sheep producing more valuable wool. Marge, a respected and skilled figure in Meta-land, is renowned for her fashion expertise. She possesses a unique talent for crafting stylish clothing using locally-sourced wool, and her passion for fashion and her commitment to supporting local shepherds contribute significantly to the enrichment of the sheep farming culture in the village.
-
-
-
-### **Guide: Sell the Wool of NFT Sheep**
-
-1. **Access Inventory:** In Sheep Farming mode, navigate to the right-hand side of your screen and access your inventory.
-2. **Locate Wool Tab:** Inside your inventory, click on the "Wool" tab.
-3. **Initiate Selling Process:** If you have sheep wool from NFT Sheep, you will find a "Sell" button next to it. Click on this button to start the process of selling wool to Marge.
-4. **Quantity:** Select the amount of wool you would like to sell. Confirm your choice.
-5. **Receive MARD Tokens:** Once confirmed, you will be credited with the corresponding amount in MARD, which will be added to your in-game MARD balance.
-
-
-
-## **Reveal Your NFT Sheep’s Attributes**
-
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
-
-Every sheep possesses its own distinct personality and [hidden attributes](../gameplay/sheep/attributes-and-training.md), waiting to be uncovered. Foster a deeper connection with your sheep as you unveil their unique characteristics.
-
-
-
-### Guide: Reveal NFT Sheep's Stats
-
-1. **Link Your Wallet**: Ensure that your wallet is linked on the game's [website](https://sheepfarm.io/). Locate and click the wallet button in the top right corner of the website. Follow the instructions to connect your wallet securely.
-2. **Visit Sheep Reveal Tab**: Navigate to the Reveal tab, which is located within the Racing menu of the game's website. Click on this tab to proceed.
-3. **Select Sheep**: Once you're on the Sheep Reveal page, click the "Select Sheep" button to choose the NFT sheep you want to reveal. This action will prompt you to select the specific sheep from your collection.
-4. **Confirm Reveal**: Confirm that you want to reveal the selected sheep. Keep in mind that the reveal process incurs a cost of 50 Rainbow Beanz. Ensure that you have sufficient Rainbow Beanz in your account before proceeding.
-5. **View Detailed Stats**: After confirming the reveal process, wait for it to complete. Once done, you'll have access to the detailed racing attributes/stats of your NFT sheep.&#x20;
-6. **Manage Revealed Sheep**: You will now be able to view a list of all sheep whose identities have been revealed. You can navigate through this list and view the stats of each revealed sheep. Additionally, you may filter your revealed sheep by clicking "My Reveal" or by searching for a token ID number.
+In an exciting new twist, you can now [mint your non-NFT in-game items into NFTs](playing-sheepfarm-with-nfts/minting-nfts.md), offering even more potential for building your collection. It’s a great feature for NFT collectors looking to expand and enhance their virtual assets.
 
 
 
 ***
 
+## <img src="../.gitbook/assets/gold6__50p.png" alt="" data-size="line"> Selling NFT Sheep Wool
+
+<figure><img src="../.gitbook/assets/2024-01-22 15 57 56.png" alt=""><figcaption></figcaption></figure>
+
+You can sell the wool produced by your _**NFT sheep**_ to **Marge**, a regular visitor to sheep farms who’s always on the hunt for high-quality wool. The rarity of your sheep determines the wool’s value—rarer sheep produce more valuable wool. Marge is a well-known figure in **Meta-land**, famous for her fashion expertise. She turns locally-sourced wool into stylish clothing and is deeply committed to supporting local shepherds, helping to enrich the sheep farming culture in the village.
+
+
+
+### **Guide: Selling the Wool of NFT Sheep**
+
+1. **Access Inventory**: While in Sheep Farming mode, navigate to the right-hand side of your screen to access your <img src="../.gitbook/assets/icon_stuff (2).png" alt="" data-size="line"> inventory.
+2. **Locate Wool Tab**: Inside your inventory, click on the <img src="../.gitbook/assets/img_wool_6100 (1).png" alt="" data-size="line"> **Wool** tab.
+3. **Initiate Selling Process**: If you have wool from NFT sheep, a <img src="../.gitbook/assets/icon_sell (1).png" alt="" data-size="line"> **Sell** button will appear next to it. Click it to begin selling your wool to Marge.
+4. **Select Quantity**: Choose the amount of wool you want to sell and confirm your choice.
+5. **Receive MARD Tokens**: Once confirmed, the MARD tokens from the sale will be added to your in-game balance.
+
+
+
+***
+
+## <img src="../.gitbook/assets/ic_search (1).png" alt="" data-size="line"> **Reveal Your NFT Sheep’s Attributes**
+
+<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+
+Every sheep has its own distinct personality and hidden [attributes](../gameplay/sheep/attributes-and-training.md), just waiting to be uncovered. Strengthen your connection with your sheep by revealing their unique characteristics and unlocking their potential.
+
+
+
+### Guide: Revealing NFT Sheep's Stats
+
+1. **Link Your Wallet**: Make sure your wallet is connected on the game's website. Click the wallet button in the top right corner and follow the prompts to securely connect your wallet.
+2. **Visit Sheep Reveal Tab**: Head over to the **Reveal** tab in the **Racing** menu on the website. Click to proceed.
+3. **Select Sheep**: On the **Sheep Reveal** page, click the **Select Sheep** button and choose the NFT sheep you want to reveal. You’ll be prompted to select from your collection.
+4. **Confirm Reveal**: Confirm the reveal process, which costs **50** <img src="../.gitbook/assets/item_RB_1 (1).png" alt="" data-size="line"> **Rainbow Beanz**. Ensure you have enough Rainbow Beanz before continuing.
+5. **View Detailed Stats**: Once the process is complete, you’ll be able to see your sheep’s detailed racing attributes and stats.
+6. **Manage Revealed Sheep**: You can now view all sheep whose stats have been revealed. Easily navigate through the list, filter by **My Reveal**, or search using a token ID number to view specific sheep.
+
+***
+
 ## Morphing NFT Sheep
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Sheep Morphing is an exclusive feature for Klaytn Network NFTs.** If you're eager to enhance your sheep's potential, try morphing! By combining two sheep of the same rarity, you have the chance to unlock a sheep of even higher rarity. Success is not guaranteed, but rest assured, it won't diminish the value of your sheep.
 

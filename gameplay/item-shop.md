@@ -14,7 +14,7 @@ The local shop offers a diverse range of goods, from unique items and rare treas
 
 ## <img src="../.gitbook/assets/Icon_Item Shop.png" alt="" data-size="line"> Kelly's Item Shop
 
-In the cozy atmosphere of Kelly’s Item Shop, you’ll find a warm welcome and a well-stocked inventory. Items can be purchased using <img src="../.gitbook/assets/item_RB_1 (1) (1) (1).png" alt="" data-size="line"> [<mark style="color:blue;">Rainbow Beanz</mark>](currency.md) or <img src="../.gitbook/assets/beanz_06 (1).png" alt="" data-size="line"> [<mark style="color:blue;">Seasonal Beanz</mark>](currency.md), with Katie enthusiastically handling all sheep-related transactions in town.
+In the cozy atmosphere of Kelly’s Item Shop, you’ll find a warm welcome and a well-stocked inventory. Items can be purchased using <img src="../.gitbook/assets/item_RB_1 (1) (1) (1) (1).png" alt="" data-size="line"> [<mark style="color:blue;">Rainbow Beanz</mark>](currency.md) or <img src="../.gitbook/assets/beanz_06 (1).png" alt="" data-size="line"> [<mark style="color:blue;">Seasonal Beanz</mark>](currency.md), with Katie enthusiastically handling all sheep-related transactions in town.
 
 
 
