@@ -6,7 +6,7 @@ description: 'Updated: October 15, 2024'
 
 <figure><img src="../.gitbook/assets/IMG_3612.PNG" alt=""><figcaption><p>MARD Shop - A Gateway to Luxury and Unique Finds</p></figcaption></figure>
 
-<img src="../.gitbook/assets/Icon_MARD Shop (1).png" alt="" data-size="line">Nestled in the heart of the Marmalade Kingdom, the MARD Shop is a haven of luxury and rare finds. Each item in the shop is meticulously selected for its quality and uniqueness, making it the perfect destination for those with impeccable taste. A one-of-a-kind shopping experience for those who appreciate the finer things.&#x20;
+<img src="../.gitbook/assets/Icon_MARD Shop (1) (1).png" alt="" data-size="line">Nestled in the heart of the Marmalade Kingdom, the MARD Shop is a haven of luxury and rare finds. Each item in the shop is meticulously selected for its quality and uniqueness, making it the perfect destination for those with impeccable taste. A one-of-a-kind shopping experience for those who appreciate the finer things.&#x20;
 
 
 

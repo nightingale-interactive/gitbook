@@ -4,7 +4,7 @@ description: 'Updated: October 18, 2024'
 
 # Combo Values
 
-## <img src="../../../.gitbook/assets/icon_add2.png" alt="" data-size="line"> Effect Calculation
+## <img src="../../../.gitbook/assets/icon_add2 (2).png" alt="" data-size="line"> Effect Calculation
 
 The effectiveness of a combo depends on two main factors: the **number of components** and their **rarity**. Let’s take an example where you have 5 sheep on a large pasture—<mark style="color:red;">Plain Red</mark>, <mark style="color:orange;">Plain Orange</mark>, <mark style="color:yellow;">Plain Yellow</mark>, <mark style="color:green;">Plain Green</mark>, and <mark style="color:blue;">Plain Blue</mark>. With this group, you can trigger various combo effects, such as:
 

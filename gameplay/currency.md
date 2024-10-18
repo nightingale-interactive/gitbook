@@ -1,81 +1,85 @@
+---
+description: 'Updated: October 18, 2024'
+---
+
 # Currency
 
-In the world of Sheep farming, various currencies play a vital role in shaping your farming experience. These in-game currencies open doors to a world of possibilities, allowing you to purchase items, enhance your sheep's well-being, or explore a realm of luxury. Understanding and utilizing these currencies wisely can greatly impact your success as a shepherd.
+In **SheepFarm in Meta-land**, currency is your key to unlocking all the best items, decor, and upgrades for your farm. From the colourful Rainbow Beanz to the luxurious MARD Tokens, here’s what you need to know about each currency.
 
-##
 
-## **Rainbow Beanz - A Shimmering Treasure**
+
+## <img src="../.gitbook/assets/item_RB_1 (1).png" alt="" data-size="line"> **Rainbow Beanz - A Shimmering Treasure**
 
 <figure><img src="../.gitbook/assets/beanz_rainbow (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Rainbow Beanz are a precious and sought-after currency in the game. While they are not as easy to obtain for free, they can still be acquired by various means, including in-app purchases, or by exchanging MARD Tokens on our official website. With Rainbow Beanz in your possession, you'll have access to exclusive and luxurious items, allowing you to easily enhance your sheep farming experience.
+**Rainbow Beanz** are a precious and highly sought-after currency in the game. They aren’t as easy to obtain for free, but they can be acquired through in-app purchases or by exchanging **MARD Tokens** on our official website. With Rainbow Beanz in your possession, you’ll unlock access to exclusive, luxurious items that can easily enhance your sheep farming experience.
 
 
 
-### **Guide: Purchasing RB (Mobile App)**
+### **Guide: Purchasing RB (Mobile Game)**
 
-Note that the option to directly purchase Rainbow Beanz within the game is exclusively available on mobile as an in-app purchase.
+The option to purchase Rainbow Beanz directly within the game is available only on mobile through in-app purchases. Here’s how:
 
-1. **Access Beanz Shop:** In the top right corner, click the plus button next to your Rainbow Beanz balance. This will take you to the Beanz shop.
-2. **Select Beanz:** On the first tab with an image of Rainbow Beanz, choose the amount you want to buy.
-3. **App Store Confirmation:** You will be redirected to your device's app store for purchase confirmation.
-4. **Confirm Purchase:** Confirm the purchase through your app store, and your Rainbow Beanz balance should reflect the new amount.
-
-
+1. **Access Beanz Shop**: In the top right corner of your screen, click the <img src="../.gitbook/assets/icon_add2 (1).png" alt="" data-size="line"> plus button next to your Rainbow Beanz balance to open the Beanz Shop.
+2. **Select Beanz**: In the first tab with an image of Rainbow Beanz, choose the amount you wish to buy.
+3. **App Store Confirmation**: You’ll be redirected to your device’s app store for confirmation.
+4. **Confirm Purchase**: Complete the purchase through the app store, and your new Rainbow Beanz balance will be updated.
 
 ### Guide: Purchasing RB (MARD Shop)
 
-At the Mard shop, Rainbow Beanz are available in two ways. You can opt for the straightforward purchase of 100 RB at a time. Alternatively, for the adventurous souls who like surprises, there's the choice of acquiring a Surprise RB Bag, which contains a random amount of Rainbow Beanz. Who knows? You might end up getting more than you paid for!
+In the <img src="../.gitbook/assets/Icon_MARD Shop.png" alt="" data-size="line"> **MARD Shop**, Rainbow Beanz are available in two ways. You can choose the straightforward option of buying 100 Rainbow Beanz at a time, or for those who like a little thrill, try the **Surprise RB Bag**, which contains a random amount of Rainbow Beanz. Who knows? You might end up getting more than you paid for!
 
 <figure><img src="../.gitbook/assets/Random Rainbow BEanz Icon.png" alt=""><figcaption></figcaption></figure>
 
-1. **Navigate to the MARD Shop**: Open the in-game tray and locate the MARD shop. Click on the shop icon to enter the MARD shop.
-2. **Find Desired Item**: Once inside the MARD shop, navigate to the first tab. Scroll left or right to browse through the available items until you find either the _Rainbow Beanz 100x_ or _Surprise RB Bag_.&#x20;
-3. **Initiate Purchase**: After locating the desired item, click on it to initiate the purchase process. This will bring up a detailed description of the item, including its price. Click the purchase button to proceed with the purchase.
-4. **Complete Purchase**: Follow the prompts to complete the purchase of the item. Once the purchase is confirmed, the Rainbow Beanz or Surprise RB Bag will be credited to your account.
+* **Navigate to the MARD Shop**: Open the in-game tray and find the <img src="../.gitbook/assets/Icon_MARD Shop (2).png" alt="" data-size="line"> **MARD Shop**. Click the shop icon to enter.
+* **Find Desired Item**: Browse through the first tab to find either **Rainbow Beanz 100x** or the **Surprise RB Bag**.
+* **Initiate Purchase**: Click on your chosen item to bring up its detailed description and price. Then click the purchase button.
+* **Complete Purchase**: Follow the prompts to finalize the purchase. Once confirmed, the Rainbow Beanz or Surprise RB Bag will be credited to your account.
 
 
 
 
 
-## **Seasonal Beanz - Embrace the Seasonal Spirit**
+## <img src="../.gitbook/assets/beanz_06.png" alt="" data-size="line"> **Seasonal Beanz - Embrace the Seasonal Spirit**
 
 <figure><img src="../.gitbook/assets/beanz_06 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Seasonal Beanz are a unique and time-sensitive currency within the game. They provide access to exclusive seasonal items and decor in the shop, allowing players to embrace the spirit of each season. However, there's a catch – Seasonal Beanz expire at the end of every season, encouraging players to enjoy the special offerings while they last.
+**Seasonal Beanz** are a versatile, time-sensitive currency in the game. They unlock access to exclusive seasonal items and decor, helping you celebrate the spirit of each season. But there’s a catch—Seasonal Beanz expire at the end of the season, so be sure to spend them before they disappear with the changing winds!
 
 
 
-These Beanz can be earned through various means, such as rewards, achievements, and even by participating in Beanz betting. So, make the most of each season by collecting and spending your Seasonal Beanz wisely before they disappear with the changing winds.
+You can earn Seasonal Beanz through rewards, achievements, and even **Beanz Betting**, so be strategic in how you collect and use them to make the most of each season.
 
 
 
 ### **Guide: Purchasing SB**
 
-If you need more Seasonal Beanz, visit the Beanz shop to exchange Rainbow Beanz for them. Don't forget, your first purchase each season gives you double the value!
+If you need more Seasonal Beanz, you can exchange **Rainbow Beanz** for them in the Beanz Shop. Don’t forget, your first purchase each season gives you **double the value**!
 
-1. **Access Beanz Shop:** In the top right corner, click the plus button next to your Seasonal Beanz balance. This will take you to the Beanz shop.
-2. **Select Beanz:** On the second tab with an image of Seasonal Beanz, choose the amount you want to buy.
-3. **App Store Confirmation:** You will be redirected to your device's app store for purchase confirmation.
-4. **Confirm Purchase:** Follow the provided steps to confirm your purchase and your Seasonal Beanz balance should reflect the new amount.
-
-
-
-## MARD Tokens - The Currency of Opulence
-
-<figure><img src="../.gitbook/assets/MARD.png" alt="" width="188"><figcaption></figcaption></figure>
-
-MARD Tokens are the currency of opulence within the game. Hailing from the luxurious Marmalade Kingdom, these tokens symbolize prosperity and refinement. They are a valuable resource used for various transactions within the[ <mark style="color:blue;">MARD Shop</mark>](mard-shop.md), where Lady Amberworth ensures that only the finest and most sophisticated items are available.
+1. **Access Beanz Shop**: Click the plus button next to your Seasonal Beanz balance in the top right corner to enter the Beanz Shop.
+2. **Select Beanz**: On the second tab, featuring an image of Seasonal Beanz, choose the amount you’d like to buy.
+3. **App Store Confirmation**: You’ll be redirected to your app store for confirmation.
+4. **Confirm Purchase**: Complete the steps, and your Seasonal Beanz balance will update.
 
 
 
-You can earn MARD Tokens through purchases, through in-game achievements, rewards, and by trying your luck in ticket betting, adding an exciting element of chance to your journey towards opulence. These tokens grant you access to a world of elegance, that will make your sheep farming experience a truly lavish experience.
+## <img src="../.gitbook/assets/ic_recieving.png" alt="" data-size="line"> MARD Tokens - The Currency of Opulence
+
+<figure><img src="../.gitbook/assets/MARD.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-**MARD Tokens come in two distinct forms:**
+**MARD Tokens** are the epitome of luxury in the game, hailing from the glamorous **Marmalade Kingdom**. These tokens symbolize prosperity and refinement, and they are your key to purchasing some of the most sophisticated items in the <img src="../.gitbook/assets/Icon_MARD Shop (3).png" alt="" data-size="line"> **MARD Shop**, carefully curated by Lady Amberworth herself.
 
-* **MARD in Game:** This currency is confined to the virtual realm of the game, enriching your in-game experience.
-* **MARD in Wallet:** This is the real-world counterpart, residing outside the game in your [<mark style="color:blue;">crypto wallet</mark>](../web-3.0/tokenomics.md). It represents a tangible asset with potential real-world value.
 
-Both forms of MARD Tokens offer unique opportunities and adventures, bridging the gap between the virtual and real worlds.
+
+You can earn MARD Tokens through in-game achievements, rewards, and even by trying your luck in **Ticket Betting**, adding an exciting element of chance to your journey toward opulence. These tokens grant you access to a world of elegance that elevates your sheep farming experience to truly lavish levels.
+
+#### MARD Tokens come in two forms:
+
+* **MARD in Game**: This form is used exclusively within the game to enrich your experience and purchase premium items.
+* **MARD in Wallet**: This is the real-world counterpart—a crypto token residing in your wallet, representing a tangible asset with potential real-world value.
+
+
+
+Together, these forms of MARD Tokens bridge the virtual and real worlds, offering you unique opportunities and adventures both in and outside the game.
