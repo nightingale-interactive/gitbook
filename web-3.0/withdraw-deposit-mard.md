@@ -1,10 +1,18 @@
+---
+description: 'Updated: October 18, 2024'
+---
+
 # Withdraw/Deposit MARD
 
-[MARD tokens](../gameplay/currency.md) are the lifeblood that flows through the Marmalade Kingdom, serving as invaluable and versatile assets within the game. As a shepherd, you'll quickly realize their significance, as they unlock a multitude of opportunities, from deposits to withdrawals and various in-game activities. Whether you're a seasoned shepherd or a newcomer, understanding MARD tokens is key to unlocking the full potential of your sheep farming experience.
+[**MARD Tokens**](../gameplay/currency.md) are the lifeblood of the **Marmalade Kingdom**, essential for unlocking a range of in-game opportunities. Managing your MARD Wallet is crucial for making deposits, withdrawing your earnings, and fueling your sheep farming experience.
 
-##
 
-## Purchasing MARD Tokens
+
+**MARD Tokens** are the lifeblood of the **Marmalade Kingdom**, the essential currency that fuels your journey as a shepherd. From unlocking special in-game activities to enabling trades and transactions, MARD tokens offer immense versatility. Knowing how to navigate the world of MARD deposits and withdrawals is key to enhancing your sheep farming experience.
+
+
+
+## <img src="../.gitbook/assets/icon_sell (1) (1).png" alt="" data-size="line"> Purchasing MARD Tokens
 
 **Guide: Acquire MARD Tokens through Decentralized Exchange (**[**Tealswap**](https://app.tealswap.com/en/swap/?chaintype=HOME\&tokentype=MARD)**):**
 
@@ -12,44 +20,42 @@
 
 If you want to obtain MARD tokens through a decentralized exchange, follow these steps:
 
-1. **Wallet Connection**: Make sure your wallet is connected.
-2. **Shop Menu**: Navigate to our website's [shop menu](https://sheepfarm.io/shop).
-3. **Tokens Tab**: Under the Tokens Tab, choose to purchase MARD tokens directly on Tealswap. This will redirect you to the Tealswap website for the transaction.
-4. **Exchange or Use a Credit Card**: You can exchange other tokens or use a credit card to acquire the desired amount of MARD tokens.
-5. **Complete Transaction**: Once the transaction is complete, the MARD tokens will be credited to your wallet address.
+1. **Wallet Connection**: Make sure your wallet is connected to the website before proceeding.
+2. **Access Shop Menu**: Navigate to the [**shop menu**](https://sheepfarm.io/shop) on our website.
+3. **Tokens Tab**: Under the **Tokens** tab, choose the option to purchase MARD tokens through <img src="../.gitbook/assets/1_jbarZPYQ8Rzv2_jdtP3UMw.png" alt="" data-size="line"> [**Tealswap**](https://app.tealswap.com/en/swap/?chaintype=HOME\&tokentype=MARD).&#x20;
+4. **Choose Payment Method**: On Tealswap, you can either exchange other tokens or use a credit card to get the <img src="../.gitbook/assets/ic_mard_big2 (2) (3).png" alt="" data-size="line"> **MARD tokens** you need.
+5. **Complete Transaction**: Once the transaction is finalized, the <img src="../.gitbook/assets/ic_mard_big2 (2) (4).png" alt="" data-size="line"> **MARD tokens** will be credited directly to your wallet address, ready for use in the game.
 
 
 
-
-
-## **Withdrawing MARD Tokens**
+## <img src="../.gitbook/assets/ic_recieving (2).png" alt="" data-size="line"> **Withdrawing MARD Tokens**
 
 **Guide: How To Withdraw MARD Tokens**
 
 If you wish to make a withdrawal of your MARD tokens from the game, simply follow these steps:
 
-1. **Access the Cash-Out Button**: Locate the cash-out button in-game positioned in the upper right corner of the screen, next to your MARD balance.
-2. **Input Withdrawal Amount**: A window will appear where you can input the amount you want to withdraw.
-3. **Initiate Transaction**: Once you've entered the desired withdrawal amount, click the "withdraw" button to initiate the transaction.
-
-_Please keep in mind that the minimum withdrawal amount for MARD tokens is 100 MARD._
+1. **Cash-Out**: Find the <img src="../.gitbook/assets/ic_withdraw (2).png" alt="" data-size="line"> **cash-out button**, conveniently located next to your MARD balance.
+2. **Input Withdrawal Amount**: A window will pop up, prompting you to enter the amount you’d like to withdraw.
+3. **Initiate Transaction**: After entering the amount, click the <img src="../.gitbook/assets/ic_withdraw (1).png" alt="" data-size="line"> **withdraw button** to start the transaction.
 
 
 
+**Note**: The minimum withdrawal amount is 100 MARD tokens, so be sure to meet that requirement before initiating the withdrawal.
 
 
-## Depositing MARD
+
+## <img src="../.gitbook/assets/Icon_ NEW Cheque.png" alt="" data-size="line"> Depositing MARD
 
 **Guide: Depositing MARD Tokens**
 
 <figure><img src="../.gitbook/assets/2024-01-22 17 20 26.png" alt=""><figcaption></figcaption></figure>
 
-To deposit MARD tokens from your crypto wallet into your game account, follow these simple steps:
+Need to top up your MARD tokens? Follow this quick guide to deposit MARD tokens from your crypto wallet into your game account:
 
-1. **Wallet Connection**: First, ensure that your crypto wallet is connected to the game.
-2. **Shop Menu**: Visit our website and access the [shop menu](https://sheepfarm.io/shop).
-3. **Tokens Tab**: Within the shop menu, navigate to the tokens tab.
-4. **Purchase a Cheque**: Choose the option to purchase a cheque issued by the _Bank of the Kingdom of Marmalade_ for the desired amount you want to deposit.
-5. **Complete the Transaction**: Follow the prompts to complete the transaction.
-6. **View Tokens**: After the transaction is complete, the purchased tokens will become visible in your in-game account.
+1. **Wallet Connection:** First, make sure your crypto wallet is connected to the game.
+2. **Access the Shop Menu:** Head over to our website and enter the [shop menu](https://sheepfarm.io/shop).
+3. **Tokens Tab**: In the shop menu, find and click the **Tokens** tab.
+4. **Purchase a Cheque**: Choose the option to purchase <img src="../.gitbook/assets/Icon_ NEW Cheque (1).png" alt="" data-size="line"> **a** **cheque** issued by the Bank of the Kingdom of Marmalade for the amount you want to deposit.
+5. **Complete the Transaction**: Follow the on-screen prompts to finalize the transaction.
+6. **View Tokens**: Once the transaction is complete, your newly deposited tokens will appear in your in-game account, ready to be used.
 
