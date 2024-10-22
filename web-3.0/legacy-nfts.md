@@ -1,33 +1,32 @@
 ---
-description: >-
-  Step into the vault of our game’s history with our legacy NFTs section where
-  you'll discover a curated collection of past treasures, including rare and
-  exclusive items no longer available.
+description: 'Updated: October 18, 2024'
 ---
 
 # Legacy NFTs
 
-##
+Look into the vault of our game’s history with **Legacy NFTs**, where you'll discover a curated collection of rare and exclusive items no longer available to new players. These tokens are a tribute to the early days of **Sheepfarm**, offering a glimpse into the past while providing special privileges for the future.
 
-## Aurora Boxes
+As a Legacy NFT holder, you unlock access to exclusive in-game content, events, and lasting perks that reflect your role in shaping the foundation of Meta-Land.
+
+
+
+## <img src="../.gitbook/assets/오로라.png" alt="" data-size="line"> [Aurora](https://auroragift.com/) Boxes
 
 <figure><img src="../.gitbook/assets/Aurora Box Gif.gif" alt="" width="150"><figcaption></figcaption></figure>
 
-The [Aurora Boxes](https://twitter.com/i/status/1531969828382449664), created in collaboration with [Crypto.com](https://crypto.com/nft/drops-event/0342ddc847e381f0c45f2dbb536df233?tab=info), were a unique offering available for a limited time on June 1st. Inside these special virtual boxes, you could find various virtual sheep, which could be converted into non-fungible tokens (NFTs) for use on the Klaytn network.
+The [**Aurora Boxes**](https://twitter.com/i/status/1531969828382449664), created in collaboration with [**Crypto.com**](https://crypto.com/nft/drops-event/0342ddc847e381f0c45f2dbb536df233?tab=info), were a special, limited-time offering released on June 1st. Inside each of these exclusive boxes were virtual sheep that could be minted as NFTs on the **Kaia network**.
 
 
 
-By acquiring NFTs from the Aurora Box, you had the opportunity to exchange them for virtual sheep within the Sheepfarm game, including sought-after sheep like [Splasheep and Prime Splasheep](https://twitter.com/i/status/1526831766316535808). Notably, ten out of the 100 Aurora Boxes could be redeemed for physical figurines provided by Aurora.
+By snagging an **Aurora Box**, players had the chance to unlock rare in-game sheep like the coveted <img src="../.gitbook/assets/186 (1) (1).png" alt="" data-size="line"> **Splasheep** and <img src="../.gitbook/assets/185 (1) (1).png" alt="" data-size="line"> **Prime Splasheep**. As if that wasn’t exciting enough, 10 out of the 100 boxes contained a golden ticket—a redeemable voucher for a physical figurine from [**Aurora**](https://auroragift.com/).
 
 
 
-All components of the Aurora Box, along with the box itself, were NFTs initially hosted on the **Cronos network**. However, they were eventually burned upon redemption, transforming into gaming NFTs compatible with the **Klaytn network**.
-
-
+Originally hosted on the [**Cronos network**](https://cronos.org/), the NFTs in each Aurora Box—along with the boxes themselves—were burned upon redemption, transforming into gaming NFTs ready for use on the [**Kaia network**](https://www.kaia.io/). These NFTs weren’t just collectibles—they became valuable assets within the game.
 
 ***
 
-## Red Envelopes
+## <img src="../.gitbook/assets/1_KhuAuEzsmhTPYPRA7oZPEA.png" alt="" data-size="line"> Red Envelopes
 
 <figure><img src="../.gitbook/assets/1_KhuAuEzsmhTPYPRA7oZPEA.webp" alt="" width="177"><figcaption></figcaption></figure>
 
@@ -41,7 +40,15 @@ These red envelopes contained vouchers for Marmalade Tokens (MARD), which could 
 
 The event featured a dynamic leaderboard that ranked participants based on the number of pastures they owned. This leaderboard was frequently refreshed and updated, with rewards generously distributed to the top 100 participants. The culmination of this event took place on February 7th, when participants reaped their well-deserved rewards.
 
+The **Red Envelopes** event, part of the [**Lunar New Year 2022**](https://sheepfarm.medium.com/may-fortune-favour-you-lunar-new-year-event-28e26ce197f5) celebration, offered players a fun way to earn rewards by inviting friends to join through referral codes. There were two ways to participate: the **Free Pass**, which allowed players to collect up to 9 red envelopes, and the **Shepherd's Pass**, which unlocked up to 28 red envelopes.
 
+
+
+Inside these red envelopes, players could find vouchers for <img src="../.gitbook/assets/ic_mard_big2 (2) (5).png" alt="" data-size="line"> **Marmalade Tokens (MARD)**, which became redeemable when the early access version of the game launched.
+
+
+
+The event also featured a dynamic **leaderboard**, ranking participants by the number of pastures they owned. This leaderboard was constantly updated, with rewards generously awarded to the top 100 players. The grand finale took place on **February 7th**, when participants received their well-earned prizes.
 
 ***
 
