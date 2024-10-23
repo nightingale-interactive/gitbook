@@ -82,33 +82,31 @@ Though Lucky Boxes are no longer available, they’ve left a lasting impression 
 
 ***
 
-## Rainbow Boxes
+## <img src="../.gitbook/assets/ic_rainbowbox03_01_2022.png" alt="" data-size="line"> Rainbow Boxes
 
 <figure><img src="../.gitbook/assets/1_SlkNWLlWX0OTjpodLEnpzw.webp" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1_EUYf9ocZUw6Bb2MGk2GPDA.webp" alt=""><figcaption></figcaption></figure>
 
-Rainbow boxes were special rewards that players could earn during a 50-day event (2022) by simply owning a pasture. There were seven different types of rainbow boxes, each corresponding to a colour of the rainbow. Each box had a chance of containing normal sheep NFTs matching its colour.
+<mark style="color:red;">**R**</mark><mark style="color:orange;">**a**</mark><mark style="color:yellow;">**i**</mark><mark style="color:green;">**n**</mark><mark style="color:blue;">**bo**</mark><mark style="color:purple;">**w**</mark>** Boxes** were a fun feature during a 50-day event in 2022, where owning a pasture earned you some colourful rewards. There were seven types of Rainbow Boxes, each linked to a colour of the rainbow, and inside, players had the chance to find sheep NFTs that matched the box's colour.
 
 
 
-Among these boxes, there was also a rare sheep NFT known as[ Rainbow Chantilly](../gameplay/sheep/). It was exclusively available during this event and couldn't be obtained in any other way. Only **seven** Rainbow Chantilly sheep were available in total, making them quite rare and valuable.
+The real highlight of the event was the <img src="../.gitbook/assets/209.png" alt="" data-size="line"> **Rainbow Chantilly** sheep NFT, an exclusive prize only available during this event. With just seven Rainbow Chantilly sheep ever released, they quickly became rare and sought after by collectors.
 
 
 
-The number of rainbow boxes a player could earn depended on how many pastures they owned. This event provided an excellent opportunity for players to diversify their virtual sheep collection with unique additions.
-
-
+The more pastures you had, the more Rainbow Boxes you could earn, offering a great way to expand your sheep collection with some vibrant new additions.
 
 ***
 
-## Redeemable NFTs
+## <img src="../.gitbook/assets/icon_complete (1).png" alt="" data-size="line"> Redeemable NFTs
 
 <figure><img src="../.gitbook/assets/Untitled (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Redeemable NFTs were special virtual items that players could exchange for physical toys or other real-world items. To redeem an NFT, players needed to complete a form and transfer the NFT to a dedicated wallet. Once the NFT was verified, the corresponding physical item would be manufactured and sent to the address provided in the application form.
+**Redeemable NFTs** were special virtual items that players could exchange for physical toys or other real-world collectibles. To redeem one, players would fill out a form and transfer the NFT to a specific wallet. Once the NFT was verified, the physical item would be created and shipped to the address provided.
 
 
 
-After the redemption process was complete, the NFT would be returned to the user. However, an NFT could only be redeemed once, and the "Redeemable" property of the NFT would change from TRUE to FALSE after redemption.
+After the process, the NFT was returned to the player, but it could only be redeemed once. Once redeemed, the _**Redeemable**_ status of the NFT would change from **TRUE** to **FALSE**, ensuring it couldn't be redeemed again.
 

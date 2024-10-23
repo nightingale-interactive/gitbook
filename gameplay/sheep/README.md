@@ -132,7 +132,7 @@ Rarer sheep that stand out from the crowd.
 | <img src="../../.gitbook/assets/197.png" alt="" data-size="original">         | Rebel Sheepster                | None          |
 | <img src="../../.gitbook/assets/196.png" alt="" data-size="original">         | Vogue Sheepster                | None          |
 | <img src="../../.gitbook/assets/198.png" alt="" data-size="original">         | Urban Sheepster                | None          |
-| <img src="../../.gitbook/assets/209.png" alt="" data-size="original">         | Rainbow Chantilly              | None          |
+| <img src="../../.gitbook/assets/209 (1).png" alt="" data-size="original">     | Rainbow Chantilly              | None          |
 | <img src="../../.gitbook/assets/213.png" alt="" data-size="original">         | Spiceberry Chantilly           | White/Rainbow |
 | <img src="../../.gitbook/assets/219.png" alt="" data-size="original">         | Meadowtail Chantilly           | White/Rainbow |
 | <img src="../../.gitbook/assets/221 (1).png" alt="" data-size="original">     | Tangerine Gummy Chantilly      | White/Rainbow |
