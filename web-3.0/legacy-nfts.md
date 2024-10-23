@@ -30,16 +30,6 @@ Originally hosted on the [**Cronos network**](https://cronos.org/), the NFTs in 
 
 <figure><img src="../.gitbook/assets/1_KhuAuEzsmhTPYPRA7oZPEA.webp" alt="" width="177"><figcaption></figcaption></figure>
 
-Red envelopes were part of a Lunar New Year event (2022) where players could earn rewards by inviting friends to join the event through a referral code. There were two participation levels: Free Pass and Shepherd's Pass. Free Pass holders could earn a maximum of 9 red envelopes, while Shepherd's Pass holders could earn a maximum of 28 red envelopes.
-
-
-
-These red envelopes contained vouchers for Marmalade Tokens (MARD), which could be redeemed once the early access version of a game was released.
-
-
-
-The event featured a dynamic leaderboard that ranked participants based on the number of pastures they owned. This leaderboard was frequently refreshed and updated, with rewards generously distributed to the top 100 participants. The culmination of this event took place on February 7th, when participants reaped their well-deserved rewards.
-
 The **Red Envelopes** event, part of the [**Lunar New Year 2022**](https://sheepfarm.medium.com/may-fortune-favour-you-lunar-new-year-event-28e26ce197f5) celebration, offered players a fun way to earn rewards by inviting friends to join through referral codes. There were two ways to participate: the **Free Pass**, which allowed players to collect up to 9 red envelopes, and the **Shepherd's Pass**, which unlocked up to 28 red envelopes.
 
 
