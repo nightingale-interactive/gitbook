@@ -42,53 +42,43 @@ The event also featured a dynamic **leaderboard**, ranking participants by the n
 
 ***
 
-## MARD Boxes
+## <img src="../.gitbook/assets/ic_mard-box00_03_2022 (1).png" alt="" data-size="line"> MARD Boxes
 
 <figure><img src="../.gitbook/assets/ic_mard-box00_03_2022.png" alt=""><figcaption></figcaption></figure>
 
-MARD Boxes were mystery boxes that contained a random NFT, which could include virtual sheep, auto-cleaning decorations, or auto-petting decorations. These items were designed to assist players in caring for their virtual sheep within the game. However, there was also a possibility that a MARD Box might contain _no items at all_.
+The **MARD Boxes** were mystery boxes filled with potential treasures like virtual sheep, auto-cleaning decorations, or auto-petting decorations—handy tools for keeping your flock in tip-top shape. But not every box was a winner; some could leave you empty-handed!
 
 
 
-MARD Boxes were available for purchase on various online marketplaces, with some exclusive offerings on the SheepFarm online marketplace, known as _Mard-ket,_ that has since been discontinued. The pricing of MARD Boxes varied depending on the specific marketplace or promotional events.
-
-
+Available for purchase across several online marketplaces, MARD Boxes added some excitement to the game for a while. While they were also offered on our now-discontinued online marketplace, **Mard-ket**, exclusive deals were occasionally available there. Pricing for these boxes varied based on the marketplace or special promotions.
 
 ***
 
-## Christmas Boxes
+## <img src="../.gitbook/assets/ic_christmasbox01_12_2021 (1).png" alt="" data-size="line"> Christmas Boxes
 
 <figure><img src="../.gitbook/assets/1_kyEBV3ixJhdfFv9MGgPJ2w.webp" alt="" width="452"><figcaption></figcaption></figure>
 
-Christmas Boxes were a festive feature during a special Christmas event that ran from December 20th to December 24th (2021). These boxes came in three distinct types, each containing 1 rare and 258 normal virtual sheep.
+The **Christmas Boxes** brought holiday cheer during a special event from December 20th to December 24th, 2021. These festive boxes came in three varieties, each packed with virtual sheep—1 rare and 258 normal, to be exact.
 
 
 
-Participants in the event could earn more Xmas boxes by sharing their referral codes with friends and encouraging others to use those codes. When someone utilized a referral code, both the sharer and the user received an additional gift box as a reward. There was no set limit on the number of boxes one could acquire, but there was a restriction on the number of sheep obtainable.
-
-
-
-This event provided a delightful way for players to boost their virtual sheep collection and revel in the holiday spirit during the festive season.
-
-
+Players had the chance to earn more Xmas boxes by sharing their referral codes with friends. Every time a code was used, both the referrer and the new player received an extra gift box as a holiday bonus. While there wasn’t a cap on how many boxes you could collect, the number of sheep up for grabs was limited. It was a fun, festive way to grow your flock and spread some holiday joy!
 
 ***
 
-## Lucky Boxes
+## <img src="../.gitbook/assets/ic_luckbox3rd_04_2022 (1) (1).png" alt="" data-size="line"> Lucky Boxes
 
 <figure><img src="../.gitbook/assets/ic_luckbox3rd_04_2022 (1).png" alt=""><figcaption></figcaption></figure>
 
-Lucky Boxes were a fun way for collectors to discover surprises. Inside each box were seven different items, like cute sheep and decorations, all randomly picked to make each unboxing unique.
+**Lucky Boxes** were an exciting way for collectors to get a surprise bundle of goodies. Each box held _seven_ items, including cute sheep and decorations, all randomly selected to make every unboxing an adventure.
 
 
 
-There were different types of Lucky Boxes, each with its own price and mix of goodies. Every Lucky Box came with at least one adorable sheep. Some items were common, while others were more rare and exciting to uncover.
-
-&#x20;
-
-Even though they're not around anymore, Lucky Boxes are still remembered fondly by our NFT collectors. They showed how digital collectibles could be enjoyable and sparked new ideas in the hobby.
+There were several types of Lucky Boxes, each offering a different price point and mix of treasures. But no matter which one you grabbed, you were guaranteed at least one adorable sheep. Some items were common finds, while others were rare gems that made the discovery even more thrilling.
 
 
+
+Though Lucky Boxes are no longer available, they’ve left a lasting impression on our NFT collectors. They showed just how fun digital collectibles could be and inspired new ways to enjoy the hobby.
 
 ***
 
