@@ -22,10 +22,10 @@ In sheep racing, the weather can make all the difference. Thanks to our DAO serv
 
 Weather conditions directly impact your sheep’s performance:
 
-* <img src="../.gitbook/assets/ic_left_upper_weather_1clear.png" alt="" data-size="line"> **Sunny**: +10% Speed
-* <img src="../.gitbook/assets/icon_leftUpper_weather_4rainy (1).png" alt="" data-size="line"> **Rainy**: +10% Stamina & Balance
-* <img src="../.gitbook/assets/ic_left_upper_weather_5snowy (1).png" alt="" data-size="line"> **Snowy**: +10% Power & Spirit
-* <img src="../.gitbook/assets/ic_left_upper_weather_3thunderstorm (1).png" alt="" data-size="line"> **Stormy**: +6% Boost to All Stats
+* <img src="../.gitbook/assets/ic_left_upper_weather_1clear.png" alt="" data-size="line"> **Sunny**: +12% Speed, +12% Spirit
+* <img src="../.gitbook/assets/icon_leftUpper_weather_4rainy (1).png" alt="" data-size="line"> **Rainy**: -10% Speed, +20% Balance
+* <img src="../.gitbook/assets/ic_left_upper_weather_5snowy (1).png" alt="" data-size="line"> **Snowy**: -10% Stamina, +30% Power
+* <img src="../.gitbook/assets/ic_left_upper_weather_3thunderstorm (1).png" alt="" data-size="line"> **Stormy**: -16% Speed, -16% Balance, +24% Spirit
 
 
 
