@@ -88,7 +88,7 @@ Though Lucky Boxes are no longer available, they’ve left a lasting impression 
 
 <figure><img src="../.gitbook/assets/1_EUYf9ocZUw6Bb2MGk2GPDA.webp" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**R**</mark><mark style="color:orange;">**a**</mark><mark style="color:yellow;">**i**</mark><mark style="color:green;">**n**</mark><mark style="color:blue;">**bo**</mark><mark style="color:purple;">**w**</mark>** Boxes** were a fun feature during a 50-day event in 2022, where owning a pasture earned you some colourful rewards. There were seven types of Rainbow Boxes, each linked to a colour of the rainbow, and inside, players had the chance to find sheep NFTs that matched the box's colour.
+<mark style="color:red;">**R**</mark><mark style="color:orange;">**a**</mark><mark style="color:yellow;">**i**</mark><mark style="color:green;">**n**</mark><mark style="color:blue;">**bo**</mark><mark style="color:purple;">**w**</mark>**&#x20;Boxes** were a fun feature during a 50-day event in 2022, where owning a pasture earned you some colourful rewards. There were seven types of Rainbow Boxes, each linked to a colour of the rainbow, and inside, players had the chance to find sheep NFTs that matched the box's colour.
 
 
 

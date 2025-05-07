@@ -4,7 +4,7 @@ description: 'Updated: October 18, 2024'
 
 # A Shepherd's Beginnings
 
-<figure><img src="../.gitbook/assets/IMG_4587.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/A Shep Beginnings NEW (2).png" alt=""><figcaption></figcaption></figure>
 
 **A Shepherd's Beginnings** is your go-to feature for getting a solid start on your journey as a shepherd, all while making the most of your first 100 days in the game. Welcome to the beginning of your sheep-raising adventure!
 

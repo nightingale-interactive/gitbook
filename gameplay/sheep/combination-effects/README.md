@@ -23,11 +23,11 @@ In sheep farming, **combo effects** can make all the difference. The combination
 Here’s everything you need to know to activate these effects:
 
 * **One Combo Per Pasture**: Each combo can only be activated once within a single pasture. Example:&#x20;
-  * Plain White 1 + Plain White 2 = **Ordinary Couple **<mark style="color:green;">**(Activated)**</mark>
-  * Plain White 3 + Plain White 4 = **Ordinary Couple **<mark style="color:red;">**(Cannot be activated again)**</mark>
+  * Plain White 1 + Plain White 2 = **Ordinary Couple&#x20;**<mark style="color:green;">**(Activated)**</mark>
+  * Plain White 3 + Plain White 4 = **Ordinary Couple&#x20;**<mark style="color:red;">**(Cannot be activated again)**</mark>
 * **Upgradeable Combos**: Some combos can be activated at higher levels with more sheep of the same type. Example:
   * &#x20;Pink Baa-jama Lamb + Pink Baa-jama Lamb = **Counting Sheep (Lv.1)**
-  * Pink Baa-jama Lamb + Pink Baa-jama Lamb + Pink Baa-jama Lamb = **Counting Sheep (Lv.2) **<mark style="color:blue;">**(Upgradeable)**</mark>
+  * Pink Baa-jama Lamb + Pink Baa-jama Lamb + Pink Baa-jama Lamb = **Counting Sheep (Lv.2)&#x20;**<mark style="color:blue;">**(Upgradeable)**</mark>
 
 
 
