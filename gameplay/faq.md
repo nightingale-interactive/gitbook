@@ -1,20 +1,6 @@
 ---
 description: 'Updated: October 18, 2024'
 coverY: 0
-layout:
-  cover:
-    visible: false
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # FAQ
@@ -25,7 +11,7 @@ Welcome to the official FAQ page for **SheepFarm in Meta-Land!** Get all the det
 
 ### **What is Sheepfarm: Raising 4 Racing?**
 
-**A:** **SheepFarm: Raising 4 Racing** is a simulation and racing game that combines Web2 and Web3 elements. You can easily jump in on PC or mobile, collecting a flock of adorable sheep. Your mission? Turn these fluffy underdogs into racing champions. With a variety of modes to match different play styles, there’s plenty of room to explore and find your path to victory. [More details](https://docs.google.com/presentation/d/1aDAfu\_OrLbfiX0k\_ZAN1vFI-De3UoIHJcFv9sEtPe6M/edit?usp=sharing)&#x20;
+**A:** **SheepFarm: Raising 4 Racing** is a simulation and racing game that combines Web2 and Web3 elements. You can easily jump in on PC or mobile, collecting a flock of adorable sheep. Your mission? Turn these fluffy underdogs into racing champions. With a variety of modes to match different play styles, there’s plenty of room to explore and find your path to victory. [More details](https://docs.google.com/presentation/d/1aDAfu_OrLbfiX0k_ZAN1vFI-De3UoIHJcFv9sEtPe6M/edit?usp=sharing)&#x20;
 
 ### **How to play the game?**
 
