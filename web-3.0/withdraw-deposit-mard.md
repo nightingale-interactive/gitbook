@@ -14,17 +14,7 @@ description: 'Updated: October 18, 2024'
 
 ## <img src="../.gitbook/assets/icon_sell (1) (1).png" alt="" data-size="line"> Purchasing MARD Tokens
 
-**Guide: Acquire MARD Tokens through Decentralized Exchange (**[**Tealswap**](https://app.tealswap.com/en/swap/?chaintype=HOME\&tokentype=MARD)**):**
-
-<figure><img src="../.gitbook/assets/2024-01-22 17 20 26.png" alt=""><figcaption></figcaption></figure>
-
-If you want to obtain MARD tokens through a decentralized exchange, follow these steps:
-
-1. **Wallet Connection**: Make sure your wallet is connected to the website before proceeding.
-2. **Access Shop Menu**: Navigate to the [**shop menu**](https://sheepfarm.io/shop) on our website.
-3. **Tokens Tab**: Under the **Tokens** tab, choose the option to purchase MARD tokens through <img src="../.gitbook/assets/1_jbarZPYQ8Rzv2_jdtP3UMw.png" alt="" data-size="line"> [**Tealswap**](https://app.tealswap.com/en/swap/?chaintype=HOME\&tokentype=MARD).&#x20;
-4. **Choose Payment Method**: On Tealswap, you can either exchange other tokens or use a credit card to get the <img src="../.gitbook/assets/ic_mard_big2 (2) (3).png" alt="" data-size="line"> **MARD tokens** you need.
-5. **Complete Transaction**: Once the transaction is finalized, the <img src="../.gitbook/assets/ic_mard_big2 (2) (4).png" alt="" data-size="line"> **MARD tokens** will be credited directly to your wallet address, ready for use in the game.
+**Temporarily Unavailable**
 
 
 

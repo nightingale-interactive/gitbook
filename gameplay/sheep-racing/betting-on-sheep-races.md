@@ -47,7 +47,7 @@ Use special betting tickets for a shot at winning <img src="../../.gitbook/asset
 
 ### Guide: Buying Tickets
 
-Here’s how to purchase tickets using MARD on the [<mark style="color:blue;">Kaia Network</mark>](https://www.kaia.io/):
+Here’s how to purchase tickets using MARD:
 
 <figure><img src="../../.gitbook/assets/BuyBettingTicket-gif.gif" alt=""><figcaption><p>Purchasing Betting Tickets</p></figcaption></figure>
 

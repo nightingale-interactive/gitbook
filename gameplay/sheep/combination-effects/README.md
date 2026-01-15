@@ -6,10 +6,6 @@ description: 'Updated: October 18, 2024'
 
 <figure><img src="../../../.gitbook/assets/IMG_3615.PNG" alt=""><figcaption><p>Active Combo Effect Icon</p></figcaption></figure>
 
-<img src="../../../.gitbook/assets/icon_info (3).png" alt="" data-size="line"> **Note**: Combo effects are currently only available for **NFT sheep** on the <img src="../../../.gitbook/assets/download.png" alt="" data-size="line"> [Kaia network](https://www.kaia.io/).
-
-
-
 Sheep are naturally social animals, and they thrive in the company of their fellow woolly friends. Separating a sheep from its flock can lead to agitation, but grouping them together keeps them happy—and unlocks powerful combo effects!
 
 

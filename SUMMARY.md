@@ -54,3 +54,9 @@
 * [Telegram](https://t.me/sheepmeta)
 * [X (Twitter)](https://twitter.com/SheepFarmMeta)
 * [Instagram](https://www.instagram.com/sheepfarminmeta/)
+
+***
+
+* [\_Legacy](_legacy/README.md)
+  * [Removed Networks & Minting](_legacy/removed-networks-and-minting.md)
+  * [Removed Gameplay Features](_legacy/removed-gameplay-features.md)
