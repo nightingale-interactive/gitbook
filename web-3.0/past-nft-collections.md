@@ -1,12 +1,14 @@
 ---
-description: 'Updated: October 18, 2024'
+description: '_Last reviewed: Jan 2026_'
 ---
 
-# Legacy NFTs
+# Past NFT Collections
 
-Look into the vault of our game’s history with **Legacy NFTs**, where you'll discover a curated collection of rare and exclusive items no longer available to new players. These tokens are a tribute to the early days of **Sheepfarm**, offering a glimpse into the past while providing special privileges for the future.
+**Explore earlier chapters of our journey through Sheepfarm’s past NFT collections.**
 
-As a Legacy NFT holder, you unlock access to exclusive in-game content, events, and lasting perks that reflect your role in shaping the foundation of Meta-Land.
+**These NFTs are no longer obtainable, but they represent important milestones in our game’s history — from early collaborations to limited-time events that helped shape Meta-land as it exists today.**
+
+**Some of these NFTs may still provide in-game utility or special recognition for their holders, reflecting their role in supporting our game during its early stages.**
 
 
 

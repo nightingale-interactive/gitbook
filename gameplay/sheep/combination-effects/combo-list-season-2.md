@@ -1,5 +1,5 @@
 ---
-description: 'Updated: October 18, 2024'
+description: '_Last reviewed: Jan 2026_'
 ---
 
 # Combo List Season 2
@@ -14,6 +14,6 @@ description: 'Updated: October 18, 2024'
 {% endtab %}
 
 {% tab title="4x Combo" %}
-![](../../../.gitbook/assets/combolistx4\_season2.jpg)
+![](../../../.gitbook/assets/combolistx4_season2.jpg)
 {% endtab %}
 {% endtabs %}

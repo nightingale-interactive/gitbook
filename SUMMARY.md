@@ -38,7 +38,7 @@
   * [Minting NFTs](web-3.0/playing-sheepfarm-with-nfts/minting-nfts.md)
 * [Withdraw/Deposit MARD](web-3.0/withdraw-deposit-mard.md)
 * [Sheepfarm DAO](web-3.0/sheepfarm-dao.md)
-* [Legacy NFTs](web-3.0/legacy-nfts.md)
+* [Past NFT Collections](web-3.0/past-nft-collections.md)
 * [Tokenomics](web-3.0/tokenomics.md)
   * [MARD](web-3.0/tokenomics/mard.md)
   * [NGIT](web-3.0/tokenomics/ngit/README.md)

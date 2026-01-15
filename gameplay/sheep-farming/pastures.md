@@ -1,5 +1,5 @@
 ---
-description: 'Updated: October 15, 2024'
+description: '_Last reviewed: Jan 2026_'
 ---
 
 # Pastures

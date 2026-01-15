@@ -1,3 +1,7 @@
+---
+description: '_Last reviewed: Jan 2026_'
+---
+
 # Betting On Sheep Races
 
 <figure><img src="../../.gitbook/assets/Bet.png" alt=""><figcaption><p>Betting On Races</p></figcaption></figure>

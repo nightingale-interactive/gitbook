@@ -1,5 +1,5 @@
 ---
-description: 'Updated: October 18, 2024'
+description: '_Last reviewed: Jan 2026_'
 ---
 
 # Real-world & Meta-land

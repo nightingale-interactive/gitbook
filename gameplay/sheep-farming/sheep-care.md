@@ -1,5 +1,5 @@
 ---
-description: 'Updated: October 15, 2024'
+description: '_Last reviewed: Jan 2026_'
 ---
 
 # Sheep care
@@ -83,7 +83,7 @@ Keeping your sheep well-groomed doesn’t just make them happy—it’s also the
 
 * **Shearing Time**: Sheep will notify you when they're ready to be <img src="../../.gitbook/assets/ic_sheep_harvesting (1).png" alt="" data-size="line"> **sheared**, and [<mark style="color:blue;">certain pastures</mark>](pastures.md) come equipped with an automatic shearing feature, saving you from the chore of manually shearing your sheep. The wool from [<mark style="color:blue;">certain sheep</mark>](../../web-3.0/playing-sheepfarm-with-nfts.md) can be <mark style="color:blue;">sold</mark> for <img src="../../.gitbook/assets/icon_sell.png" alt="" data-size="line"> **MARD**. The rarer the sheep, the higher the wool’s worth!
 * **Speeding Things Up**: Want to cut down on waiting time? [Functional decor items](../decorations.md#available-functional-decor-items) can help reduce wool production time, and grouping compatible sheep together activates [combo effects](../sheep/combination-effects/) to speed things up even more.
-* **Automatic Shearing**: Some [pastures ](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/\~/changes/916/gameplay/sheep-farming/pastures)even come equipped with an automatic shearing feature, making it a breeze to keep the wool flowing without the manual effort.
+* **Automatic Shearing**: Some [pastures ](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/~/changes/916/gameplay/sheep-farming/pastures)even come equipped with an automatic shearing feature, making it a breeze to keep the wool flowing without the manual effort.
 
 Keep your wool production going strong—it’s not only essential for keeping your sheep happy, but it’s also a great resource for **leveling up** your flock and making a tidy profit.
 

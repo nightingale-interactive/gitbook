@@ -1,5 +1,5 @@
 ---
-description: 'Updated: October 15, 2024'
+description: '_Last reviewed: Jan 2026_'
 ---
 
 # Sheep Racing
@@ -16,7 +16,7 @@ Whether you're an ambitious [<mark style="color:blue;">bettor</mark>](betting-on
 
 Keeping tabs on your sheep’s stats is easy. Head to the website’s racing menu and check the **Statistics** tab for details like race earnings and total races entered or won. All players' sheep are shown by default, but you can focus on your own by using the **“my sheep”** filter if your wallet is connected. Not connected? No worries—you can still search using your sheep’s unique token ID. Just remember, sheep will only appear in the **Statistics** menu after participating in at least one _Beanz Race_ or _Ticket Race_. Arena Races are tracked separately.
 
-You also have a say in race dynamics. You can cast your <img src="../../.gitbook/assets/icon_weather (1).png" alt="" data-size="line"> [<mark style="color:blue;">vote for the weather</mark>](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/\~/changes/841/web-3.0/sheepfarm-dao) conditions that will prevail during the races, adding an strategic aspect to the competitions.&#x20;
+You also have a say in race dynamics. You can cast your <img src="../../.gitbook/assets/icon_weather (1).png" alt="" data-size="line"> [<mark style="color:blue;">vote for the weather</mark>](https://app.gitbook.com/o/tXSKWduEctYxhdLiAwNA/s/yQKSV2lZmE3mGWQ30WzA/~/changes/841/web-3.0/sheepfarm-dao) conditions that will prevail during the races, adding an strategic aspect to the competitions.&#x20;
 
 
 
