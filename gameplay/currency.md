@@ -73,7 +73,12 @@ If you need more Seasonal Beanz, you can exchange **Rainbow Beanz** for them in 
 
 
 
-You can earn MARD Tokens through in-game achievements, rewards, and even by trying your luck in **Ticket Betting**, adding an exciting element of chance to your journey toward opulence. These tokens grant you access to a world of elegance that elevates your sheep farming experience to truly lavish levels.
+You can earn MARD Tokens through:
+
+* **selling wool** from your NFT sheep
+* in-game achievements
+* rewards
+* **Ticket Betting**
 
 #### MARD Tokens come in two forms:
 

@@ -8,7 +8,14 @@ A **Decentralized Autonomous Organization (DAO)** is a system designed to decent
 
 
 
-In **Sheepfarm**, the DAO will play an essential role in shaping the future of the game. Shepherds and players alike will have the opportunity to propose and vote on key changes, from game updates to community-driven events. It’s a new frontier of collaboration where every voice counts.
+In **Sheepfarm**, the DAO will play an essential role in shaping the future of the game. Shepherds and players alike will have the opportunity to vote on key changes to the game. We're starting with **Weather Voting**, and expanding from there.
+
+## ETC
+
+* \[ ] Wool Bundle
+* \[ ] Add Outstanding gifs
+* \[ ] Add outstanding guides
+* \[ ] Random Rainbow Beanz probability
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,5 +38,5 @@ Weather conditions directly impact your sheep’s performance:
 
 To cast your vote for the ideal racing weather, head to the [**DAO menu**](https://sheepfarm.io/vote) on our website. There, you’ll find active polls for upcoming races. You can track the total votes for each weather condition, view your voting history, and make strategic choices that could change the course of your race.
 
-**Pro tip**: You’ll need <img src="../.gitbook/assets/vNGIT (1).png" alt="" data-size="line"> **vNGIT** (our voting token) to cast your vote. So make sure you're stocked up to have your say!&#x20;
+**Pro tip**: You’ll need <img src="../.gitbook/assets/vNGIT (1).png" alt="" data-size="line"> **vNGIT** (our voting token) to cast your vote and vNGIT is earned, not bought. Provide liquidity to the NGIT–MARD pool on QuickSwap and you'll receive vNGIT every Monday. See [vNGIT](https://app.notion.com/p/tokenomics/ngit/vngit.md) for the full mechanism.
 
